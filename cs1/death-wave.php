@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Death Wave Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Death Wave Cities Skylines</h2>
 
 <p>
@@ -48,13 +51,17 @@ Quote from my <a href="stories-2022-08-19-green-peaks.php">Stories 2022-08-19 Gr
 You need crematoriums everywhere, building is a building, I had several people dying in COMMERCIAL zone soon after its grand opening, so dying and dead persons piling up is not only a residential zone problem.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Cities Skylines 1 root page</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

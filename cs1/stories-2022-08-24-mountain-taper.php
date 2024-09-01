@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Stories 2022-08-24 Mountain Taper Game-play Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Stories 2022-08-24 Mountain Taper Game-play</h2>
 
 <p>
@@ -724,13 +727,17 @@ That is it, this savegame was very enjoyable, will be blast to return to this so
 2022-08-25T23:40:00Z Saved game and shutdown Cities Skylines, we are done here.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="stories.php">PMC Cities Skylines 1 Stories</a>, <a href="index.php">PMC Cities Skylines 1 Index</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

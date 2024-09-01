@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Mod Traffic Manager: President Edition Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mod Traffic Manager: President Edition</h2>
 
 <p>
@@ -28,13 +31,17 @@ Traffic Manager: President Edition by Krzychu1245. <a href="https://steamcommuni
 This addon is all about traffic, mostly roads. You can setup traffic lights, road speed limits, lane usage, vehicle restrictions or "bans", etc.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="mods.php">PMC Cities Skylines Addons / Mods page</a>, <a href="index.php">PMC Cities Skylines root page</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

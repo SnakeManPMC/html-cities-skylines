@@ -13,16 +13,19 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
-
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Cities Skylines - PMC Tactical</h1>
 
 <p>
 Welcome to PMC website for Cities Skylines. When playing Cities Skylines and learning new things I started to write down information for my local notes, but then realized that this is good guide / tutorial info why not publish them so everyone can benefit. However this website was never meant to be a big mainstream site and many things here is written pretty much as my own notes, so now you know why is it if something is odd.
 </p>
+
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Guides and Information</h2>
 
 <p>
@@ -72,12 +75,16 @@ Welcome to PMC website for Cities Skylines. When playing Cities Skylines and lea
 <a href="traffic-jam.php">Traffic Jam</a><br>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="../index.php">PMC Cities Skylines root page</a></p>
 <p><i>PMC PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

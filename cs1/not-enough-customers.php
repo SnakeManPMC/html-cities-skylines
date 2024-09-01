@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Not Enough Customers Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Not Enough Customers Cities Skylines</h2>
 
 <p>
@@ -36,13 +39,17 @@ Customers might not be able to reach commercial zone, traffic jams and lack of p
 Create <a href="bus.php">bus</a> line and <a href="metro.php">metro</a> line from residential areas to your commercial areas where you get "not enough customers" icon floating above building(s). Usually a good metro line does wonders for people visiting the commercial area.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC Cities Skylines 1 root page</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

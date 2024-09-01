@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Mod Lifecycle Rebalanced Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mod Lifecycle Rebalanced</h2>
 
 <p>
@@ -32,13 +35,17 @@ This addon prevents <a href="death-wave.php">death wave</a>.
 Check ESC menu options and life cycle rebalanced mod setting: there is percentage chance of specific residential and age groups taking car, bike or taxi, the chance for adult to take a car in low density residential by default is SIXTY (60) percent.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="mods.php">PMC Cities Skylines Addons / Mods page</a>, <a href="index.php">PMC Cities Skylines root page</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

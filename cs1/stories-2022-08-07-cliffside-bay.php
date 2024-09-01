@@ -13,11 +13,14 @@
 <body>
 
 <header>
-<?php include("../../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 	<h1>Stories 2022-08-07 Cliffside Bay Cities Skylines - PMC Tactical</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Stories 2022-08-07 Cliffside Bay</h2>
 
 <p>
@@ -294,13 +297,17 @@ Cargo train terminal is sure keeping busy, especially those roads, heh what a de
 Saved game and shutdown Cities Skylines, another terrain savegame 100k population in the bag. Aayeah! Still have a bit time left today, I get to do few computer chores before bed time, awesome <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="stories.php">PMC Cities Skylines 1 Stories</a>, <a href="index.php">PMC Cities Skylines 1 Index</a></p>
 <br><br>
 <p><i>PMC Cities Skylines 2022 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
