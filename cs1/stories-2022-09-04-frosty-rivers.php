@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -56,7 +56,7 @@ Turned roads, electric and water budget to 50%, we need to save money.
 </p>
 
 <p>
-For this savegame I'll keep screenshots to absolutely bare minimum, I hate WINTER in video games, did I mention that? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+For this savegame I'll keep screenshots to absolutely bare minimum, I hate WINTER in video games, did I mention that? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -68,7 +68,7 @@ First save game for Frosty_Rivers_1 file name.
 </p>
 
 <p>
-Stupid fucking snow WHITE blinds my eyes <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Stupid fucking snow WHITE blinds my eyes <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -80,7 +80,7 @@ Stupid fucking snow WHITE blinds my eyes <img src="../../images/smileys/icon_sad
 </p>
 
 <p>
-<img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -108,7 +108,7 @@ On the bright side, we only have five of these shit WINTER terrains to go throug
 </p>
 
 <p>
-Turned on taxes to 12% for industrial, low density residential and commercial. Purchased elementary school and landfill site. Uuh this is so painful to play on shit WINTER terrain, why am I doing stupid crap like this, no idea <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Turned on taxes to 12% for industrial, low density residential and commercial. Purchased elementary school and landfill site. Uuh this is so painful to play on shit WINTER terrain, why am I doing stupid crap like this, no idea <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -296,7 +296,7 @@ After cooking food I came back to computer while stuff was still coming along in
 </p>
 
 <p>
-When I investigated I noticed that the terrain developer had left less than a train length of distance on those T-intersection connecting tracks, well no wonder why trains get bogged down <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+When I investigated I noticed that the terrain developer had left less than a train length of distance on those T-intersection connecting tracks, well no wonder why trains get bogged down <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -320,7 +320,7 @@ I started to delete all the passenger community and high speed trains, but there
 </p>
 
 <p>
-2022-09-04T09:31:00Z Saved game and shutdown Cities Skylines, we are done with WINTER terrain. Too bad I still have four more to go <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-09-04T09:31:00Z Saved game and shutdown Cities Skylines, we are done with WINTER terrain. Too bad I still have four more to go <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -48,11 +48,11 @@ This is my starter setup, also using new addon City Vitals which is kind of nice
 </p>
 
 <p>
-2022-08-16T15:01:00Z First save game for Garden_Rivers_1 file name, and unpaused the game, lets begin <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-16T15:01:00Z First save game for Garden_Rivers_1 file name, and unpaused the game, lets begin <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-08-16T15:06:00Z Little Hamlet population 480. Okay lets turn on the taxes and continue building <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-16T15:06:00Z Little Hamlet population 480. Okay lets turn on the taxes and continue building <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -116,7 +116,7 @@ New intersection being done, expanding our city to the other side of the highway
 </p>
 
 <p>
-2022-08-16T17:00:00Z Not sure what I did with the highways but I tried all kinds of TMPE settings, deleted and re-created the road two times, but now eventually some hideous spider alike "THiNG" road works. Got NO fucking idea what went wrong with Cities Skylines default cloverleaf intersection in the first place <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+2022-08-16T17:00:00Z Not sure what I did with the highways but I tried all kinds of TMPE settings, deleted and re-created the road two times, but now eventually some hideous spider alike "THiNG" road works. Got NO fucking idea what went wrong with Cities Skylines default cloverleaf intersection in the first place <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -176,7 +176,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Cargo harbor is now available. And we have just completely traffic gridlocked city while garbage starts to pile up, uuh... <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Cargo harbor is now available. And we have just completely traffic gridlocked city while garbage starts to pile up, uuh... <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -200,7 +200,7 @@ Assigned first office zones, lets see if we have any educated workers for them, 
 </p>
 
 <p>
-Uuh my roads, they are not road to hell but roads FROM hell! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Uuh my roads, they are not road to hell but roads FROM hell! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -252,7 +252,7 @@ I am thinking that need to shutdown Cities Skylines, open a text note, then star
 </p>
 
 <p>
-But how the fuck do I fix that as nothing looks wrong in-game? <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+But how the fuck do I fix that as nothing looks wrong in-game? <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -276,7 +276,7 @@ All terrain grid tiles bought.
 </p>
 
 <p>
-Unbelievable, it worked! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Unbelievable, it worked! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -288,11 +288,11 @@ You can see vehicles coming from the "top center of the screenshot" meaning east
 </p>
 
 <p>
-Yesterday when I first created this cloverleaf intersection I had the exact same issue, I thought something I did wrong or things were bugged and just deleted the whole thing and re-created using "single roads". Little did I know that indeed game is bugged and needs road recalculation by saving and restarting. Shieet, man <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Yesterday when I first created this cloverleaf intersection I had the exact same issue, I thought something I did wrong or things were bugged and just deleted the whole thing and re-created using "single roads". Little did I know that indeed game is bugged and needs road recalculation by saving and restarting. Shieet, man <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Not only roads but also my previously non working TRAIN railroad tracks connection started to work <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Not only roads but also my previously non working TRAIN railroad tracks connection started to work <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -308,7 +308,7 @@ Immediately ALT-TABbed to document this info for our Cities Skylines website so 
 </p>
 
 <p>
-2022-08-17T07:41:00Z Documentation done. Always feels good to learn something new and document it so mistakes wont be repeated <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-17T07:41:00Z Documentation done. Always feels good to learn something new and document it so mistakes wont be repeated <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -332,11 +332,11 @@ Some post said dead end streets cause issues, so I deleted all dead ends I could
 </p>
 
 <p>
-2022-08-17T09:01:00Z I managed to solve it by simply placing recycling center by one office zone which was garbage infested, it cleared it all out and after that remaining incineration plants turned ON and were working fine, eh? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+2022-08-17T09:01:00Z I managed to solve it by simply placing recycling center by one office zone which was garbage infested, it cleared it all out and after that remaining incineration plants turned ON and were working fine, eh? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
-2022-08-17T10:01:00Z Uuaah! Goal has been met, 100k population, nice! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-17T10:01:00Z Uuaah! Goal has been met, 100k population, nice! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

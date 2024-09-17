@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -132,7 +132,7 @@ Cemetery and bus depot became available in this milestone, cemetery is essential
 </p>
 
 <p>
-Oh and then using TM:PE I banned all private cars in the industrial commercial area <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Oh and then using TM:PE I banned all private cars in the industrial commercial area <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -140,7 +140,7 @@ Oh and then using TM:PE I banned all private cars in the industrial commercial a
 </p>
 
 <p>
-Ahh traffic flows beautifully in industrial commercial area with proper bus line on collector and ban for private cars <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Ahh traffic flows beautifully in industrial commercial area with proper bus line on collector and ban for private cars <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -148,7 +148,7 @@ Ahh traffic flows beautifully in industrial commercial area with proper bus line
 </p>
 
 <p>
-2022-09-07T06:14:00Z Busy Town population 5k. This actually triggered when I was in the restroom <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-07T06:14:00Z Busy Town population 5k. This actually triggered when I was in the restroom <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -184,7 +184,7 @@ Well this is beautiful terrain work ... I might have to take my words back that 
 </p>
 
 <p>
-Look at dat elevationz <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Look at dat elevationz <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -248,7 +248,7 @@ Fix haha
 </p>
 
 <p>
-Err? <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Err? <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -300,7 +300,7 @@ Our intercity bus station was in a wrong location, it was getting way too busy f
 </p>
 
 <p>
-I managed to do it, placing the station and bulldozing old tracks off was easy, then new tracks in place and at this point the line was kind of invisible, but you had to hover mouse over the old line position and then drag the point into the new station, get it? OK, good <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I managed to do it, placing the station and bulldozing old tracks off was easy, then new tracks in place and at this point the line was kind of invisible, but you had to hover mouse over the old line position and then drag the point into the new station, get it? OK, good <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -324,7 +324,7 @@ Decided that even though I like oil power plants as my own PMC Oil 1 produces st
 </p>
 
 <p>
-2022-09-07T13:54:00Z Boom we hit the goal, 100k population yeah baby! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-07T13:54:00Z Boom we hit the goal, 100k population yeah baby! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -332,7 +332,7 @@ Decided that even though I like oil power plants as my own PMC Oil 1 produces st
 </p>
 
 <p>
-It was fun stress free game-play even though I hate those european high density residential buildings they look so stupid, so yeah, it was, fun <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+It was fun stress free game-play even though I hate those european high density residential buildings they look so stupid, so yeah, it was, fun <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

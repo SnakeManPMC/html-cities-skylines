@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -56,11 +56,11 @@ This is unpaused moment, how initial setup got done, water, power, roads and zon
 </p>
 
 <p>
-Okay taxes is on and landfill placed, now lets continue the long growth phase until we reach high density zones so we can really start busting some heads <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Okay taxes is on and landfill placed, now lets continue the long growth phase until we reach high density zones so we can really start busting some heads <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Was drawing roads in 2D top-down mode quite zoomed in so didn't see... that in industrial zone they ran out of water pipes and already one building got abandoned, yikes <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Was drawing roads in 2D top-down mode quite zoomed in so didn't see... that in industrial zone they ran out of water pipes and already one building got abandoned, yikes <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -100,7 +100,7 @@ Saved game for Swamplands_2 file name.
 </p>
 
 <p>
-We are indeed growing. Slowly. That is how life is with real population addon in new savegame start <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+We are indeed growing. Slowly. That is how life is with real population addon in new savegame start <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -112,7 +112,7 @@ We are indeed growing. Slowly. That is how life is with real population addon in
 </p>
 
 <p>
-Saved game for Swamplands_4 file name which is the last of the four rotating file names, now I get to take a restroom break without fear of losing progress <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Saved game for Swamplands_4 file name which is the last of the four rotating file names, now I get to take a restroom break without fear of losing progress <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -140,7 +140,7 @@ Looking mighty fine, doing good progress.
 </p>
 
 <p>
-High density zones, metro, incineration plant and university are now available. Yeehaaw! Now we are going to start making some real well not money put breeding population <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+High density zones, metro, incineration plant and university are now available. Yeehaaw! Now we are going to start making some real well not money put breeding population <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -196,7 +196,7 @@ Or maybe I've just over extended myself, I would have to zone only 4 x 4 unit sq
 </p>
 
 <p>
-Yeah fine, burn that all down as far as I care... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Yeah fine, burn that all down as far as I care... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -228,7 +228,7 @@ Have to build some generic industry (no farming, forestry, oil or ore) as that i
 </p>
 
 <p>
-Hmm would be nice if you could see how much percentage of UNEMPLOYED people for each category you have, like "educated" and "well educated", yes I can see percentage of those people in the whole city, but how many are living their life with a good job and who is sitting home in his underwear eating a bowl of cereal at night time? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Hmm would be nice if you could see how much percentage of UNEMPLOYED people for each category you have, like "educated" and "well educated", yes I can see percentage of those people in the whole city, but how many are living their life with a good job and who is sitting home in his underwear eating a bowl of cereal at night time? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ The only way I can tell "what the employment situation" is, by creating an well/
 </p>
 
 <p>
-Hmm our city needs generic industry to create jobs, these uneducated bums need to get off the sofa and have a job <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hmm our city needs generic industry to create jobs, these uneducated bums need to get off the sofa and have a job <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ Created PMC Ore 1 district which handles ore specialized industry. Now we have a
 </p>
 
 <p>
-2022-08-14T17:22:00Z Alarm went of for a lunch break, saved game and let it run 3x time acceleration speed while I'm eating. Lets guess what breaks down while I'm away from keyboard <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-14T17:22:00Z Alarm went of for a lunch break, saved game and let it run 3x time acceleration speed while I'm eating. Lets guess what breaks down while I'm away from keyboard <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -264,7 +264,7 @@ Created PMC Ore 1 district which handles ore specialized industry. Now we have a
 </p>
 
 <p>
-While eating I turned on TMPE feature "disable vehicle de-spawning", well this generated just unbelievable traffic jams heh. Guess I have some traffic fixing to do <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+While eating I turned on TMPE feature "disable vehicle de-spawning", well this generated just unbelievable traffic jams heh. Guess I have some traffic fixing to do <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -428,7 +428,7 @@ This should do it, one waste processing complex and four waste transfer faciliti
 </p>
 
 <p>
-Well there is zero chances of fire trucks getting in there so this one is all on the helicopters which is pretty bad, we are looking for major devastation in this district <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Well there is zero chances of fire trucks getting in there so this one is all on the helicopters which is pretty bad, we are looking for major devastation in this district <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -444,7 +444,7 @@ So close...
 </p>
 
 <p>
-Five buildings got burnt down <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Five buildings got burnt down <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -468,7 +468,7 @@ There must be something wrong I'm doing with my small industrial roads as you ha
 </p>
 
 <p>
-I clearly recognize that my designer fault is to pack everything so tight with the attitude that real estate is expensive and should be utilized 100% to the last square meter. And sure that is true... but when I see many other peoples Cities Skylines work they have everything spread out to nice and relaxed. To me that feels like extreme waste of perfectly good building space. My pet peeve are those roads with huge openings on both sides, cant think of anything else as real estate waste as that. But yeah maybe its just me, I'm a fucking "packer" <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I clearly recognize that my designer fault is to pack everything so tight with the attitude that real estate is expensive and should be utilized 100% to the last square meter. And sure that is true... but when I see many other peoples Cities Skylines work they have everything spread out to nice and relaxed. To me that feels like extreme waste of perfectly good building space. My pet peeve are those roads with huge openings on both sides, cant think of anything else as real estate waste as that. But yeah maybe its just me, I'm a fucking "packer" <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -480,7 +480,7 @@ Removed all traffic lights from this arterial six lane road, yield signs for the
 </p>
 
 <p>
-That fixed it, awesome. So nice to see it all cleared up after spending some time in 3x time acceleration speed <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+That fixed it, awesome. So nice to see it all cleared up after spending some time in 3x time acceleration speed <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -492,7 +492,7 @@ So lesson learned: arterial road NO TRAFFIC LIGHTS, ever.
 </p>
 
 <p>
-New residential mega zoning plan to push us over 100k population limit <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+New residential mega zoning plan to push us over 100k population limit <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -528,7 +528,7 @@ Going to start with just a slight piece on this residential district, one step a
 </p>
 
 <p>
-Water and power connected, first zoning done to get foothold going, lets do it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Water and power connected, first zoning done to get foothold going, lets do it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -544,7 +544,7 @@ This is pretty exciting again, to build a new community (district).
 </p>
 
 <p>
-This milestone gives nuclear power plant and cargo hub (ship + train terminal). So nice to be able to sell dirty oil power plants and purchase nuclear one <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This milestone gives nuclear power plant and cargo hub (ship + train terminal). So nice to be able to sell dirty oil power plants and purchase nuclear one <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -556,7 +556,7 @@ Once again we have not enough workers problem. Well we don't even have metro con
 </p>
 
 <p>
-Another fire and by the nuclear plant too. Now I bulldozered all the fucking trees the fuck off from spreading fires. Who needs trees except tree hugging hippie craps <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Another fire and by the nuclear plant too. Now I bulldozered all the fucking trees the fuck off from spreading fires. Who needs trees except tree hugging hippie craps <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -620,7 +620,7 @@ Was building the new residential districts when I glanced elsewhere... oh my...
 </p>
 
 <p>
-Traffic TERROR! <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+Traffic TERROR! <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <p>
@@ -628,7 +628,7 @@ Traffic TERROR! <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:
 </p>
 
 <p>
-Last milestone reached, now we get to buy the whole terrain grid tiles <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Last milestone reached, now we get to buy the whole terrain grid tiles <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -656,7 +656,7 @@ Another cargo train terminal, this one by PMC Forestry 2 district, maybe if I pl
 </p>
 
 <p>
-First train leaving, choo! choo! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+First train leaving, choo! choo! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -672,7 +672,7 @@ HAHA!
 </p>
 
 <p>
-<img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -684,11 +684,11 @@ Okay third cargo train terminal is in, now by the heart of the action at PMC Ind
 <a href="screenshots/Cities-Skylines-2022-08-15T1200.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-15T1200.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Hopefully these trains give our road traffic some relief. I mean isnt that the point of cargo freight trains, to haul big amounts of cargo around fast. If its not, then I've been mislead and... well yeah hehe. Oh well probably just increases truck traffic even more, spawns of SATAN! <img src="../../images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
+Hopefully these trains give our road traffic some relief. I mean isnt that the point of cargo freight trains, to haul big amounts of cargo around fast. If its not, then I've been mislead and... well yeah hehe. Oh well probably just increases truck traffic even more, spawns of SATAN! <img src="https://www.pmctactical.org/images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
 </p>
 
 <p>
-Gates of HELL have opened! Burn motherfucker, BURN!!! <img src="../../images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
+Gates of HELL have opened! Burn motherfucker, BURN!!! <img src="https://www.pmctactical.org/images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
 </p>
 
 <p>
@@ -716,7 +716,7 @@ Slight garbage problem again, icons on the horizon. Dunno, the more I'm using th
 </p>
 
 <p>
-2022-08-15T13:08:00Z We have reached our goal, 100k population, yeah buddy! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-15T13:08:00Z We have reached our goal, 100k population, yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

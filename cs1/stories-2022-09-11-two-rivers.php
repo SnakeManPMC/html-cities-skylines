@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Stories terrain savegame marathon game-play has reached last terrain on the list! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Stories terrain savegame marathon game-play has reached last terrain on the list! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -64,7 +64,7 @@ First save game for Two_Rivers_1 file name.
 </p>
 
 <p>
-This is my starting setup for the last terrain in this stories game-play marathon <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This is my starting setup for the last terrain in this stories game-play marathon <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -84,7 +84,7 @@ Turned on taxes to 12% for industrial, low density residential and commercial. P
 </p>
 
 <p>
-2022-09-11T13:12:00Z Feels surreal to play the last terrain savegame... Tomorrow when I wake up, all this will be over, uuh <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+2022-09-11T13:12:00Z Feels surreal to play the last terrain savegame... Tomorrow when I wake up, all this will be over, uuh <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -104,7 +104,7 @@ Hmm wonder what I'll do tomorrow when waking up, doing computer chores and then 
 </p>
 
 <p>
-Well not really, I have life time worth of ArmA 3 and Farming Simulator 19 editing waiting, plus all the other computer chores like web sites etc I've neglected during this marathon <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Well not really, I have life time worth of ArmA 3 and Farming Simulator 19 editing waiting, plus all the other computer chores like web sites etc I've neglected during this marathon <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -124,11 +124,11 @@ One thing is odd though, I don't look forward to edit ArmA 3 / FS19 at all, basi
 </p>
 
 <p>
-Heh milestone hit while I was typing, how dare Cities Skylines interrupt me! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Heh milestone hit while I was typing, how dare Cities Skylines interrupt me! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-So I was writing that maybe I'll play Elite Dangerous as my 2022 game-play for it has been planned for a long time and this year is getting pretty late now in september... anyways, back to Cities Skylines <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+So I was writing that maybe I'll play Elite Dangerous as my 2022 game-play for it has been planned for a long time and this year is getting pretty late now in september... anyways, back to Cities Skylines <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -144,7 +144,7 @@ Saved game for Two_Rivers_3 file name.
 </p>
 
 <p>
-2022-09-11T13:43:00Z Feeding time is over, back to the last terrain savegame <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-11T13:43:00Z Feeding time is over, back to the last terrain savegame <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -160,7 +160,7 @@ Cemetery and bus depot became available in this milestone, cemetery is essential
 </p>
 
 <p>
-2022-09-11T14:01:00Z Restored budget to 100% which is the normal, happy to have that shuffle over too <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-11T14:01:00Z Restored budget to 100% which is the normal, happy to have that shuffle over too <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -208,7 +208,7 @@ This milestone gives us cargo train terminal, train station (passengers!) and tw
 </p>
 
 <p>
-Created passenger train station, all aboard! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Created passenger train station, all aboard! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -248,7 +248,7 @@ Passenger and cargo harbor is now available, passenger is a must have for incomi
 </p>
 
 <p>
-I'm getting excited about finishing this savegame and therefore the whole marathon, getting that kind of creepy crawling out of your skin feeling heh. Soon, soon... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I'm getting excited about finishing this savegame and therefore the whole marathon, getting that kind of creepy crawling out of your skin feeling heh. Soon, soon... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -284,7 +284,7 @@ Its kind of hard to see in this screenshot, but trains are stacked and people ar
 </p>
 
 <p>
-This sucks, I don't have time to sort out shit like this I got a savegame to finish <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+This sucks, I don't have time to sort out shit like this I got a savegame to finish <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -292,7 +292,7 @@ This sucks, I don't have time to sort out shit like this I got a savegame to fin
 </p>
 
 <p>
-Another reference screenshot for balanced generic industry and low density commercial zoning, currently outside connection exports are 87. Hopefully I would remember to count full 4 x 4 unit blocks in that zoning to get a good base line besides visual hand wavey thing <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Another reference screenshot for balanced generic industry and low density commercial zoning, currently outside connection exports are 87. Hopefully I would remember to count full 4 x 4 unit blocks in that zoning to get a good base line besides visual hand wavey thing <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -300,7 +300,7 @@ Another reference screenshot for balanced generic industry and low density comme
 </p>
 
 <p>
-I built this nice little expansion for our high density residential zoning. Looking at population now 77k, wonder if that is enough to push us over our goal <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I built this nice little expansion for our high density residential zoning. Looking at population now 77k, wonder if that is enough to push us over our goal <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -312,7 +312,7 @@ I built this nice little expansion for our high density residential zoning. Look
 </p>
 
 <p>
-That's it, last milestone achieved. Now there is not much longer to go for ultimate finale! I am scared! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+That's it, last milestone achieved. Now there is not much longer to go for ultimate finale! I am scared! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -336,11 +336,11 @@ Obviously if this lasts another half an hour or so, then I might just spam some 
 </p>
 
 <p>
-2022-09-11T17:38:00Z Now high density residential zoning is building up, good, progress. Also need to add educational buildings every once in a while, that is always a good sign about new citizens <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-11T17:38:00Z Now high density residential zoning is building up, good, progress. Also need to add educational buildings every once in a while, that is always a good sign about new citizens <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-09-11T17:54:00Z Hooyah! It is all over! We are done! YEEHAAW! Just finished our goal, 100,000 population! Yeah buddy! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-09-11T17:54:00Z Hooyah! It is all over! We are done! YEEHAAW! Just finished our goal, 100,000 population! Yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
@@ -348,15 +348,15 @@ Obviously if this lasts another half an hour or so, then I might just spam some 
 </p>
 
 <p>
-Uuuah what a relief and accomplishment, need to check these web stories about actual dates but I know its been over ONE MONTH 17hrs a day Cities Skylines gaming, whoah! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Uuuah what a relief and accomplishment, need to check these web stories about actual dates but I know its been over ONE MONTH 17hrs a day Cities Skylines gaming, whoah! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-The realization has not hit me yet, I don't feel that emotional rollercoaster now, actually this feels like any other savegame finish hehe! I'm having a good time while playing <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+The realization has not hit me yet, I don't feel that emotional rollercoaster now, actually this feels like any other savegame finish hehe! I'm having a good time while playing <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I'm sure a bit later when I sort out this story text and screenshot into actual web page files and then chill a bit... it starts to sink in that whoah dude, you just finished massive Cities Skylines terrain savegame marathon, with story telling <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I'm sure a bit later when I sort out this story text and screenshot into actual web page files and then chill a bit... it starts to sink in that whoah dude, you just finished massive Cities Skylines terrain savegame marathon, with story telling <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -368,7 +368,7 @@ And for the last time in this original marathon format:
 </p>
 
 <p>
-2022-09-11T17:59:00Z Saved game and shutdown Cities Skylines, we are SO done! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-09-11T17:59:00Z Saved game and shutdown Cities Skylines, we are SO done! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

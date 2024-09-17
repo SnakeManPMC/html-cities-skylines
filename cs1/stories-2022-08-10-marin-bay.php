@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -64,7 +64,7 @@ Purchased the terrain grid tile towards north, hopefully it gets us started with
 </p>
 
 <p>
-Eeww <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+Eeww <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1349.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1349.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -80,13 +80,13 @@ I learned this one unit housing zoning from real population addon developer.
 <a href="screenshots/Cities-Skylines-2022-08-10T1411.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1411.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-This is so stupid and cheaty, but heh gotta give it a try if we get to population goal with less landscape used <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This is so stupid and cheaty, but heh gotta give it a try if we get to population goal with less landscape used <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1413.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1413.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Hilarious midget houses <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hilarious midget houses <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1418.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1418.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -168,7 +168,7 @@ All milestones achieved, okay now we just increase the population, lets get this
 </p>
 
 <p>
-What is this monstrocity? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+What is this monstrocity? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1635.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1635.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -178,19 +178,19 @@ Saved game for Marin_Bay_2 file name.
 </p>
 
 <p>
-This is chess it ain't checkers! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+This is chess it ain't checkers! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1651.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1651.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-10T16:59:00Z We have reached our goal, population 100k! Oh Yeah! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-10T16:59:00Z We have reached our goal, population 100k! Oh Yeah! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1700.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1700.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-This is my second terrain savegame I finished today from 0 to 100k population, has been a great day for sure <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This is my second terrain savegame I finished today from 0 to 100k population, has been a great day for sure <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

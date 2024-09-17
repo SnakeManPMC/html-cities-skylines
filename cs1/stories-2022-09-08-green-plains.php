@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -64,7 +64,7 @@ I made a mistake in my highway outside connection road linking, there was a miss
 </p>
 
 <p>
-Also kind of fake, in low residential neighborhood you heard "life sounds" even though there was 0 people present <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Also kind of fake, in low residential neighborhood you heard "life sounds" even though there was 0 people present <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ Actually when looking at the screenshot, it looks like very few vehicles deliver
 </p>
 
 <p>
-2022-09-08T17:02:00Z Feeding time is over, lets push this savegame to the finish line! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-08T17:02:00Z Feeding time is over, lets push this savegame to the finish line! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ And as you can see by the icons, office zones are having some highly educated wo
 </p>
 
 <p>
-It is very nice to see new citizens willing to walk to their new homes from train station <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+It is very nice to see new citizens willing to walk to their new homes from train station <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -268,7 +268,7 @@ While waiting for couple of thousand last citizens to move in, I'm wondering why
 </p>
 
 <p>
-2022-09-08T18:04:00Z Hooyah! 100k population reached, yeah buddy! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-08T18:04:00Z Hooyah! 100k population reached, yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

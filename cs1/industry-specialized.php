@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -136,7 +136,7 @@ I need to split that into two, maybe 3 * 3 block grids hmm. Or maybe even slimme
 </p>
 
 <p>
-Another reference screenshot for balanced generic industry and low density commercial zoning, currently outside connection exports are 87. Hopefully I would remember to count full 4 x 4 unit blocks in that zoning to get a good base line besides visual hand wavey thing <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Another reference screenshot for balanced generic industry and low density commercial zoning, currently outside connection exports are 87. Hopefully I would remember to count full 4 x 4 unit blocks in that zoning to get a good base line besides visual hand wavey thing <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-09-11T1655.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-11T1655.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -84,11 +84,11 @@ On this savegame I'm going to test zoning using long roads without "side roads" 
 </p>
 
 <p>
-As you can see there is 1 unit empty space between each two building blocks. I don't have the road width correct yet, I think its now 10 unit per err grid guide line, I need to find a way tomake two building blocks - pedestrian path - two building blocks - pedestrian path and two more building blocks before the next "side road", hope that clears it up <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+As you can see there is 1 unit empty space between each two building blocks. I don't have the road width correct yet, I think its now 10 unit per err grid guide line, I need to find a way tomake two building blocks - pedestrian path - two building blocks - pedestrian path and two more building blocks before the next "side road", hope that clears it up <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-I'll put a screenshot when I nail down the unit measurements for road grid <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I'll put a screenshot when I nail down the unit measurements for road grid <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -96,7 +96,7 @@ I'll put a screenshot when I nail down the unit measurements for road grid <img 
 </p>
 
 <p>
-Placed fire station, police station and health clinic. Decided not to paint districts because I didn't use them at all in my last savegame, might have been even last two hmm. For what? For who? Forgettaboutit! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Placed fire station, police station and health clinic. Decided not to paint districts because I didn't use them at all in my last savegame, might have been even last two hmm. For what? For who? Forgettaboutit! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -124,7 +124,7 @@ Saved game for Mountain_Meadows_3 file name.
 </p>
 
 <p>
-2022-09-02T02:54:00Z Finished doing those three pedestrian path lines in the medium size low density residential block, took fucking forever and was painful to do <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-09-02T02:54:00Z Finished doing those three pedestrian path lines in the medium size low density residential block, took fucking forever and was painful to do <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ High density zones, metro, incineration plant, university and large warehouse ar
 </p>
 
 <p>
-When placing university I remember why I HATE european theme, some of the european buildings are all messed up sizes, cant fit into normal road grid, drives me crazy <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+When placing university I remember why I HATE european theme, some of the european buildings are all messed up sizes, cant fit into normal road grid, drives me crazy <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -288,7 +288,7 @@ Cargo harbor is now available.
 </p>
 
 <p>
-I want more! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I want more! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -362,7 +362,7 @@ Last milestone... now we are only 10k away from the big one hundred...
 </p>
 
 <p>
-Now this shits crazy, yo!? <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Now this shits crazy, yo!? <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-09-02T1424.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-02T1424.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -380,7 +380,7 @@ I did know about this previously and in lesser scale I did similar thing, but it
 </p>
 
 <p>
-2022-09-02T14:31:00Z Hooyah! We have reached our goal, population 100k yeah buddy! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-09-02T14:31:00Z Hooyah! We have reached our goal, population 100k yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
@@ -388,7 +388,7 @@ I did know about this previously and in lesser scale I did similar thing, but it
 </p>
 
 <p>
-Man this is awesome, started savegame today and finished it the same day, just great! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Man this is awesome, started savegame today and finished it the same day, just great! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

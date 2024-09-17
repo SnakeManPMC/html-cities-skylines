@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -56,7 +56,7 @@ First save game for Icy_Lands_1 file name.
 </p>
 
 <p>
-I really hope to get this terrain savegame finished in extra quickly, I have zero interest playing in WINTER terrains, this is like pulling a teeth or working... uuh <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+I really hope to get this terrain savegame finished in extra quickly, I have zero interest playing in WINTER terrains, this is like pulling a teeth or working... uuh <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -160,7 +160,7 @@ Need to expand beyond the highway, so demolished old intersection and created br
 </p>
 
 <p>
-Crematorium, large water tower and advanced inland water treatment plant are now available. Ran out of money heh, budget finit <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Crematorium, large water tower and advanced inland water treatment plant are now available. Ran out of money heh, budget finit <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -172,7 +172,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Check out these metro lines, cool huh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Check out these metro lines, cool huh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-2022-09-05T08:37:00Z Metropolis population 50k. This actually triggered when I was in the head <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-05T08:37:00Z Metropolis population 50k. This actually triggered when I was in the head <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -244,7 +244,7 @@ For more boredom, decided to try this kind of looping one way road system around
 </p>
 
 <p>
-2022-09-05T10:50:00Z Aah finally done, 100k population yeah, I'm done with another WINTER crap terrain <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-05T10:50:00Z Aah finally done, 100k population yeah, I'm done with another WINTER crap terrain <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

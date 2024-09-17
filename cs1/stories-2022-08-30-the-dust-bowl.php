@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ This terrain according to file names is by same author "ND" as two other useless
 </p>
 
 <p>
-At first glance, yeah there is a lot of water but at least enough flat heightmap to build a city on, heh we have a miracle! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+At first glance, yeah there is a lot of water but at least enough flat heightmap to build a city on, heh we have a miracle! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -96,7 +96,7 @@ Saved game for The_Dust_Bowl_2 file name.
 </p>
 
 <p>
-Was actually in the restroom when this milestone was reached <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Was actually in the restroom when this milestone was reached <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -124,7 +124,7 @@ Cemetery and bus depot became available in this milestone, cemetery is essential
 </p>
 
 <p>
-Quick update so this page wont be screenshot-less <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Quick update so this page wont be screenshot-less <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -184,7 +184,7 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-Wait, what happened here? Yikes its the city growing too fast instant traffic jam <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Wait, what happened here? Yikes its the city growing too fast instant traffic jam <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -244,7 +244,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-New high score on largest office building workers wise! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+New high score on largest office building workers wise! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -252,11 +252,11 @@ New high score on largest office building workers wise! <img src="../../images/s
 </p>
 
 <p>
-Total of 723 workers in a office building, ok I'll take that <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Total of 723 workers in a office building, ok I'll take that <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-This stupid terrain, the river or whatever body of water that is was flooding a bit <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+This stupid terrain, the river or whatever body of water that is was flooding a bit <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -288,7 +288,7 @@ What is stupid about this game-play is to have parks and schools in dirty nasty 
 </p>
 
 <p>
-2022-08-31T03:48:00Z Used extra landscaping tools and painted a bit of oil natural resource to the corner of PMC Industrial 1 district, then created PMC Oil 1 district. In theory this should not increase traffic as it extracts oil... and delivers it to generic industry right next to us. Right? RIGHT? <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-31T03:48:00Z Used extra landscaping tools and painted a bit of oil natural resource to the corner of PMC Industrial 1 district, then created PMC Oil 1 district. In theory this should not increase traffic as it extracts oil... and delivers it to generic industry right next to us. Right? RIGHT? <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -364,7 +364,7 @@ So this quality appliances was importing two 8 tons semi-truck tanker loads of p
 </p>
 
 <p>
-Hmm who knows maybe this was some old request or something, no idea. Just so confusing right when you think that hey now I get it... you actually DON'T <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hmm who knows maybe this was some old request or something, no idea. Just so confusing right when you think that hey now I get it... you actually DON'T <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -376,7 +376,7 @@ Hmm who knows maybe this was some old request or something, no idea. Just so con
 </p>
 
 <p>
-Was just thinking while eating that this oil industry info from this game-play story need to be read, deciphered, sorted and written into its own tutorial documentation web page <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Was just thinking while eating that this oil industry info from this game-play story need to be read, deciphered, sorted and written into its own tutorial documentation web page <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -392,7 +392,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-2022-08-31T08:07:00Z Alright spent way too long just goofing around with public transport, it was fun. Now lets get back to the subject that matters, growing our population, eh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-31T08:07:00Z Alright spent way too long just goofing around with public transport, it was fun. Now lets get back to the subject that matters, growing our population, eh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -424,7 +424,7 @@ Created cargo train terminals for industrial area and current main commercial zo
 </p>
 
 <p>
-Choo choo! All aboard! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Choo choo! All aboard! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -452,11 +452,11 @@ First cargo train haul went about evenly directly to shops and warehouses. Nice.
 </p>
 
 <p>
-All milestones done, now we push one more 10k citizens and then all is done <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+All milestones done, now we push one more 10k citizens and then all is done <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2022-08-31T13:41:00Z Hooyah! We have reached 100k population! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-31T13:41:00Z Hooyah! We have reached 100k population! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

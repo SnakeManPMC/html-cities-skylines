@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -72,7 +72,7 @@ I need to go read that guide/tutorial again to see if I missed something because
 </p>
 
 <p>
-Oh my, if this is technically the correct way to play Cities Skylines, then I don't wanna any part of it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Oh my, if this is technically the correct way to play Cities Skylines, then I don't wanna any part of it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0629.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0629.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -252,11 +252,11 @@ Another terrible setup created, ugh.
 </p>
 
 <p>
-All milestones achieved, nice. Now we can buy all the terrain grid tiles and focus on final goal <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+All milestones achieved, nice. Now we can buy all the terrain grid tiles and focus on final goal <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Now I own it all <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Now I own it all <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T1251.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T1251.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -270,7 +270,7 @@ Population now 86.7k so not bad, with luck I could finish this savegame today.
 </p>
 
 <p>
-Gimme some more! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Gimme some more! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T1353.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T1353.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -282,19 +282,19 @@ And more industrial stuff.
 <a href="screenshots/Cities-Skylines-2022-08-07T1414.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T1414.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Cargo train terminal is sure keeping busy, especially those roads, heh what a death trap <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Cargo train terminal is sure keeping busy, especially those roads, heh what a death trap <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T1429.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T1429.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-07T14:56:00Z That's it, its a wrap! 100,000 population <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-07T14:56:00Z That's it, its a wrap! 100,000 population <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T1456.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T1456.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Saved game and shutdown Cities Skylines, another terrain savegame 100k population in the bag. Aayeah! Still have a bit time left today, I get to do few computer chores before bed time, awesome <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Saved game and shutdown Cities Skylines, another terrain savegame 100k population in the bag. Aayeah! Still have a bit time left today, I get to do few computer chores before bed time, awesome <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

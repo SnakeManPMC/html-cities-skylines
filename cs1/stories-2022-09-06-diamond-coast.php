@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Ahh yes back to normal regular non-WINTER terrains! Whohoo! I love it! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+Ahh yes back to normal regular non-WINTER terrains! Whohoo! I love it! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
@@ -68,7 +68,7 @@ First save game for Diamond_Coast_1 file name.
 </p>
 
 <p>
-Felt really great, this is now the first terrain on the "non DLC" terrains list, I assume that's what they are as they have no DLC affiliated icon on the new game terrain selector menu. Once these few remaining terrains are done, then my massive over a month long terrain savegame marathon game-play madness is over <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Felt really great, this is now the first terrain on the "non DLC" terrains list, I assume that's what they are as they have no DLC affiliated icon on the new game terrain selector menu. Once these few remaining terrains are done, then my massive over a month long terrain savegame marathon game-play madness is over <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -132,11 +132,11 @@ Now I've changed to zone around all local roads as previously I only zoned "insi
 </p>
 
 <p>
-Also I'm zoning from inside out, naturally growing the city one row or block at the time, "leading the electric connection" so to speak. It feels more natural and involved like this, as opposite of zoning massive blobs and then go off do something else. You maintain better control, meaning that once each row is done you have all the possibilities to place service buildings etc if they are required. If you mass blob zone gazillion units / units, then when you suddenly need to place a service building, metro, etc, then you must demolish already setup buildings which is against everything I believe in such "creating game" <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Also I'm zoning from inside out, naturally growing the city one row or block at the time, "leading the electric connection" so to speak. It feels more natural and involved like this, as opposite of zoning massive blobs and then go off do something else. You maintain better control, meaning that once each row is done you have all the possibilities to place service buildings etc if they are required. If you mass blob zone gazillion units / units, then when you suddenly need to place a service building, metro, etc, then you must demolish already setup buildings which is against everything I believe in such "creating game" <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-09-06T07:58:00Z I cannot describe in words how good I feel now being back in normal terrain type after SUFFERING through those garbage piece of shit WINTER terrains for days and days, almost felt like is the horror ever going to end, but it finally did, today. Now I'm enjoying so much of the greenery in regular terrain. This one is tropical so its not my favorite but still awesome <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-06T07:58:00Z I cannot describe in words how good I feel now being back in normal terrain type after SUFFERING through those garbage piece of shit WINTER terrains for days and days, almost felt like is the horror ever going to end, but it finally did, today. Now I'm enjoying so much of the greenery in regular terrain. This one is tropical so its not my favorite but still awesome <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -316,7 +316,7 @@ Its working hehe.
 </p>
 
 <p>
-2022-09-06T16:04:00Z Whoah! Population 100k, goals are met! Yeah buddy! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-06T16:04:00Z Whoah! Population 100k, goals are met! Yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

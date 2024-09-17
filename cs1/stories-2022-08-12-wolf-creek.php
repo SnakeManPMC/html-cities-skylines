@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -46,7 +46,7 @@ First save game for Wolf_Creek_1 file name.
 </p>
 
 <p>
-Forgot power line to the sewage pipe <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Forgot power line to the sewage pipe <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -58,7 +58,7 @@ This time I wont be doing those 1x1 or 2x2 low density residential zoning blocks
 </p>
 
 <p>
-Was just about to take damage from lack of power and water heh. Problem was that industrial started placing buildings from the south end where I didn't have neither. Okay sure I could have prevented this by only zoning where I want stuff to be placed, and yeah I'll correct my mistake for the next time. But yeah. Milestone saved my ass <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Was just about to take damage from lack of power and water heh. Problem was that industrial started placing buildings from the south end where I didn't have neither. Okay sure I could have prevented this by only zoning where I want stuff to be placed, and yeah I'll correct my mistake for the next time. But yeah. Milestone saved my ass <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1251.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1251.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -124,7 +124,7 @@ Same for farmland, lets get some raw materials done.
 <a href="screenshots/Cities-Skylines-2022-08-12T1409.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1409.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-12T14:25:00Z Perfect, just what we need right now, fire department, where the hell are ya!? <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-12T14:25:00Z Perfect, just what we need right now, fire department, where the hell are ya!? <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1425.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1425.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -138,7 +138,7 @@ Same for farmland, lets get some raw materials done.
 </p>
 
 <p>
-High density zones, metro, incineration plant and university are now available. Alright now we start cooking <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+High density zones, metro, incineration plant and university are now available. Alright now we start cooking <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -154,11 +154,11 @@ Current progress. Just added first high density residential and office zones. No
 <a href="screenshots/Cities-Skylines-2022-08-12T1519.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1519.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Now my question is; for what? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Now my question is; for what? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
-I mean what does unique factory bakery do, yes it takes animal products, crops and flour, then outputs pastries... Right, OK, so? So what am I going to do with pastries? Or is it just a virtual thing in this game universe that pastries == money income? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+I mean what does unique factory bakery do, yes it takes animal products, crops and flour, then outputs pastries... Right, OK, so? So what am I going to do with pastries? Or is it just a virtual thing in this game universe that pastries == money income? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -202,17 +202,17 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Been so excited and busy adding farming and forestry stuff, that completely missed... this <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Been so excited and busy adding farming and forestry stuff, that completely missed... this <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1606.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1606.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Ouch man, that is some bad traffic gridlock right there! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Ouch man, that is some bad traffic gridlock right there! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Forestry industry equipment is on FIRE! <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+Forestry industry equipment is on FIRE! <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1613.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1613.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -232,23 +232,23 @@ Another update time. Still struggling with the traffic but otherwise improving a
 </p>
 
 <p>
-Like these guys, large semi-truck's "18 wheelers" hauling "raw forestry products" to export, outside connection. So these trucks must travel through my chocked up roundabout area, yikes <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Like these guys, large semi-truck's "18 wheelers" hauling "raw forestry products" to export, outside connection. So these trucks must travel through my chocked up roundabout area, yikes <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1704.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1704.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Then it was time to store our crops, bought a few farm bin silos <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Then it was time to store our crops, bought a few farm bin silos <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1711.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1711.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Reminds me of Farming Simulator <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Reminds me of Farming Simulator <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-2022-08-12T17:24:00Z Alarm went off that I've been up 17hrs, pfft, we continue... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-12T17:24:00Z Alarm went off that I've been up 17hrs, pfft, we continue... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -272,13 +272,13 @@ Cargo harbor is now available.
 </p>
 
 <p>
-Oh my, what is this madness? <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Oh my, what is this madness? <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1752.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1752.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Now that's TiGHT! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Now that's TiGHT! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1757.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1757.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -292,7 +292,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Our farm and NUKE plant is on fire! Yikes! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Our farm and NUKE plant is on fire! Yikes! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1857.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1857.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -304,7 +304,7 @@ Fire engines on scene!
 <a href="screenshots/Cities-Skylines-2022-08-12T1900.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1900.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Our farm is toast <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Our farm is toast <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1901.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1901.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -316,7 +316,7 @@ Noo! collapse!
 <a href="screenshots/Cities-Skylines-2022-08-12T1902.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1902.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Two farm bin silos burned down, lost 328 + 320 tons of crops <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Two farm bin silos burned down, lost 328 + 320 tons of crops <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1907.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1907.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -342,7 +342,7 @@ Had to do some emergency alike garbage collecting work in SE corner of our city,
 <a href="screenshots/Cities-Skylines-2022-08-13T0337.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-13T0337.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Unbelievable, our farms is on fire, AGAIN <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Unbelievable, our farms is on fire, AGAIN <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-13T0343.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-13T0343.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -392,13 +392,13 @@ City has seem to settle down quite nicely with time, not much residential demand
 </p>
 
 <p>
-2022-08-13T05:06:00Z Aayeah! Population 100k! We have reached our terrain savegame goal! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-13T05:06:00Z Aayeah! Population 100k! We have reached our terrain savegame goal! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-13T0506.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-13T0506.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-I was in the middle of building this city SE corner, roads and services etc setup, all it takes is one block at the time to zone it and wait for stuff to build... but nah, I'll call it a day for this savegame now, next terrain awaits <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I was in the middle of building this city SE corner, roads and services etc setup, all it takes is one block at the time to zone it and wait for stuff to build... but nah, I'll call it a day for this savegame now, next terrain awaits <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -60,7 +60,7 @@ First save game for Lagoon_Shore_1 file name.
 </p>
 
 <p>
-I got plenty of time today left, wonder if I could push this terrain savegame to our goal before bed time tonight, hmm, lets see <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I got plenty of time today left, wonder if I could push this terrain savegame to our goal before bed time tonight, hmm, lets see <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -72,7 +72,7 @@ Turned on taxes to 12% for industrial, low density residential and commercial. P
 </p>
 
 <p>
-When I started this terrains savegame there was only handful left, did not count them but... could it be about 5 or so, not more than six I think. List is getting shorter and shorter by each day, nice <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+When I started this terrains savegame there was only handful left, did not count them but... could it be about 5 or so, not more than six I think. List is getting shorter and shorter by each day, nice <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -224,7 +224,7 @@ Another expansion is ready, looking at our 60k population... this might take us 
 </p>
 
 <p>
-Umm no wait what the hell am I saying... no it wont, haha. Nevermind me, moving along... <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Umm no wait what the hell am I saying... no it wont, haha. Nevermind me, moving along... <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ Last call, I mean milestone, yeah soon it will be all over.
 </p>
 
 <p>
-2022-09-09T20:55:00Z Hooyah! We have 100k population, goal is met, yeehaaw! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-09T20:55:00Z Hooyah! We have 100k population, goal is met, yeehaaw! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

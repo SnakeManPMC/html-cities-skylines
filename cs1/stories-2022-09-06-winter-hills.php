@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -50,7 +50,7 @@ Oh hell no...
 <a href="screenshots/Cities-Skylines-2022-09-06T0608.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-06T0608.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-What is this horror? <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+What is this horror? <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <p>
@@ -64,7 +64,7 @@ Also looking at the heightmap for suitable road grids and building placement... 
 </p>
 
 <p>
-Yeah lets give hard NO for this piece of shit terrain <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Yeah lets give hard NO for this piece of shit terrain <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

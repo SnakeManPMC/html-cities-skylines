@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -88,7 +88,7 @@ Entertainment value, parks etc, is not required for functional city, that stuff 
 </p>
 
 <p>
-Citizens like to walk if the distance is not that long, but make sure they can cross roads safely and even residential, commercial or industrial zones, create pedestrian paths or bicycle lanes. It is amazing how far your citizens are willing to walk, do not underestimate the power of a brisk walk <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Citizens like to walk if the distance is not that long, but make sure they can cross roads safely and even residential, commercial or industrial zones, create pedestrian paths or bicycle lanes. It is amazing how far your citizens are willing to walk, do not underestimate the power of a brisk walk <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -112,11 +112,11 @@ You see import / export values in top left corner. info views -> outside connect
 </p>
 
 <p>
-The difference between low and high density residential areas is that if you want to max out population do high density which causes traffic problems unless you really focus on roads, if you want to make more realistic pleasing looking city place low density in the outskirts as suburbs like in real life, there are no city in real life which is tall skyscrapers from one edge to another, in Cities Skylines ... its really up to you <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+The difference between low and high density residential areas is that if you want to max out population do high density which causes traffic problems unless you really focus on roads, if you want to make more realistic pleasing looking city place low density in the outskirts as suburbs like in real life, there are no city in real life which is tall skyscrapers from one edge to another, in Cities Skylines ... its really up to you <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Cities Skylines is not an reactive game, its preventive. For example crime or fire, if you do not setup your police and fire departments properly that they do not have a road access, once crime happens or fire breaks out, its too late. More over with fire than crime but anyways mostly the same, you cannot fix the issue for right now, you can do changes that in the future this is prevented, but if your roads suck and fire department is nowhere near, you are not going to fix the problem by quickly placing down a fire house near the fire. This is awesome, you design, plan and setup the city when everything is OK, then just sit back and watch how its ran for you by the service people <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Cities Skylines is not an reactive game, its preventive. For example crime or fire, if you do not setup your police and fire departments properly that they do not have a road access, once crime happens or fire breaks out, its too late. More over with fire than crime but anyways mostly the same, you cannot fix the issue for right now, you can do changes that in the future this is prevented, but if your roads suck and fire department is nowhere near, you are not going to fix the problem by quickly placing down a fire house near the fire. This is awesome, you design, plan and setup the city when everything is OK, then just sit back and watch how its ran for you by the service people <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

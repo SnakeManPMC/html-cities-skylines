@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -54,7 +54,7 @@ On my previous terrain savegame (Marin Bay) I cheated by using single unit squar
 </p>
 
 <p>
-Alright taxes, lets start to make some money <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Alright taxes, lets start to make some money <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -70,7 +70,7 @@ Alright taxes, lets start to make some money <img src="../../images/smileys/icon
 </p>
 
 <p>
-2022-08-10T23:28:00Z Have food in my plate here but gotta do couple of more zonings as we ran out of space, time is money baby! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-10T23:28:00Z Have food in my plate here but gotta do couple of more zonings as we ran out of space, time is money baby! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -96,7 +96,7 @@ Moved my operation to another tile with more flat space in it.
 <a href="screenshots/Cities-Skylines-2022-08-11T0005.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-11T0005.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Dunno about new savegame starts when using real population addon, the author himself suggested that new savegames without milestones "unlocked" addon should use single unit square zoning to save real estate space. That is true, these 4 x 4 unit square single houses which only have one or two households take SO much space. But I feel extremely dirty and cheaty if I use the 1x1 midget house zoning, yeah it works, it gets you the high density zoning milestone quick, but... yeah... <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Dunno about new savegame starts when using real population addon, the author himself suggested that new savegames without milestones "unlocked" addon should use single unit square zoning to save real estate space. That is true, these 4 x 4 unit square single houses which only have one or two households take SO much space. But I feel extremely dirty and cheaty if I use the 1x1 midget house zoning, yeah it works, it gets you the high density zoning milestone quick, but... yeah... <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -206,7 +206,7 @@ Saved game for Murky_Coast_3 file name.
 </p>
 
 <p>
-Somehow this savegame makes me feel like I breed huuuumaaans, heh, humans are like a cattle to me, I'll just make those roads, assign high density residential zones and there you go, you just got bred in a lab <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Somehow this savegame makes me feel like I breed huuuumaaans, heh, humans are like a cattle to me, I'll just make those roads, assign high density residential zones and there you go, you just got bred in a lab <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -92,15 +92,15 @@ Saved game for River_Valley_Plain_3 file name.
 </p>
 
 <p>
-Painted PMC Forestry 1 industry district, lets get industry DLC stuff started. But first have to wait for more money to come in <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Painted PMC Forestry 1 industry district, lets get industry DLC stuff started. But first have to wait for more money to come in <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-08-26T03:25:00Z Placed forestry industry main building, industry has started <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T03:25:00Z Placed forestry industry main building, industry has started <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Quick ALT-TAB to read paradox wiki about the optimal industry extractor and processor use <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Quick ALT-TAB to read paradox wiki about the optimal industry extractor and processor use <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -140,7 +140,7 @@ Right now I'm out of money, so need to wait a bit for tax revenue and citizens t
 </p>
 
 <p>
-2022-08-26T03:40:00Z Placed small log yard, budget now 407 <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-26T03:40:00Z Placed small log yard, budget now 407 <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -152,7 +152,7 @@ Sawmill cost 15k and now I have 9.6k as I'm typing this, so we wait.
 </p>
 
 <p>
-2022-08-26T03:51:00Z Purchased sawmill, budget now 345 <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-26T03:51:00Z Purchased sawmill, budget now 345 <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -172,7 +172,7 @@ Anyways, we'll continue one step at the time and learn as we go.
 </p>
 
 <p>
-Learn? Err heh yeah I have played with industries DLC many times already, all of them farming, forestry, oil and ore, but it has been such mega randomly spamming buildings down and hoping it just works, heh. Now I really want to learn what is efficient industries DLC building usage for all of them <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Learn? Err heh yeah I have played with industries DLC many times already, all of them farming, forestry, oil and ore, but it has been such mega randomly spamming buildings down and hoping it just works, heh. Now I really want to learn what is efficient industries DLC building usage for all of them <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -200,11 +200,11 @@ Looks like sawmill requests "raw forest products" from small log yard, they send
 </p>
 
 <p>
-2022-08-26T04:22:00Z Forest forwarder vehicle left sawmill and delivered load of planed timber products to PMC Planed Timber WH 1 <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T04:22:00Z Forest forwarder vehicle left sawmill and delivered load of planed timber products to PMC Planed Timber WH 1 <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-This was 16 tons of planed timber. Hmm 16t, I read somewhere that one truck load is 8t, but perhaps that was literally just it, a TRUCK like box truck or a van is 8t, but these farming and forest tractors and perhaps semi-trucks as well are 16 ton capacity, maybe? I know garbage truck is 20,000 unit capacity but is that 20t or? Hehe, dunno <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This was 16 tons of planed timber. Hmm 16t, I read somewhere that one truck load is 8t, but perhaps that was literally just it, a TRUCK like box truck or a van is 8t, but these farming and forest tractors and perhaps semi-trucks as well are 16 ton capacity, maybe? I know garbage truck is 20,000 unit capacity but is that 20t or? Hehe, dunno <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -268,7 +268,7 @@ Purchased small tree sapling field, budget now 7.9k.
 </p>
 
 <p>
-Hmm so now I'm getting profit again, 2074 this time. I wonder where does this profit coming from, all I've done is running this extractor to log yard to sawmill to warehouse loop, I have not exported or sold anything as I understand it. Hmm guess the profit is some kind of tax thing or something then? I mean me, as player, is like citys mayor or something, not the CEO of this forest district company heh. Dunno, not that it matters but would be nice to know what the hell is the money for <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hmm so now I'm getting profit again, 2074 this time. I wonder where does this profit coming from, all I've done is running this extractor to log yard to sawmill to warehouse loop, I have not exported or sold anything as I understand it. Hmm guess the profit is some kind of tax thing or something then? I mean me, as player, is like citys mayor or something, not the CEO of this forest district company heh. Dunno, not that it matters but would be nice to know what the hell is the money for <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -288,7 +288,7 @@ Hmm OK I'll stop these play-by-play updates, just going to mention if something 
 </p>
 
 <p>
-2022-08-26T05:11:00Z Purchased biomass pellet plant and small warehouse yard named PMC Paper WH 1, budget now 571 heh. Now this is getting exciting, another industries building <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T05:11:00Z Purchased biomass pellet plant and small warehouse yard named PMC Paper WH 1, budget now 571 heh. Now this is getting exciting, another industries building <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -296,7 +296,7 @@ And semi-truck left from small log yard right away to deliver raw forestry produ
 </p>
 
 <p>
-2022-08-26T05:24:00Z Lunch time, will pause game while I eat, don't want to miss any action <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T05:24:00Z Lunch time, will pause game while I eat, don't want to miss any action <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -324,7 +324,7 @@ Cemetery and bus depot became available in this milestone, cemetery is essential
 </p>
 
 <p>
-2022-08-26T06:48:00Z First delivery from small warehouse yard of unique factory products left to our commercial zone. I have no idea if I'm getting some extra money from "all this work" or whats going on. According to budget industry areas tab we are taking a loss of -1.7k a week <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-26T06:48:00Z First delivery from small warehouse yard of unique factory products left to our commercial zone. I have no idea if I'm getting some extra money from "all this work" or whats going on. According to budget industry areas tab we are taking a loss of -1.7k a week <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -360,7 +360,7 @@ Small crop field production rate 2,400 units per week. Small fruit greenhouse pr
 </p>
 
 <p>
-2022-08-26T08:01:00Z Forgot to place down warehouse for animal products, realized it as animal pasture sent semi-truck to export products for outside connection <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T08:01:00Z Forgot to place down warehouse for animal products, realized it as animal pasture sent semi-truck to export products for outside connection <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -420,7 +420,7 @@ Purchased flour mill, production rate 4,160 units per week. Lets get ready for b
 </p>
 
 <p>
-I hope today will be a great industries DLC day <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I hope today will be a great industries DLC day <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -432,11 +432,11 @@ Small oil pump production rate 4,800 units per week (I hope I didn't write these
 </p>
 
 <p>
-So units, what the fuck are the units? Huh <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+So units, what the fuck are the units? Huh <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
-When you purchase small crude oil tank farm its tooltip shows capacity 300,000 (without the comma, btw), however when its placed and running, its info panel shows storage: ? / 900 barrels. Barrels? What fucking barrels, how many liters or whatever is one fucking barrel? ENGLISH MOTHERFUCKER! DO YOU SPEAK IT!? <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+When you purchase small crude oil tank farm its tooltip shows capacity 300,000 (without the comma, btw), however when its placed and running, its info panel shows storage: ? / 900 barrels. Barrels? What fucking barrels, how many liters or whatever is one fucking barrel? ENGLISH MOTHERFUCKER! DO YOU SPEAK IT!? <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -452,7 +452,7 @@ Currently our unique factory products warehouse has storage: 75 / 100 tons (what
 </p>
 
 <p>
-I read somewhere last night that indeed import / export does not have a value, imports are free and you get no money from exports. You are like citys mayor so you get TAX REVENUE to your budget, what these companies in your city import or export are their business, your business is to tax them for commercial zone sales and such, or something ... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I read somewhere last night that indeed import / export does not have a value, imports are free and you get no money from exports. You are like citys mayor so you get TAX REVENUE to your budget, what these companies in your city import or export are their business, your business is to tax them for commercial zone sales and such, or something ... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -496,7 +496,7 @@ Small oil drilling rig production rate 6,400 units per week. Petrochemical plant
 </p>
 
 <p>
-Also now small oil pump production rate 4,992 units per week, err how did it suddenly just increase? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Also now small oil pump production rate 4,992 units per week, err how did it suddenly just increase? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -512,7 +512,7 @@ Well obviously because the level up, but what the fuck is the point of writing t
 </p>
 
 <p>
-BTW so far I've completely ignored rest of my city, my eyes have been on the industries DLC districts all the time <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+BTW so far I've completely ignored rest of my city, my eyes have been on the industries DLC districts all the time <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -536,7 +536,7 @@ Immediately petrochemical plant 1 started to deliver some plastics there.
 </p>
 
 <p>
-2022-08-26T17:48:00Z Glass manufacturing plant 1 says "not enough buyers for products" because I forgot to buy (didn't have money, actually) warehouse for glass products <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-26T17:48:00Z Glass manufacturing plant 1 says "not enough buyers for products" because I forgot to buy (didn't have money, actually) warehouse for glass products <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -584,7 +584,7 @@ PMC Farming 1 district buildings. Extractors small crop field 1 production rate 
 </p>
 
 <p>
-That is total extraction units: 9,984 and processor capacity: 6,656 plus whatever the first animal pasture is when operating <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+That is total extraction units: 9,984 and processor capacity: 6,656 plus whatever the first animal pasture is when operating <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -604,7 +604,7 @@ Unique factories, furniture factory production rate 2,400, bakery production rat
 </p>
 
 <p>
-It was cool to see unique factory warehouse sending deliveries to commercial zone, feels so good to have our own products sold there instead of some dirty imports <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+It was cool to see unique factory warehouse sending deliveries to commercial zone, feels so good to have our own products sold there instead of some dirty imports <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -612,7 +612,7 @@ It was cool to see unique factory warehouse sending deliveries to commercial zon
 </p>
 
 <p>
-2022-08-26T19:02:00Z Purchased small crop field for PMC Farming 1 district, we need more capacity! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-26T19:02:00Z Purchased small crop field for PMC Farming 1 district, we need more capacity! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -620,7 +620,7 @@ So to update PMC Farming 1 district extractors list: 4 * small crop field == tot
 </p>
 
 <p>
-Soon after I realized why my farming district crop production values did not match, bakery as unique factory needs crops as well, its capacity for crops is 48 tons (48,000 units). Not exactly sure how that computes to weekly rate for crop demand. But guess I'll need to step up my crop production big time <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Soon after I realized why my farming district crop production values did not match, bakery as unique factory needs crops as well, its capacity for crops is 48 tons (48,000 units). Not exactly sure how that computes to weekly rate for crop demand. But guess I'll need to step up my crop production big time <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -696,7 +696,7 @@ Update on processing flour 2 * 4,160 == 8,320.
 </p>
 
 <p>
-Oh, just realized we don't have any unique factory which uses glass, heh well that explains it <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+Oh, just realized we don't have any unique factory which uses glass, heh well that explains it <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -724,7 +724,7 @@ I'm spending much of my time in views like this monitoring industry district act
 </p>
 
 <p>
-No idea whats going on in elsewhere in the city, I let my secretary handle all that stuff while I'm having fun with industry <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+No idea whats going on in elsewhere in the city, I let my secretary handle all that stuff while I'm having fun with industry <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -740,7 +740,7 @@ Currently outside connections imports 119 and exports 42, don't think I've ever 
 </p>
 
 <p>
-Haha no, you idiot. Plastics is another product that I still don't have unique factory for <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Haha no, you idiot. Plastics is another product that I still don't have unique factory for <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -752,7 +752,7 @@ Haha no, you idiot. Plastics is another product that I still don't have unique f
 </p>
 
 <p>
-High density zones, metro, incineration plant, university and large warehouse are now available. But who cares as I'm having so much fun with industry DLC districts <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+High density zones, metro, incineration plant, university and large warehouse are now available. But who cares as I'm having so much fun with industry DLC districts <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -764,7 +764,7 @@ In glass manufacturing plant 1 turned off allow outside connections exports now 
 </p>
 
 <p>
-2022-08-26T21:12:00Z Finally added some high density residential for new people to move in <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-26T21:12:00Z Finally added some high density residential for new people to move in <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -808,7 +808,7 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-Wonder at which point our unique factory product warehouses along with commercial zone gets overwhelmed? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Wonder at which point our unique factory product warehouses along with commercial zone gets overwhelmed? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -824,7 +824,7 @@ I have zero understanding about the specialized industry budget, first of all it
 </p>
 
 <p>
-One thing that was surprising is how little you need to run industry setup, in my previous savegames I completely and utterly destroyed traffic as I spammed those buildings down completely almost random manner as I had zero clue how they work together. For example I placed probably 10-20 oil drills, right now I have two (2)! Heh that is amazing! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+One thing that was surprising is how little you need to run industry setup, in my previous savegames I completely and utterly destroyed traffic as I spammed those buildings down completely almost random manner as I had zero clue how they work together. For example I placed probably 10-20 oil drills, right now I have two (2)! Heh that is amazing! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -832,7 +832,7 @@ For idiots like me, the natural resources info view usually means "lets fill tho
 </p>
 
 <p>
-<img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -956,7 +956,7 @@ In my opinion it was not that long at 3x speed when several deliveries already a
 </p>
 
 <p>
-Whoah fire in the forestry district! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Whoah fire in the forestry district! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -976,7 +976,7 @@ A mere seconds later furniture factory was out of paper. Okay lets investigate f
 </p>
 
 <p>
-More factories, probably need to boost more production of special products too <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+More factories, probably need to boost more production of special products too <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1032,7 +1032,7 @@ Another big whopping unique factory is running.
 </p>
 
 <p>
-2022-08-27T00:59:00Z Toy Factory reports "not enough buyers for products", oh our unique factory products warehouses are all full <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-27T00:59:00Z Toy Factory reports "not enough buyers for products", oh our unique factory products warehouses are all full <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1076,11 +1076,11 @@ Its pretty much what you want to do, if nitty gritty stuff doesn't interest you 
 </p>
 
 <p>
-Dunno, for this nitty gritty industry purpose I currently think industries DLC is pretty great <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Dunno, for this nitty gritty industry purpose I currently think industries DLC is pretty great <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Most likely in the future I feel again that this is too time consuming hands on approach for industry, but yeah, if ya don't like it then darn don't use it, eh <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Most likely in the future I feel again that this is too time consuming hands on approach for industry, but yeah, if ya don't like it then darn don't use it, eh <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1116,7 +1116,7 @@ Okay next issue seems to be ore 1 district, not enough glass production. Purchas
 </p>
 
 <p>
-2022-08-27T02:08:00Z Okay I guess its time to grow this city a bit heh, been doing nothing but industries DLC main building stuff all savegame <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-27T02:08:00Z Okay I guess its time to grow this city a bit heh, been doing nothing but industries DLC main building stuff all savegame <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1132,7 +1132,7 @@ Population now 19k. Lets get growing.
 </p>
 
 <p>
-2022-08-27T02:27:00Z Purchased fourth Biomass Pellet Plant, we need more paper! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-27T02:27:00Z Purchased fourth Biomass Pellet Plant, we need more paper! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1156,11 +1156,11 @@ Increased PMC Commercial 1 district size a bit so we can sell those unique facto
 </p>
 
 <p>
-2022-08-27T02:53:00Z Purchased Saw Dust Storage and Wood Chip Storage for PMC Forestry 1 industrial district, again running out of space, those forest extractors push so much raw material <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-27T02:53:00Z Purchased Saw Dust Storage and Wood Chip Storage for PMC Forestry 1 industrial district, again running out of space, those forest extractors push so much raw material <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Ouch, should not have bought both at the same time in same area <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Ouch, should not have bought both at the same time in same area <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1232,7 +1232,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-I can safely say I have never seen outside connections export statistics like this before <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I can safely say I have never seen outside connections export statistics like this before <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1252,7 +1252,7 @@ Imports are 2.8k which has 2.4k of goods. So our generic industry is a bit lacki
 </p>
 
 <p>
-Getting some truck and van traffic to new residential and commercial zones <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Getting some truck and van traffic to new residential and commercial zones <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1268,7 +1268,7 @@ Never ever zone large amounts of high density commercial zones, it generates ini
 </p>
 
 <p>
-Geez <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Geez <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1284,7 +1284,7 @@ Creating new high density residential zone, even a single 4 x 4 unit building si
 </p>
 
 <p>
-Can we survive this? Uh oh <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Can we survive this? Uh oh <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -1324,7 +1324,7 @@ After losing interest when "reaching everything" in industries DLC main building
 </p>
 
 <p>
-2022-08-27T18:15:00Z Aayeah! Our population is 100k, we have met our goal! Whohoo! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-27T18:15:00Z Aayeah! Our population is 100k, we have met our goal! Whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

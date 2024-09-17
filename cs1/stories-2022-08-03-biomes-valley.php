@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ On the first grid tile we had railroad tracks going straight through E-W directi
 </p>
 
 <p>
-And we have started, 100k, here we go! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And we have started, 100k, here we go! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-04T0000.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-04T0000.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -94,7 +94,7 @@ Oh forgot to start saving too heh, ok saved game for Biomes_Valley_1 file name.
 </p>
 
 <p>
-Some new zoning <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Some new zoning <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-04T0127.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-04T0127.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -148,13 +148,13 @@ And from the east.
 </p>
 
 <p>
-We got ourselves a cargo train terminal, lets start hauling some cargo <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+We got ourselves a cargo train terminal, lets start hauling some cargo <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-04T0210.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-04T0210.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-First customer arriving, here's to millions more! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+First customer arriving, here's to millions more! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-04T0212.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-04T0212.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -170,7 +170,7 @@ Its interesting how long time does it take to create such dirt road grid, there 
 </p>
 
 <p>
-Or a button "play my game for me, NOW!!1" <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+Or a button "play my game for me, NOW!!1" <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -336,7 +336,7 @@ Going to let this roundabout highway outside connection run a bit and see if cle
 </p>
 
 <p>
-Well trying to rework the roundabout and roads around it was a mess, first cargo train terminal roads were hilariously bad, uuh heh this is not fun <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Well trying to rework the roundabout and roads around it was a mess, first cargo train terminal roads were hilariously bad, uuh heh this is not fun <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -364,7 +364,7 @@ Hmm a lot of farm buildings shows not enough buyers for products, meaning either
 </p>
 
 <p>
-Looking at my own notes for this issue and yeah they emphasize on either too many industrial zones or traffic jams, I kinda have both, ouch! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Looking at my own notes for this issue and yeah they emphasize on either too many industrial zones or traffic jams, I kinda have both, ouch! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -472,7 +472,7 @@ But we'll continue.
 </p>
 
 <p>
-2022-08-04T23:24:00Z Feeding time over, now lets fully begin todays game-play session, lets get biomes valley to 100k population <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-04T23:24:00Z Feeding time over, now lets fully begin todays game-play session, lets get biomes valley to 100k population <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -548,7 +548,7 @@ Know
 </p>
 
 <p>
-<img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -612,7 +612,7 @@ Now RCI commercial graphical bar started to show a little bit, it was pixel or t
 </p>
 
 <p>
-2022-08-05T01:16:00Z Removed some more low density commercial zones, now budget went to -10k per day and population was dropping, unemployment was 30% but now RCI commercial bar was heh almost full <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-05T01:16:00Z Removed some more low density commercial zones, now budget went to -10k per day and population was dropping, unemployment was 30% but now RCI commercial bar was heh almost full <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -660,11 +660,11 @@ Next going to nuke half of PMC Forestry 1 district as its so huge. I bet this wi
 <a href="screenshots/Cities-Skylines-2022-08-05T0249.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0249.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Immediate effect was that outside connections exports pie chat for forest is the same, total export dropped to 6.8k and RCI industrial info bar is about stable two pixels now. I'll give it a bit more time to really settle down, maybe visit the head while waiting etc <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Immediate effect was that outside connections exports pie chat for forest is the same, total export dropped to 6.8k and RCI industrial info bar is about stable two pixels now. I'll give it a bit more time to really settle down, maybe visit the head while waiting etc <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2022-08-05T03:00:00Z Whoah now RCI industrial bar is 100% FULL! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+2022-08-05T03:00:00Z Whoah now RCI industrial bar is 100% FULL! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -672,7 +672,7 @@ That was, unexpected, yeah I was expecting to see some movement in status but no
 </p>
 
 <p>
-And now guess what, the GENERIC industry zoning is banging hammers, hard. Every single zone unit is occupied with big industry buildings, awesome <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And now guess what, the GENERIC industry zoning is banging hammers, hard. Every single zone unit is occupied with big industry buildings, awesome <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-05T0307.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0307.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -688,17 +688,17 @@ Also set the nearby small warehouse to commercial zones goods mode.
 <a href="screenshots/Cities-Skylines-2022-08-05T0310.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0310.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Its a beautiful thing when industry is growing instantly after you assign zones to it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Its a beautiful thing when industry is growing instantly after you assign zones to it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-05T0326.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0326.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-In the background you have small warehouses also almost full, things are looking real nice, good to see generic industry making a comeback <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+In the background you have small warehouses also almost full, things are looking real nice, good to see generic industry making a comeback <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Still no sign of industrial info bar going down, cool <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Still no sign of industrial info bar going down, cool <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-05T0331.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0331.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -730,7 +730,7 @@ Coming along nicely, RCI industrial info bar remains full.
 <a href="screenshots/Cities-Skylines-2022-08-05T0357.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0357.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Another filthy polluting industrial nastiness nest is complete, I love it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Another filthy polluting industrial nastiness nest is complete, I love it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-05T0412.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0412.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -752,7 +752,7 @@ Hmm 40% of our population are highly educated, these people don't want to work i
 </p>
 
 <p>
-Added offices, they got built right away and RCI came down, then RCI went back up again heh. Added some more commercial. Now commercial info bar was three or so pixels (5-10% at max), and industrial was again 100% heh, its never going down <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Added offices, they got built right away and RCI came down, then RCI went back up again heh. Added some more commercial. Now commercial info bar was three or so pixels (5-10% at max), and industrial was again 100% heh, its never going down <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -786,13 +786,13 @@ I'm going to hijack PMC Farmland 5 district into generic industry use, its fairl
 </p>
 
 <p>
-2022-08-05T06:27:00Z Goal has been reached, population 100,000! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-05T06:27:00Z Goal has been reached, population 100,000! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-05T0627.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-05T0627.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-05T06:29:00Z Saved game and shutdown Cities Skylines <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-05T06:29:00Z Saved game and shutdown Cities Skylines <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -32,7 +32,7 @@ Goal is to reach population 100k today as quick as possible while still enjoying
 </p>
 
 <p>
-Addons used: 81_tiles, CargoHoldFix, ChirpyExterminator, CinematicCameraExtended, CitiesHarmony, ExtendedGameOptions, FirstPersonCamera_Updated, LifecycleRebalanceRevisited, RealPopRevisited, TMPE, TransferManagerCE. However this list is not completely accurate, these are the main addons I'm using and recognizing by dir name, there are few others which names escape me now. All in all having hard time making this list other than listing all the dirs which doesn't work anymore as I don't use all the addons found in the dir, err heh. Sorry <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Addons used: 81_tiles, CargoHoldFix, ChirpyExterminator, CinematicCameraExtended, CitiesHarmony, ExtendedGameOptions, FirstPersonCamera_Updated, LifecycleRebalanceRevisited, RealPopRevisited, TMPE, TransferManagerCE. However this list is not completely accurate, these are the main addons I'm using and recognizing by dir name, there are few others which names escape me now. All in all having hard time making this list other than listing all the dirs which doesn't work anymore as I don't use all the addons found in the dir, err heh. Sorry <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -40,11 +40,11 @@ Okay so this is the first savegame started where I'm using 81 tiles addon to get
 </p>
 
 <p>
-I want freedom, I need my freedom <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I want freedom, I need my freedom <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Here is very basic starter setup, simulated 0/180 arterial road, 90/270 collector road and the ones with zoning are local roads. I wont be doing the cheaty 1x1 unit square setup this time, especially as I now have freedom with full 81 terrain grid tiles available, I want to spread my wings <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Here is very basic starter setup, simulated 0/180 arterial road, 90/270 collector road and the ones with zoning are local roads. I wont be doing the cheaty 1x1 unit square setup this time, especially as I now have freedom with full 81 terrain grid tiles available, I want to spread my wings <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -56,7 +56,7 @@ Here is very basic starter setup, simulated 0/180 arterial road, 90/270 collecto
 </p>
 
 <p>
-This is hardcore on new version of realistic population addon. Total of 45 workers in generic industry building, whoah <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+This is hardcore on new version of realistic population addon. Total of 45 workers in generic industry building, whoah <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -76,7 +76,7 @@ Turned TMPE vehicle de-spawning OFF.
 </p>
 
 <p>
-Yikes 90 workers! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Yikes 90 workers! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -104,7 +104,7 @@ Saved game for Desert_Pass_3 file name.
 </p>
 
 <p>
-This is bizarre terrain as its european style in desert climate heh. Err, ok <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+This is bizarre terrain as its european style in desert climate heh. Err, ok <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -152,7 +152,7 @@ Coming along nicely.
 </p>
 
 <p>
-Goodness gracious those industrial districts are massive vehicle spammers <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Goodness gracious those industrial districts are massive vehicle spammers <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ Decided to try taxi for the first time in my life (on Cities Skylines, heh). Not
 </p>
 
 <p>
-2022-08-23T02:38:00Z Tested "mail" postal service too the first time ever. Well honestly, not in a mean way, but... post/mail service feels just stupid. I mean its a building and car drives around... for what, delivering snail mail in 2022? Eh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-23T02:38:00Z Tested "mail" postal service too the first time ever. Well honestly, not in a mean way, but... post/mail service feels just stupid. I mean its a building and car drives around... for what, delivering snail mail in 2022? Eh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -424,7 +424,7 @@ So now we are in emergency mode, I placed temporary incinerator plant by this ne
 </p>
 
 <p>
-Geez <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Geez <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -452,7 +452,7 @@ Oh and just as I finished writing the above the highway red traffic flow starts 
 </p>
 
 <p>
-Was configuring TMPE timed traffic lights for the adaptive flow of traffic, very cool stuff, when that milestone interrupted me heh. Luckily this time when using 81 tiles addon there is no need to buy all the terrain tiles now, we already own them <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Was configuring TMPE timed traffic lights for the adaptive flow of traffic, very cool stuff, when that milestone interrupted me heh. Luckily this time when using 81 tiles addon there is no need to buy all the terrain tiles now, we already own them <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -508,7 +508,7 @@ Man, Cities Skylines game-play is just one traffic jam after another...
 </p>
 
 <p>
-2022-08-24T06:59:00Z Back, oh man that took a while, in total over an hour. I did the chore and then ate a meal. My sleeping schedule is way off so I think now its already my bed time but heh, we'll keep going for several more hours as I just ate <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-24T06:59:00Z Back, oh man that took a while, in total over an hour. I did the chore and then ate a meal. My sleeping schedule is way off so I think now its already my bed time but heh, we'll keep going for several more hours as I just ate <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -524,7 +524,7 @@ New residential districts started, just nick of time, eh.
 </p>
 
 <p>
-2022-08-24T07:47:00Z Hooyah! Goal reached, 100k population, yeah baby, finally! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-24T07:47:00Z Hooyah! Goal reached, 100k population, yeah baby, finally! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -536,7 +536,7 @@ There would be plenty of do in this empty flat australian looking bizarre europe
 </p>
 
 <p>
-2022-08-24T07:49:00Z Saved game and shutdown Cities Skylines, g'day mate! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-24T07:49:00Z Saved game and shutdown Cities Skylines, g'day mate! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -44,7 +44,7 @@ This savegame will be extremely uncomfortable "just get it over with" type of th
 </p>
 
 <p>
-Sigh this terrain <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Sigh this terrain <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -52,7 +52,7 @@ Actually for this savegame story game-play I'll try to keep screenshots to a bar
 </p>
 
 <p>
-2022-08-21T11:47:00Z Unpaused the game, lets get this crap done <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-08-21T11:47:00Z Unpaused the game, lets get this crap done <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -68,7 +68,7 @@ Taxes on, lets make some money.
 </p>
 
 <p>
-This terrain heightmap is so unsuitable for Cities Skylines that I will never again play in this savegame, ugh <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+This terrain heightmap is so unsuitable for Cities Skylines that I will never again play in this savegame, ugh <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -172,7 +172,7 @@ This office worker issue now holds up the progress mostly.
 </p>
 
 <p>
-2022-08-21T16:13:00Z Saved game and went off to cook food while game runs in 3x speed, I expect problems when I come back <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+2022-08-21T16:13:00Z Saved game and went off to cook food while game runs in 3x speed, I expect problems when I come back <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -180,7 +180,7 @@ This office worker issue now holds up the progress mostly.
 </p>
 
 <p>
-Oh my the city is in a shambles! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Oh my the city is in a shambles! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ I don't think its going to be a problem to have a many industry areas, if they a
 </p>
 
 <p>
-Now quickly save and NEVER return to this shit terrain, ever <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Now quickly save and NEVER return to this shit terrain, ever <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

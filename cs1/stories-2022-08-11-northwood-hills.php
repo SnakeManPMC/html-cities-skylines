@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: CargoHoldFix, ExtendedGameOptions, Harmony, RealPopRevisited, Round
 </p>
 
 <p>
-In this savegame start because of realpoprevisited addon I'm going to place 1x1 unit low density residential zones until big town milestone is reached. If you call that a cheat then so be it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+In this savegame start because of realpoprevisited addon I'm going to place 1x1 unit low density residential zones until big town milestone is reached. If you call that a cheat then so be it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -50,7 +50,7 @@ First save game for Northwood_Hills_1 file name.
 </p>
 
 <p>
-But uh oh I messed that up, forgot water tower and then on top of that it got placed without power, so it didn't work and then nobody had water heh. Only thing I could hope is that the first milestone kicks in before anything "dies" <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+But uh oh I messed that up, forgot water tower and then on top of that it got placed without power, so it didn't work and then nobody had water heh. Only thing I could hope is that the first milestone kicks in before anything "dies" <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -64,13 +64,13 @@ What a newbie mistake, well this will be fixed in my next game start.
 </p>
 
 <p>
-2022-08-11T07:33:00Z Savegame loaded and I managed to place water tower and connect it to the power network <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-11T07:33:00Z Savegame loaded and I managed to place water tower and connect it to the power network <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-11T0734.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-11T0734.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Here we go, not a restart but savegame load to correct minor fix <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Here we go, not a restart but savegame load to correct minor fix <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -84,7 +84,7 @@ At this point all I could do is wait, I've thrown the dices in the air and there
 </p>
 
 <p>
-We made it! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+We made it! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -114,11 +114,11 @@ Yikes! We got power generating building in fire!
 <a href="screenshots/Cities-Skylines-2022-08-11T0753.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-11T0753.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Luckily our fire department was on point and extinquished the fire <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Luckily our fire department was on point and extinquished the fire <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Come on city, grow, GROW! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Come on city, grow, GROW! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-11T0756.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-11T0756.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -148,7 +148,7 @@ Well bus route got busy fast, at least one stop by the commercial zone is alread
 <a href="screenshots/Cities-Skylines-2022-08-11T0811.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-11T0811.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-I find this transportation thing quite faschinating, back in the old DOS days I played Ports Of Call ship company game and loved it, making bus and metro networks in Cities Skylines is not the same, but similar, in a way more complex too. Just very very interesting to me, I love watching especially metros hauling people around <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I find this transportation thing quite faschinating, back in the old DOS days I played Ports Of Call ship company game and loved it, making bus and metro networks in Cities Skylines is not the same, but similar, in a way more complex too. Just very very interesting to me, I love watching especially metros hauling people around <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -174,7 +174,7 @@ I judge if we need more commercial zoning by checking out buildings for "jobs av
 </p>
 
 <p>
-<img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -206,7 +206,7 @@ I have to say I am disappointed by the progress in this savegame, dunno what is 
 </p>
 
 <p>
-After cooking food (but not eating yet), I added bunch of high density residential zoning, am I fucking blind of what, I did not notice they became available so kind of disregard that "progress" paragraph before as I had high density zoning already available, dumb ass. OK it must have been lack of nutrition <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+After cooking food (but not eating yet), I added bunch of high density residential zoning, am I fucking blind of what, I did not notice they became available so kind of disregard that "progress" paragraph before as I had high density zoning already available, dumb ass. OK it must have been lack of nutrition <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -222,7 +222,7 @@ While I was away from keyboard, you could sum it up that my city burnt down. Fir
 </p>
 
 <p>
-Overall the damage was severe, shit got really out of hand while I was eating <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Overall the damage was severe, shit got really out of hand while I was eating <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -242,7 +242,7 @@ Lesson learned, wont be doing that mistake ever again.
 </p>
 
 <p>
-2022-08-11T10:14:00Z Last savegame loaded. We continue, lets first fix the prophecy of water pollution and also get fire department helicopter depot <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-11T10:14:00Z Last savegame loaded. We continue, lets first fix the prophecy of water pollution and also get fire department helicopter depot <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -380,7 +380,7 @@ Oh my look at that death wave.
 <a href="screenshots/Cities-Skylines-2022-08-12T0125.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0125.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Cargo train terminal for the big farming and forestry industry area, lets get that cargo moving <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Cargo train terminal for the big farming and forestry industry area, lets get that cargo moving <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0130.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0130.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -404,7 +404,7 @@ Had a real problems connecting highway to my collector industrial road, tried ro
 </p>
 
 <p>
-PMC Oil 1 and PMC Ore 1 districts created with all included, now just need to unpause the game to see what I forgot to add <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+PMC Oil 1 and PMC Ore 1 districts created with all included, now just need to unpause the game to see what I forgot to add <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0413.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0413.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -426,7 +426,7 @@ Created PMC Residential 3, with all the support and stuff.
 <a href="screenshots/Cities-Skylines-2022-08-12T0458.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0458.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Seems to be starting up pretty nicely, now we just need bunch of folks move in <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Seems to be starting up pretty nicely, now we just need bunch of folks move in <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0507.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0507.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -464,13 +464,13 @@ Troublesome traffic. The more industry, the more traffic. Problem.
 <a href="screenshots/Cities-Skylines-2022-08-12T0600.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0600.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-What kind of a beast have I created again... <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+What kind of a beast have I created again... <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0603.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0603.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-12T06:13:00Z Was adding new stuff and didn't even notice, we reached our goal 100k population! Yeah! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-12T06:13:00Z Was adding new stuff and didn't even notice, we reached our goal 100k population! Yeah! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0614.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0614.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -480,7 +480,7 @@ Another terrain savegame finished or at least goal met, now this savegame will b
 </p>
 
 <p>
-2022-08-12T06:16:00Z Saved game and shutdown Cities Skylines, we are done here <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-12T06:16:00Z Saved game and shutdown Cities Skylines, we are done here <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

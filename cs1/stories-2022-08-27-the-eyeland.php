@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ In this terrain savegame I'm going to use extra landscaping tools to create good
 </p>
 
 <p>
-Oh shit this is horrible looking islands terrain. Oh well lets see if we can get to 100k population as fast as possible <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Oh shit this is horrible looking islands terrain. Oh well lets see if we can get to 100k population as fast as possible <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Look at the stream of people moving into our city <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Look at the stream of people moving into our city <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -264,7 +264,7 @@ Look at the stream of people moving into our city <img src="../../images/smileys
 </p>
 
 <p>
-Should probably arrange some sort of mass transit thingy, but nah, lazy.. <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Should probably arrange some sort of mass transit thingy, but nah, lazy.. <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -304,7 +304,7 @@ Last milestone done, now we just go after the population goal.
 </p>
 
 <p>
-Whoah, what have I done again, traffic jam, while it does flow... percentage is quite low and that red is shockingly long towards to the terrain edges <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Whoah, what have I done again, traffic jam, while it does flow... percentage is quite low and that red is shockingly long towards to the terrain edges <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -344,7 +344,7 @@ Well during away time things actually got worse, traffic was on one lane in the 
 </p>
 
 <p>
-Ahoy matey! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Ahoy matey! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -364,7 +364,7 @@ Transfer Manager CE, options for general import, disabled for goods. Now lets se
 </p>
 
 <p>
-2022-08-28T07:36:00Z Whoah was still investigating and learning about transfer manager ce outside connections import blocking, when noticed that hey 103k population already! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-28T07:36:00Z Whoah was still investigating and learning about transfer manager ce outside connections import blocking, when noticed that hey 103k population already! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -108,7 +108,7 @@ This upgrade now allows me to create cargo ship yard, to export/import goods, le
 </p>
 
 <p>
-With this upgrade I got airport including cargo airport. Okay lets start exporting some shit <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+With this upgrade I got airport including cargo airport. Okay lets start exporting some shit <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -138,7 +138,7 @@ I have to say that dunno if I want to play some more in the future, I mean ... w
 </p>
 
 <p>
-Same old story, every game has too small terrain, except <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a> <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Same old story, every game has too small terrain, except <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a> <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -196,7 +196,7 @@ Terrain I chose was "Arid Plains", it has all the resources and outside connecti
 </p>
 
 <p>
-Now I get to play with ships, cargo harbor <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Now I get to play with ships, cargo harbor <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -254,7 +254,7 @@ Uhm, get it? OK.
 	<h2>2021-11-01 Undocumented Rage Unleashed</h2>
 
 <p>
-2021-11-01T18:03:00Z New gaming day has started, could not stay away, need to continue tweaking those logistic and other traffic routes <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2021-11-01T18:03:00Z New gaming day has started, could not stay away, need to continue tweaking those logistic and other traffic routes <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -270,7 +270,7 @@ Extremely frustrating.
 </p>
 
 <p>
-Now don't get me wrong, if the game would play itself with press of a button it would not be fun, if you were to just expand the city endlessly without any issues what would be the point of it. But fuck this shit as I have NO IDEA why the fucking commercial zones have no customers as the fucking game doesn't tell me, why the fuck do I have to google this shit? <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Now don't get me wrong, if the game would play itself with press of a button it would not be fun, if you were to just expand the city endlessly without any issues what would be the point of it. But fuck this shit as I have NO IDEA why the fucking commercial zones have no customers as the fucking game doesn't tell me, why the fuck do I have to google this shit? <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

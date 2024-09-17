@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -108,7 +108,7 @@ Feeling kind of bored, its one of those things that well okay fine maybe I'm bor
 </p>
 
 <p>
-2022-08-15T15:39:00Z Argh forgot again, I'm telling ya, its a reflex <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-15T15:39:00Z Argh forgot again, I'm telling ya, its a reflex <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -132,7 +132,7 @@ Saved game for Eden_Valley_2 file name.
 </p>
 
 <p>
-High density zones, metro, incineration plant and university are now available. Oh my and literally after 10 SECONDS of game-play <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+High density zones, metro, incineration plant and university are now available. Oh my and literally after 10 SECONDS of game-play <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -144,7 +144,7 @@ As expected population plummeted to lowest what I saw was 100 heh, then started 
 </p>
 
 <p>
-2022-08-16T06:08:00Z While the city recovers from this shock I'm off to eat days first meal while game runs in 3x time acceleration speed <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-16T06:08:00Z While the city recovers from this shock I'm off to eat days first meal while game runs in 3x time acceleration speed <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -220,7 +220,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Is this high score in traffic, 3% with those red lines on HIGHWAYS leading beyond the screen width <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Is this high score in traffic, 3% with those red lines on HIGHWAYS leading beyond the screen width <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -292,7 +292,7 @@ New pedestrian walking path bridge over the highway really shifted the walkers t
 </p>
 
 <p>
-Walking is good for you heh, excercise you maggots, move! Move! MOVE! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Walking is good for you heh, excercise you maggots, move! Move! MOVE! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -328,7 +328,7 @@ My way is to check out stops number which is how many persons are waiting, it sh
 </p>
 
 <p>
-2022-08-16T10:51:00Z We have reached the goal of 100k population, yeah baby! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-16T10:51:00Z We have reached the goal of 100k population, yeah baby! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

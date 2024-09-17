@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -128,7 +128,7 @@ Saved game for Frozenshire_4 file name which is the last of the four rotating fi
 </p>
 
 <p>
-This city is the fucking ugliest city in the planet <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+This city is the fucking ugliest city in the planet <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ Dunno what else to say, just trying to finish this savegame as fast as possible.
 </p>
 
 <p>
-2022-09-05T01:37:00Z Zoned some more high density residential. Saved game and will let it run on 3x speed while I go grab a days first meal <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-05T01:37:00Z Zoned some more high density residential. Saved game and will let it run on 3x speed while I go grab a days first meal <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -260,7 +260,7 @@ Anyways, lets just try to swing it...
 </p>
 
 <p>
-Zoned some office blocks, that hopefully entices our high density residential zoning to get some buildings up. This is now the last push to get us to our goal... so close! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Zoned some office blocks, that hopefully entices our high density residential zoning to get some buildings up. This is now the last push to get us to our goal... so close! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -268,7 +268,7 @@ Zoned some office blocks, that hopefully entices our high density residential zo
 </p>
 
 <p>
-2022-09-05T02:36:00Z Come on you filthy nasty stinkhole of a city, only a bit over 3k citizens to go! You can do it! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-05T02:36:00Z Come on you filthy nasty stinkhole of a city, only a bit over 3k citizens to go! You can do it! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -280,7 +280,7 @@ I will never return to these shit WINTER terrains, but having said that, this sa
 </p>
 
 <p>
-2022-09-05T02:43:00Z Uah finally! We have reached our goal, 100k population! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-05T02:43:00Z Uah finally! We have reached our goal, 100k population! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

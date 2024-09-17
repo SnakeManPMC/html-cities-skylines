@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -68,7 +68,7 @@ OK taxes on and lets make that money.
 </p>
 
 <p>
-Activated TMPE no vehicle de-spawning, we do it for real <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Activated TMPE no vehicle de-spawning, we do it for real <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -144,7 +144,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Only thing worth building in that coast line is wind turbines <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Only thing worth building in that coast line is wind turbines <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -160,7 +160,7 @@ Cargo harbor is now available.
 </p>
 
 <p>
-Industry expansion, whee. Should not have done it, would finish this savegame much sooner if just stick with high density residential and office zone spamming <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Industry expansion, whee. Should not have done it, would finish this savegame much sooner if just stick with high density residential and office zone spamming <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -176,7 +176,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Yeah grind that shizzle <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Yeah grind that shizzle <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-19T2059.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-19T2059.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -192,7 +192,7 @@ Fire in the industrial park, fire in the industrial park! All hands on deck!
 </p>
 
 <p>
-Keeping busy at the warehouse industrial area <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Keeping busy at the warehouse industrial area <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -212,7 +212,7 @@ Keeping busy at the warehouse industrial area <img src="../../images/smileys/ico
 </p>
 
 <p>
-Beavis voice "fire! Fire! FiRE! huhu, huh, huh, uhuhu, huhu, huh, uhuhu..." <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Beavis voice "fire! Fire! FiRE! huhu, huh, huh, uhuhu, huhu, huh, uhuhu..." <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -232,7 +232,7 @@ Final milestone achieved, now off to buy all the terrain grid tiles heh.
 </p>
 
 <p>
-Should not purchase more than one warehouse at the time, as it immediately started to be filled <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Should not purchase more than one warehouse at the time, as it immediately started to be filled <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ Hmm I have depleted all the ore from PMC Ore 1 district, how is that possible as
 </p>
 
 <p>
-2022-08-19T23:32:00Z Yeah buddy! Goal met, 100k population <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-19T23:32:00Z Yeah buddy! Goal met, 100k population <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -264,7 +264,7 @@ Hmm I have depleted all the ore from PMC Ore 1 district, how is that possible as
 </p>
 
 <p>
-Got little side tracked with the industry stuff, but yeah it was fun. It probably will be glorious one day to return into this savegame and start to casually play as there is no other goals to chase <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Got little side tracked with the industry stuff, but yeah it was fun. It probably will be glorious one day to return into this savegame and start to casually play as there is no other goals to chase <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

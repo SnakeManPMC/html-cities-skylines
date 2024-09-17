@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -32,13 +32,13 @@ This addon changes buildings to have realistic numbers of households and people.
 </p>
 
 <p>
-New high score on largest office building workers wise! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+New high score on largest office building workers wise! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-31T0306.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-31T0306.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Total of 723 workers in a office building, ok I'll take that <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Total of 723 workers in a office building, ok I'll take that <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

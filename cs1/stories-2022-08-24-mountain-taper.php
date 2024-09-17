@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -80,7 +80,7 @@ First save game for Mountain_Taper_1 file name.
 </p>
 
 <p>
-Ran out of money for the first time in my life in such beginner savegame start situation <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Ran out of money for the first time in my life in such beginner savegame start situation <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -92,7 +92,7 @@ Had to turn budget to 50% for everything.
 </p>
 
 <p>
-Now I have one more option left, if I don't reach the milestone population with this config, there is the arterial and collector road available to place low density residential zoning, which is a bad idea for the long run but then again there wont be any long run if we run out of money <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Now I have one more option left, if I don't reach the milestone population with this config, there is the arterial and collector road available to place low density residential zoning, which is a bad idea for the long run but then again there wont be any long run if we run out of money <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -100,7 +100,7 @@ Setting budget to 50% on everything helped, now I'm getting profit, can grow the
 </p>
 
 <p>
-2022-08-24T19:06:00Z Little Hamlet population 480. Uuh we made it! Whohoo! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-24T19:06:00Z Little Hamlet population 480. Uuh we made it! Whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -108,7 +108,7 @@ Turned on taxes to 12% for industrial, low density residential and commercial.
 </p>
 
 <p>
-Oh wow I used realistic population (think that it was) to set realistic school student capacities and now elementary school has 234 (yes two hundred and thirty fucking four) students. Goodness gracious as default 400 was already way too low! <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Oh wow I used realistic population (think that it was) to set realistic school student capacities and now elementary school has 234 (yes two hundred and thirty fucking four) students. Goodness gracious as default 400 was already way too low! <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -136,7 +136,7 @@ Hmm community school provides 915 student capacity and its alternate for element
 </p>
 
 <p>
-2022-08-24T19:34:00Z Tiny Town population 1.5k. Gotta love when your brain commands you to press a key in keyboard, your body starts to respond (wait, brain is not your body? WHOAH mind has blownz hehe), finger presses ESC but a fraction of a second before Cities Skylines activates milestone and your ESC press actually closes the milestone dialog <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-24T19:34:00Z Tiny Town population 1.5k. Gotta love when your brain commands you to press a key in keyboard, your body starts to respond (wait, brain is not your body? WHOAH mind has blownz hehe), finger presses ESC but a fraction of a second before Cities Skylines activates milestone and your ESC press actually closes the milestone dialog <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -148,7 +148,7 @@ Saved game for Mountain_Taper_3 file name.
 </p>
 
 <p>
-2022-08-24T19:51:00Z Quick few minutes break is over to update into qBittorrent v4.4.4 <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-24T19:51:00Z Quick few minutes break is over to update into qBittorrent v4.4.4 <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -156,7 +156,7 @@ Created PMC Residential 2 district other side of the collector road which also g
 </p>
 
 <p>
-Trying something new with collector and local roads, no 4 way intersections and overpasses from one district to another every where possible. Should work ok, yes? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Trying something new with collector and local roads, no 4 way intersections and overpasses from one district to another every where possible. Should work ok, yes? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -168,7 +168,7 @@ PMC Goods WH 1 is already 100% full 100 tons. Well that was quick. Hopefully now
 </p>
 
 <p>
-2022-08-24T20:00:00Z Feeling good about this terrain and city, good settings for addons like the warehouses first, started to use community school for higher capacity education, progressing nice and slow enjoying every moment of it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-24T20:00:00Z Feeling good about this terrain and city, good settings for addons like the warehouses first, started to use community school for higher capacity education, progressing nice and slow enjoying every moment of it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -212,7 +212,7 @@ Used transfer manager ce to setup this fire station only handle calls from PMC I
 </p>
 
 <p>
-2022-08-24T20:54:00Z Had our first fire in PMC Industrial 1 district, in 3x time acceleration when I saw the fire icon on the horizon I hit pause game and moved camera there but I was too late, first two fire engines were already at the scene guys getting out of the trucks. Always nice to see public services working as intended <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-24T20:54:00Z Had our first fire in PMC Industrial 1 district, in 3x time acceleration when I saw the fire icon on the horizon I hit pause game and moved camera there but I was too late, first two fire engines were already at the scene guys getting out of the trucks. Always nice to see public services working as intended <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ Created new PMC Industrial 2 district, I want to spread out busy industrial area
 </p>
 
 <p>
-Doing a new residential district on other side of the arterial road to spread out the traffic, however I'm running out of money <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Doing a new residential district on other side of the arterial road to spread out the traffic, however I'm running out of money <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -296,7 +296,7 @@ This scares me, seems like we are still in control of the traffic but if there i
 </p>
 
 <p>
-Build some roads to the first high density residential area, then came back to PMC Industrial 1 and 2 districts... I'm paralyzed by fear of failure, that what if I add more industrial zoning here and it gridlocks traffic. That would not be fun. But sitting there wondering about that is not leading us anywhere, hmm hmm <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Build some roads to the first high density residential area, then came back to PMC Industrial 1 and 2 districts... I'm paralyzed by fear of failure, that what if I add more industrial zoning here and it gridlocks traffic. That would not be fun. But sitting there wondering about that is not leading us anywhere, hmm hmm <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -348,7 +348,7 @@ Action in cargo terminal has begun, nice to see those cargos being imported/expo
 </p>
 
 <p>
-Whoah 462 workers in this office, dude! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Whoah 462 workers in this office, dude! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -380,7 +380,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-2022-08-25T03:59:00Z Accidentially buldozered my only office building which had all jobs filled <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-25T03:59:00Z Accidentially buldozered my only office building which had all jobs filled <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -400,7 +400,7 @@ When the buildings "grew" back, they both got over 50% workers so there will be 
 </p>
 
 <p>
-2022-08-25T06:11:00Z Back, took a while, now started savegame up and right away going to grab a bite to eat while nice view from PMC Industrial 1 district is showing some vehicle activity <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-25T06:11:00Z Back, took a while, now started savegame up and right away going to grab a bite to eat while nice view from PMC Industrial 1 district is showing some vehicle activity <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -480,7 +480,7 @@ Cargo harbor is now available. Created one of these to nearest coastline with co
 </p>
 
 <p>
-First ship is arriving <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+First ship is arriving <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -500,7 +500,7 @@ Did not plan for this it just happened, but my intersection is a bit offset and 
 </p>
 
 <p>
-First ship is leaving with our exports, bye bye stuff, was nice knowing ya <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+First ship is leaving with our exports, bye bye stuff, was nice knowing ya <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -520,7 +520,7 @@ Hmm dunno, the individual districts local roads would still be peppered with veh
 </p>
 
 <p>
-2022-08-25T09:03:00Z Anyways I'm so dead tired right now that I cant get into sophisticated thinking like that <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-25T09:03:00Z Anyways I'm so dead tired right now that I cant get into sophisticated thinking like that <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -544,7 +544,7 @@ Created passenger ship harbor, this also helps a bit with new citizens moving in
 </p>
 
 <p>
-Ahoy matey! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Ahoy matey! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -576,7 +576,7 @@ PMC Residential 7 district on the horizon there, probably many of these arriving
 </p>
 
 <p>
-2022-08-25T17:31:00Z Laid the foundations of PMC Residential 8 district, but now... its time to eat days first meal, I'm starvin' <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-25T17:31:00Z Laid the foundations of PMC Residential 8 district, but now... its time to eat days first meal, I'm starvin' <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -584,7 +584,7 @@ PMC Residential 7 district on the horizon there, probably many of these arriving
 </p>
 
 <p>
-2022-08-25T18:09:00Z Feeding time over, back to building some residential areas, feels like a great Cities Skylines day starting <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-25T18:09:00Z Feeding time over, back to building some residential areas, feels like a great Cities Skylines day starting <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -656,7 +656,7 @@ Was checking out my metro tracks and well, few of them kind of sucks, there is a
 </p>
 
 <p>
-2022-08-25T21:00:00Z Its been a long wait for office zones not being able to fill jobs, but now finally I'm seeing 0 jobs available on the latest buildings, OK lets zone some more as industrial demand is 95% so someone's gotta get a job <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-25T21:00:00Z Its been a long wait for office zones not being able to fill jobs, but now finally I'm seeing 0 jobs available on the latest buildings, OK lets zone some more as industrial demand is 95% so someone's gotta get a job <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -712,7 +712,7 @@ Created PMC Residential 10 district but don't bother with a screenshot because w
 </p>
 
 <p>
-2022-08-25T23:38:00Z Boom! Population 100k! Yeah baby! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-25T23:38:00Z Boom! Population 100k! Yeah baby! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

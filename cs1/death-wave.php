@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -32,7 +32,7 @@ What happens is your cemeteries and crematorioums are overwhelmed with dead pers
 </p>
 
 <p>
-Once your city grows, at some point initial population reaches old age and starts to die off pretty much at the same time putting huge pressure on health services (cemeteries and crematoriums), hearses are driving like crazy and cannot keep up with the walking zombies infestation of rotting corpses <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Once your city grows, at some point initial population reaches old age and starts to die off pretty much at the same time putting huge pressure on health services (cemeteries and crematoriums), hearses are driving like crazy and cannot keep up with the walking zombies infestation of rotting corpses <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

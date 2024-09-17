@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -44,7 +44,7 @@ These stories are my raw unfiltered thoughts, if I felt great it shows and if I 
 </p>
 
 <p>
-Enjoy the city building stories <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Enjoy the city building stories <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p><a href="stories-2021-10-30-game-play.php">Stories 2021-10-30 Game-play</a></p>

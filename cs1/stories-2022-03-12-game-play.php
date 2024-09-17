@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ I was extremely burnt out and bored with <a href="https://www.pmctactical.org/ar
 </p>
 
 <p>
-My previous city went into bankruptcy because <a href="garbage.php">Garbage</a> collection was bogged down behind bad road design, then residents left in huge wave as garbage piled up, I ran out of money... had no way to fix the roads to allow better garbage collection which would have allowed residents to come back. Game / savegame ended in failure, I could not save the city, this was my first "game over" in Cities Skylines <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+My previous city went into bankruptcy because <a href="garbage.php">Garbage</a> collection was bogged down behind bad road design, then residents left in huge wave as garbage piled up, I ran out of money... had no way to fix the roads to allow better garbage collection which would have allowed residents to come back. Game / savegame ended in failure, I could not save the city, this was my first "game over" in Cities Skylines <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -130,7 +130,7 @@ Basically idea is to load the savegame up and if I fuck it up... I'll just resta
 </p>
 
 <p>
-2022-03-13T21:48:00Z Well that lasted long. Tried to do roundabout and failed miserably. Back to watching tutorials ... <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-03-13T21:48:00Z Well that lasted long. Tried to do roundabout and failed miserably. Back to watching tutorials ... <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

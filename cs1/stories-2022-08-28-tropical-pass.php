@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,11 +36,11 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Just finished previous savegame but still had few hours left in tonight so decided to start a new terrain savegame. No specific plan on this one, just try to avoid traffic jams and grow that population fast. I'm going to configure transfer manager ce so we wont take any outside connection imports, gotta be self sustaining <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Just finished previous savegame but still had few hours left in tonight so decided to start a new terrain savegame. No specific plan on this one, just try to avoid traffic jams and grow that population fast. I'm going to configure transfer manager ce so we wont take any outside connection imports, gotta be self sustaining <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Uuh what a horrible looking terrain is this again <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Uuh what a horrible looking terrain is this again <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -164,11 +164,11 @@ However with that... I'm off to sleep, getting really tired and don't have energ
 </p>
 
 <p>
-2022-08-28T17:46:00Z New Cities Skylines day has started, just woke up, did computer chores and got caught by some stupid google gmail password crap, gave up on that stupidity, its time for Cities Skylines. Need to get some city building time before days first meal <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-28T17:46:00Z New Cities Skylines day has started, just woke up, did computer chores and got caught by some stupid google gmail password crap, gave up on that stupidity, its time for Cities Skylines. Need to get some city building time before days first meal <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Goodness gracious this terrain is such shit, eeww, the sooner I get this savegame pushed to 100k population the better, I want to move on to a better terrain savegames where I'm actually enjoying the game-play <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Goodness gracious this terrain is such shit, eeww, the sooner I get this savegame pushed to 100k population the better, I want to move on to a better terrain savegames where I'm actually enjoying the game-play <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -180,7 +180,7 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-2022-08-28T18:31:00Z Got a little crazy with terrain heightmap editing tools, leveled most of the place to 60m elevation hehe. Huge flooding, mayhem, uuh aah! And now I'm off to eat days first meal, lets see if the city is still standing when I came back <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-28T18:31:00Z Got a little crazy with terrain heightmap editing tools, leveled most of the place to 60m elevation hehe. Huge flooding, mayhem, uuh aah! And now I'm off to eat days first meal, lets see if the city is still standing when I came back <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -192,7 +192,7 @@ Flooding went away, water is back on its place, however city is in a shambles, s
 </p>
 
 <p>
-Alright lets start to re-build this city and get to 100k population as fast as possible <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Alright lets start to re-build this city and get to 100k population as fast as possible <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ New highway intersection, lets try to rebuild this bitch of a terrain to meet ou
 </p>
 
 <p>
-Let me spread my motherfucking wings! Muhahaha! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Let me spread my motherfucking wings! Muhahaha! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -232,7 +232,7 @@ Created PMC Oil 1 and PMC Ore 1 industrial districts (zoned industry, no main bu
 </p>
 
 <p>
-2022-08-28T20:33:00Z Again our industry runs into "not enough buyers for products" and then "no buyers for products" issue, for example in PMC Oil 1 district... umm err, I'm not exactly sure how it happens, but oil drills/pumps extract oil and send it to processor buildings, so either processor buildings cannot sell "oil products" fast enough OR oil pumps extract raw materials too fast. However this theory goes out the window because I found one processor building which was abandoned because "building is abandoned because there were no raw materials", umm okay so pumps could not keep up then, how is that possible, hmph!? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+2022-08-28T20:33:00Z Again our industry runs into "not enough buyers for products" and then "no buyers for products" issue, for example in PMC Oil 1 district... umm err, I'm not exactly sure how it happens, but oil drills/pumps extract oil and send it to processor buildings, so either processor buildings cannot sell "oil products" fast enough OR oil pumps extract raw materials too fast. However this theory goes out the window because I found one processor building which was abandoned because "building is abandoned because there were no raw materials", umm okay so pumps could not keep up then, how is that possible, hmph!? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -288,7 +288,7 @@ Created passenger train station so new citizens can get close to the residential
 </p>
 
 <p>
-2022-08-28T22:18:00Z Well shut down firefox in side monitor, enough reading more playing <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-28T22:18:00Z Well shut down firefox in side monitor, enough reading more playing <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -312,7 +312,7 @@ Whee last milestone reached. I'm busy setting up train tracks heh.
 </p>
 
 <p>
-2022-08-28T23:55:00Z Feeding time is over, is the city still alive? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-28T23:55:00Z Feeding time is over, is the city still alive? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -328,7 +328,7 @@ Problem, I don't have a garbage problem? Do you see me having a garbage problem?
 </p>
 
 <p>
-<img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -336,7 +336,7 @@ Problem, I don't have a garbage problem? Do you see me having a garbage problem?
 </p>
 
 <p>
-2022-08-29T02:06:00Z Uaah! It is done, 100k population, yes! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-29T02:06:00Z Uaah! It is done, 100k population, yes! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

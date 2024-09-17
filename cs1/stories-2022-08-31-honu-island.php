@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ Name includes island same as preview image, buildable area 45% ... ookay, why do
 </p>
 
 <p>
-But on other news the list of all official including DLC terrains list is now so short that it doesn't have a scroll bar anymore, end is near! Yeah! this gives me motivation <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+But on other news the list of all official including DLC terrains list is now so short that it doesn't have a scroll bar anymore, end is near! Yeah! this gives me motivation <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal). 
 </p>
 
 <p>
-There was another traffic jam gridlock, so I banned private cars from the industrial area, use public transport or walk you lazy fucks <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+There was another traffic jam gridlock, so I banned private cars from the industrial area, use public transport or walk you lazy fucks <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -272,7 +272,7 @@ Fires. Don't believe me? I thought you wouldn't, ok check this our Mr Sceptic...
 </p>
 
 <p>
-<img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -296,7 +296,7 @@ While eating and game running, traffic cleared up, its now 87% pretty nice.
 </p>
 
 <p>
-Burn motherfucker! BURN! <img src="../../images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
+Burn motherfucker! BURN! <img src="https://www.pmctactical.org/images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
 </p>
 
 <p>
@@ -308,7 +308,7 @@ Burn motherfucker! BURN! <img src="../../images/smileys/icon_twisted.gif" alt="S
 </p>
 
 <p>
-Heh oh wow look at all those purple trucks rolling in! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Heh oh wow look at all those purple trucks rolling in! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -316,7 +316,7 @@ Heh oh wow look at all those purple trucks rolling in! <img src="../../images/sm
 </p>
 
 <p>
-Outside connections imported goods increased from 0 to 4079, whoah! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Outside connections imported goods increased from 0 to 4079, whoah! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -364,7 +364,7 @@ New residential districts foundations have been laid, decided for a change do th
 </p>
 
 <p>
-New community coming up, PMC Industrial 2 district, generic industry, gimme my goods <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+New community coming up, PMC Industrial 2 district, generic industry, gimme my goods <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -456,11 +456,11 @@ I'm doing smaller grids now, dunno why but somehow felt like small nice compact 
 </p>
 
 <p>
-2022-09-01T12:39:00Z Noticed that old industrial districts PMC Industrial 1, oil, ore, farming and forestry also has several buildings abandoned due lack of workers. This is very disheartening to see, Cities Skylines cannot differentiate large distances between areas, it just stupidly thinks that OK we have too many industrial zoning so lets nuke them evenly, EVEN THE ONES THAT HAVE BEEN WORKING FOR YEARS IN-GAME TIME! <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-09-01T12:39:00Z Noticed that old industrial districts PMC Industrial 1, oil, ore, farming and forestry also has several buildings abandoned due lack of workers. This is very disheartening to see, Cities Skylines cannot differentiate large distances between areas, it just stupidly thinks that OK we have too many industrial zoning so lets nuke them evenly, EVEN THE ONES THAT HAVE BEEN WORKING FOR YEARS IN-GAME TIME! <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Oh well, its a console game so what do you expect <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Oh well, its a console game so what do you expect <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -484,7 +484,7 @@ I should have made much larger districts, these definitely are too small. On lar
 </p>
 
 <p>
-Okay, no more small residential districts, copy that <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Okay, no more small residential districts, copy that <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -496,7 +496,7 @@ Wonder if I should leave Cities Skylines running overnight when I go to sleep to
 </p>
 
 <p>
-This just makes me so sad, our original long time industrial area, most buildings abandoned just because Cities Skylines cannot differentiate building coordinates <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+This just makes me so sad, our original long time industrial area, most buildings abandoned just because Cities Skylines cannot differentiate building coordinates <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -536,7 +536,7 @@ You could try running the "More Path Units" mod by algernon to increase the avai
 </p>
 
 <p>
-Whoah? <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Whoah? <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -596,7 +596,7 @@ Population is 82.5k now, I'm hoping that just spamming high density residential 
 </p>
 
 <p>
-2022-09-02T01:20:00Z Boom! 100k population! Yeah it is done <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-02T01:20:00Z Boom! 100k population! Yeah it is done <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

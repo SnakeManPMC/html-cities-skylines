@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -52,7 +52,7 @@ This is my starting setup, pretty much sucks but hey, its a start.
 </p>
 
 <p>
-Taxes on, lets make some money <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Taxes on, lets make some money <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -164,7 +164,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Cargo train terminal setup, maybe that eases off some of vehicle import / export traffic, or increases it... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Cargo train terminal setup, maybe that eases off some of vehicle import / export traffic, or increases it... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -244,7 +244,7 @@ Added bunch of crematoriums now, wont fix the issue but prevents a next death wa
 </p>
 
 <p>
-This should take care of the next death wave <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+This should take care of the next death wave <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -264,7 +264,7 @@ Seems to also generate bunch of traffic, most are probably delivery trucks and v
 </p>
 
 <p>
-2022-08-19T16:11:00Z Boom! We reached 100k population, we have achiveved our goal! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-19T16:11:00Z Boom! We reached 100k population, we have achiveved our goal! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

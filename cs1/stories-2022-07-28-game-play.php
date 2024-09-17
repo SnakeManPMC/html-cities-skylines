@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -48,7 +48,7 @@ Started Farmland Flats terrain, plan is now to build a city only to learn how to
 </p>
 
 <p>
-Just noticed I accidentally placed my water intake downstream <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Just noticed I accidentally placed my water intake downstream <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -96,7 +96,7 @@ And my roads are just one big fucking mess haha.
 </p>
 
 <p>
-2022-07-28T08:08:00Z Alarm went off that I've been awake for 17hrs, pfft, I'll continue playing <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-07-28T08:08:00Z Alarm went off that I've been awake for 17hrs, pfft, I'll continue playing <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -158,7 +158,7 @@ Currently my city design has problem with the ore 1 district, there is (or was h
 </p>
 
 <p>
-2022-07-28T18:33:00Z Looked at natural resources screen and I was shocked to see ALL my specialized industry had depleted oil and ore natural resources! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+2022-07-28T18:33:00Z Looked at natural resources screen and I was shocked to see ALL my specialized industry had depleted oil and ore natural resources! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -182,7 +182,7 @@ Forest and fertile land has used changing, forest 1905 units/week and fertile la
 </p>
 
 <p>
-While typing this and monitoring those numbers, seems like oil and ore is not replenishing <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+While typing this and monitoring those numbers, seems like oil and ore is not replenishing <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ The game has a built-in mod "Unlimited Oil and Ore - oil and ore are not reduced
 </p>
 
 <p>
-Well that sucks <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Well that sucks <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -236,7 +236,7 @@ Of course when I zoomed out my cargo train was unloading a lot of products and t
 </p>
 
 <p>
-And now, its my lunch break... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+And now, its my lunch break... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -272,7 +272,7 @@ So forget 81 tiles mod, in a long run its not worth it.
 </p>
 
 <p>
-Also I really really don't want to dig deep into downloading mods (steamcmd and all that stupid shit), I just want to play some "RTS alike" mouse clicking fun without thinking too much, if I want to think I'll play my regular simulators <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Also I really really don't want to dig deep into downloading mods (steamcmd and all that stupid shit), I just want to play some "RTS alike" mouse clicking fun without thinking too much, if I want to think I'll play my regular simulators <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

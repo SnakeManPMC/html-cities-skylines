@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ Riverrun name sounds bad, rivers == bad for city building, so really scared when
 </p>
 
 <p>
-Just woke up, did morning chores but didn't eat days first meal yet, I want to get next terrain started. I have FOUR terrains left in this marathon including Riverrun, so lets get to it, in this weekend we shall finish this marathon <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Just woke up, did morning chores but didn't eat days first meal yet, I want to get next terrain started. I have FOUR terrains left in this marathon including Riverrun, so lets get to it, in this weekend we shall finish this marathon <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -76,7 +76,7 @@ Here is our starting location and setup.
 </p>
 
 <p>
-So, only four terrains to go including this one which will be done today for sure, later tonight I get to start the second one which will be then finished tomorrow and tomorrow get to start third one... oh man, this is exciting. As I'm writing this its saturday early morning and hmm its too early to tell but could this whole marathon possibly be finished by earliest of monday maybe tuesday? So cool to get this done heh. Anyways enough dreaming, get your head back to the game and finish cities! No time to waste! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+So, only four terrains to go including this one which will be done today for sure, later tonight I get to start the second one which will be then finished tomorrow and tomorrow get to start third one... oh man, this is exciting. As I'm writing this its saturday early morning and hmm its too early to tell but could this whole marathon possibly be finished by earliest of monday maybe tuesday? So cool to get this done heh. Anyways enough dreaming, get your head back to the game and finish cities! No time to waste! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -116,7 +116,7 @@ Saved game for Riverrun_2 file name.
 </p>
 
 <p>
-2022-09-10T08:06:00Z Feeding time is over, now lets start to sort out the accumulated backlog while I was away eating <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-10T08:06:00Z Feeding time is over, now lets start to sort out the accumulated backlog while I was away eating <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -188,7 +188,7 @@ Watch It! is pretty useful to have all the icons on the right side of the screen
 </p>
 
 <p>
-Watch It! is actually great! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Watch It! is actually great! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -196,7 +196,7 @@ Wonder why I didn't start to use this before, I did check it out on some test sa
 </p>
 
 <p>
-2022-09-10T09:42:00Z Now I get to actually ENJOY my city instead of looking at it from satellite view from space <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-10T09:42:00Z Now I get to actually ENJOY my city instead of looking at it from satellite view from space <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -208,7 +208,7 @@ I love to go boots on the ground all over the city, browsing, seeing how things 
 </p>
 
 <p>
-2022-09-10T09:51:00Z Actually this is kind of a shame that I discovered how useful Watch It! addon is at this point in the terrain savegame marathon, we only have three more terrains after this, so the usage for Watch It! will be quite limited considering I've already played over a MONTH straight 17hrs a day. But oh well as they say, better late than never I guess <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-10T09:51:00Z Actually this is kind of a shame that I discovered how useful Watch It! addon is at this point in the terrain savegame marathon, we only have three more terrains after this, so the usage for Watch It! will be quite limited considering I've already played over a MONTH straight 17hrs a day. But oh well as they say, better late than never I guess <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -298,11 +298,11 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-So far going good, industrial area traffic is under control. Demand for residential is zero and industrial sky high, but hmm darned I'm scared of zoning more industrial as it might unleash the underworld demon that we know as Cities Skylines traffic <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+So far going good, industrial area traffic is under control. Demand for residential is zero and industrial sky high, but hmm darned I'm scared of zoning more industrial as it might unleash the underworld demon that we know as Cities Skylines traffic <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Its kind of funny that I'm such a pussy with traffic jams when current traffic flow is NINETY (90) percent! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Its kind of funny that I'm such a pussy with traffic jams when current traffic flow is NINETY (90) percent! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -334,7 +334,7 @@ Having generic industry produce goods so exports are 1 or very low is kind of ba
 </p>
 
 <p>
-2022-09-10T15:19:00Z Uh oh we finally broke the road system, we got ourselves a good old traffic jam <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-09-10T15:19:00Z Uh oh we finally broke the road system, we got ourselves a good old traffic jam <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -358,7 +358,7 @@ Milestones are all done, now ten thousand more folks to move / born into our cit
 </p>
 
 <p>
-... if we only survive this traffic jam <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+... if we only survive this traffic jam <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -398,11 +398,11 @@ What traffic issue, we have no traffic issue, maybe its your issue???
 </p>
 
 <p>
-<img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2022-09-10T16:04:00Z Boom! We have reached our goal, 100k population! Yeah buddy! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-10T16:04:00Z Boom! We have reached our goal, 100k population! Yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -410,7 +410,7 @@ What traffic issue, we have no traffic issue, maybe its your issue???
 </p>
 
 <p>
-And what a mess we leave behind with this city, oh my, I feel sorry for myself for the next time I'll load this up as I have my hands full sorting out all the traffic mess caused by excessive industry and commercial buildings <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And what a mess we leave behind with this city, oh my, I feel sorry for myself for the next time I'll load this up as I have my hands full sorting out all the traffic mess caused by excessive industry and commercial buildings <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

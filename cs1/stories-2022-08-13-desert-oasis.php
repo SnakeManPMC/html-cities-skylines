@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -120,7 +120,7 @@ Saved game for Desert_Oasis_3 file name.
 </p>
 
 <p>
-Hmm I'm having fun lerning about oil stuff, but I bet this is the last time in the 100k population marathon that I'll be doing this, it really has no other point than to make money which I don't need and have "hobby" in the game, like the "industry stuff" dunno how to explain it. I mean simply it does nothing other than take input of your time and then output money into game, that's it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Hmm I'm having fun lerning about oil stuff, but I bet this is the last time in the 100k population marathon that I'll be doing this, it really has no other point than to make money which I don't need and have "hobby" in the game, like the "industry stuff" dunno how to explain it. I mean simply it does nothing other than take input of your time and then output money into game, that's it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -192,7 +192,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Its always the same, when I go eat away from keyboard, something always happens, milestones kick in, fire breaks out, power goes out or issues with water etc <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Its always the same, when I go eat away from keyboard, something always happens, milestones kick in, fire breaks out, power goes out or issues with water etc <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -200,7 +200,7 @@ Its always the same, when I go eat away from keyboard, something always happens,
 </p>
 
 <p>
-New zones, coming up! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+New zones, coming up! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -208,7 +208,7 @@ New zones, coming up! <img src="../../images/smileys/icon_smile.gif" alt="Smiley
 </p>
 
 <p>
-Makes no sense for oil power plant to run out of oil, when its smack middle in the fucking OILFIELDS! <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Makes no sense for oil power plant to run out of oil, when its smack middle in the fucking OILFIELDS! <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -220,7 +220,7 @@ Makes no sense for oil power plant to run out of oil, when its smack middle in t
 </p>
 
 <p>
-Cargo harbor is now available. But dunno if there are any water in this sand bowl <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Cargo harbor is now available. But dunno if there are any water in this sand bowl <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -228,7 +228,7 @@ That oil power plant running out of fuel drove me crazy, had to ALT-TAB to googl
 </p>
 
 <p>
-Had some electricity problems with those oil power plants, so added a few wind turbines ... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Had some electricity problems with those oil power plants, so added a few wind turbines ... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -236,7 +236,7 @@ Had some electricity problems with those oil power plants, so added a few wind t
 </p>
 
 <p>
-Ugh, lets get medieval with the powa <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Ugh, lets get medieval with the powa <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Power problems went away, finally <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Power problems went away, finally <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -292,7 +292,7 @@ Okay all milestones achieved, here is the overview terrain image.
 </p>
 
 <p>
-Fire, by the nuke plant <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Fire, by the nuke plant <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -300,7 +300,7 @@ Fire, by the nuke plant <img src="../../images/smileys/icon_wink.gif" alt="Smile
 </p>
 
 <p>
-And of course nuclear facility catches on fire, naturally! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And of course nuclear facility catches on fire, naturally! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -324,7 +324,7 @@ Had to create one more residential area, to push population to our goal.
 </p>
 
 <p>
-2022-08-13T13:36:00Z Yeah! Population 100k, we have reached our goal, whohoo! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-13T13:36:00Z Yeah! Population 100k, we have reached our goal, whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

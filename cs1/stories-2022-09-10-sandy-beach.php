@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Very excited as there are only three terrains left (including this one) in my stories terrain savegame marathon! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Very excited as there are only three terrains left (including this one) in my stories terrain savegame marathon! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -52,7 +52,7 @@ Turned roads, electric and water budget to 50%, we need to save money.
 </p>
 
 <p>
-This is my current starting setup, plan is to advance industrial area right away towards the railroad tracks as cargo train terminal is our key to victory for providing jobs through good industry (traffic). <i>Aaand of course I forgot to take the screenshot</i> <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+This is my current starting setup, plan is to advance industrial area right away towards the railroad tracks as cargo train terminal is our key to victory for providing jobs through good industry (traffic). <i>Aaand of course I forgot to take the screenshot</i> <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -112,7 +112,7 @@ Example of the small heightmap elevation differences.
 </p>
 
 <p>
-Well, we have our first raffic jam in that tiny industrial commercial area, heh how is that possible <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Well, we have our first raffic jam in that tiny industrial commercial area, heh how is that possible <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -132,7 +132,7 @@ Created bus lines and then banned all private vehicles from industrial commercia
 </p>
 
 <p>
-2022-09-10T18:44:00Z Lunch break, hopefully city wont burn to the ground while I'm in the kitchen <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-10T18:44:00Z Lunch break, hopefully city wont burn to the ground while I'm in the kitchen <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -200,7 +200,7 @@ Started to create foundations of a new industrial area far up in the north, only
 </p>
 
 <p>
-2022-09-10T20:34:00Z Its starting, its growing <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-10T20:34:00Z Its starting, its growing <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -260,7 +260,7 @@ Oh, only 70k to reach that milestone, okay, okay...
 </p>
 
 <p>
-2022-09-10T23:05:00Z Uuah! Sneakily population grew like crazy, I spent time working on some public transport and by accident noticed that whoah hey 100k population reached! Heh cool! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-10T23:05:00Z Uuah! Sneakily population grew like crazy, I spent time working on some public transport and by accident noticed that whoah hey 100k population reached! Heh cool! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

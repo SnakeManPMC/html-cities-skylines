@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -76,11 +76,11 @@ Cemetery and bus depot became available in this milestone, cemetery is essential
 </p>
 
 <p>
-2022-08-13T16:18:00Z Saved game for Fisher_Enclave_3 file name, then restroom break while game runs in 3x time accelerating speed <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-13T16:18:00Z Saved game for Fisher_Enclave_3 file name, then restroom break while game runs in 3x time accelerating speed <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-By miracle nothing happened in-game while I was away, heh time well spent <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+By miracle nothing happened in-game while I was away, heh time well spent <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -120,7 +120,7 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-Uuh maybe I created office zones too early and even high density commercial, no workers <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Uuh maybe I created office zones too early and even high density commercial, no workers <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -152,7 +152,7 @@ PMC Oil 1 district done and zone assigned, hmm lets see how bad it will be with 
 </p>
 
 <p>
-PMC Farmland 1 district created for industrial use. Nevermind the horrible highway ramps, I'll try to forget that as well <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+PMC Farmland 1 district created for industrial use. Nevermind the horrible highway ramps, I'll try to forget that as well <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -204,7 +204,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-2022-08-13T20:09:00Z Alarm went off in the phone, been up 17hrs, still not tired though and have been fun investigating / learning about bus and metro routes <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-13T20:09:00Z Alarm went off in the phone, been up 17hrs, still not tired though and have been fun investigating / learning about bus and metro routes <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -284,7 +284,7 @@ Deleted it and we move on, I'll figure out garbage collection problem after eati
 </p>
 
 <p>
-2022-08-14T06:50:00Z Feeding time is over, lets back to finish this city <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-14T06:50:00Z Feeding time is over, lets back to finish this city <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -320,7 +320,7 @@ Hmm actually we don't even need buses because that metro station is so close the
 </p>
 
 <p>
-Hah yeah, look at that group of people coming off the metro, yeah we need no stinking buses here <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hah yeah, look at that group of people coming off the metro, yeah we need no stinking buses here <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -356,7 +356,7 @@ Cant wait to see how these work in action, hopefully this would be more fancier 
 </p>
 
 <p>
-Garbage collection and disposal seems to be working good <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Garbage collection and disposal seems to be working good <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -376,7 +376,7 @@ I have seen incinerator plants being maxed out 27 trucks, but its a rare thing. 
 </p>
 
 <p>
-Created PMC Residential 5 district, will be all high density buildings, lets get our population up <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Created PMC Residential 5 district, will be all high density buildings, lets get our population up <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -444,7 +444,7 @@ Highway connection to this part of the city, the fear is that it would unleash t
 </p>
 
 <p>
-2022-08-14T11:08:00Z Alright was so concentrated on doing some highway stuff that didn't even notice we already hit our goal, 100k population! Yeah! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-14T11:08:00Z Alright was so concentrated on doing some highway stuff that didn't even notice we already hit our goal, 100k population! Yeah! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

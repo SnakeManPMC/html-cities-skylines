@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -76,7 +76,7 @@ No more.
 </p>
 
 <p>
-Continue reading the next story: <a href="stories-2022-03-12-game-play.php">Stories 2022-03-12 Game-play</a> <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Continue reading the next story: <a href="stories-2022-03-12-game-play.php">Stories 2022-03-12 Game-play</a> <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

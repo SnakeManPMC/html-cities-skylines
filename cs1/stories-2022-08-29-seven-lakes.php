@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -136,7 +136,7 @@ Saved game for Seven_Lakes_4 file name which is the last of the four rotating fi
 </p>
 
 <p>
-High density zones, metro, incineration plant, university and large warehouse are now available. Ran out of budget when setting up that metro network <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+High density zones, metro, incineration plant, university and large warehouse are now available. Ran out of budget when setting up that metro network <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -168,7 +168,7 @@ But yeah, its always something, industry == traffic, there is no ways around tha
 </p>
 
 <p>
-Right now RCI info bars are 0% residential, 0% commercial and 90% industrial. People want them jobs <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Right now RCI info bars are 0% residential, 0% commercial and 90% industrial. People want them jobs <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -212,7 +212,7 @@ Okay so industrial, two 4 x 4 unit blocks has now been added and traffic flow lo
 </p>
 
 <p>
-2022-08-30T00:53:00Z Seems like my cooking and eating food break gave enough time for education system to graduate some highly educated people, our current workforce for them is 1844 people which is decent amount, we can put up few big office buildings <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-30T00:53:00Z Seems like my cooking and eating food break gave enough time for education system to graduate some highly educated people, our current workforce for them is 1844 people which is decent amount, we can put up few big office buildings <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -248,7 +248,7 @@ Hmm so while this is not some game changing info, all the confusion and mystery 
 </p>
 
 <p>
-Anyways <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Anyways <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -324,7 +324,7 @@ Ah finally the big convoy is done, roads are free again.
 </p>
 
 <p>
-Heh PMC Commercial 2 district to sell some goods <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Heh PMC Commercial 2 district to sell some goods <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -344,7 +344,7 @@ Had some traffic issues in one arterial and collector T-intersection, so decided
 </p>
 
 <p>
-All milestones reached, nice. Now we hunt for the one hundred thousand folks badge <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+All milestones reached, nice. Now we hunt for the one hundred thousand folks badge <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -384,7 +384,7 @@ Hey, I hate garbage, any questions?
 </p>
 
 <p>
-<img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -392,7 +392,7 @@ Unfortunately doesn't look like PMC Residential 6 district expansion will get us
 </p>
 
 <p>
-Actually I would like to make second industrial area somewhere else to keep traffic in check. But raw materials still have to be brought in somehow, was thinking of either ship or train, or maybe both. But dunno, my focus need to be in population growth not playing some industry pimp <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Actually I would like to make second industrial area somewhere else to keep traffic in check. But raw materials still have to be brought in somehow, was thinking of either ship or train, or maybe both. But dunno, my focus need to be in population growth not playing some industry pimp <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -404,7 +404,7 @@ Seven, coming up!
 </p>
 
 <p>
-City has 100% demand for commercial, uuh I scare commercial, so much traffic, so much problems, uuh! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+City has 100% demand for commercial, uuh I scare commercial, so much traffic, so much problems, uuh! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -416,7 +416,7 @@ City has 100% demand for commercial, uuh I scare commercial, so much traffic, so
 </p>
 
 <p>
-This office building might be my highscore number now, 508 workers <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+This office building might be my highscore number now, 508 workers <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -428,7 +428,7 @@ Sure is a lot of people for a single building heh.
 </p>
 
 <p>
-2022-08-30T10:44:00Z Aayeah! 100k population reached! Whohoo! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-30T10:44:00Z Aayeah! 100k population reached! Whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -440,7 +440,7 @@ This was the first time I was just sitting here watching population number growi
 </p>
 
 <p>
-2022-08-30T10:45:00Z Saved game and shutdown Cities Skylines, I'm done playing for today, time to relax by watching new episodes of Beavis and Butt-Head <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-30T10:45:00Z Saved game and shutdown Cities Skylines, I'm done playing for today, time to relax by watching new episodes of Beavis and Butt-Head <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

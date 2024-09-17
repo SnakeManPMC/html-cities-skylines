@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -84,7 +84,7 @@
 </p>
 
 <p>
-The city at this point was crowded, very dense packed in tight, huge traffic problems. I still do not understand how to fix the fucking traffic, its mostly because you have to DESTROY existing city areas so much in order to upgrade into "collector" etc roads that it feels just... unnatural, and I cant do it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+The city at this point was crowded, very dense packed in tight, huge traffic problems. I still do not understand how to fix the fucking traffic, its mostly because you have to DESTROY existing city areas so much in order to upgrade into "collector" etc roads that it feels just... unnatural, and I cant do it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

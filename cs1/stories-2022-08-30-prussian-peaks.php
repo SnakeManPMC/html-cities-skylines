@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Uh oh this terrains name puts me off so bad, russian soviet commie scum and peaks, means hills mountains, just the thing you DONT want to see in Cities Skylines terrain heightmap <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Uh oh this terrains name puts me off so bad, russian soviet commie scum and peaks, means hills mountains, just the thing you DONT want to see in Cities Skylines terrain heightmap <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -46,11 +46,11 @@ Err when I got to in-game and saw the terrain the first time it was shocking, wh
 <a href="screenshots/Cities-Skylines-2022-08-30T1841.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-30T1841.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a> 
 
 <p>
-Now if that was ArmA 3 terrain it would look awesome, all those mountain tops to hunt soviet commie scum and kill them, but as in Cities Skylines where you do buildings on large area, its just not going to work on such mountain hillsides <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Now if that was ArmA 3 terrain it would look awesome, all those mountain tops to hunt soviet commie scum and kill them, but as in Cities Skylines where you do buildings on large area, its just not going to work on such mountain hillsides <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Whole idea of my terrain savegame game-play playthroughs is a marathon, you play all of them through which makes the marathon, good terrains and bad terrains. But shit dude, there is a limit on "bad", this is unplayable garbage <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Whole idea of my terrain savegame game-play playthroughs is a marathon, you play all of them through which makes the marathon, good terrains and bad terrains. But shit dude, there is a limit on "bad", this is unplayable garbage <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

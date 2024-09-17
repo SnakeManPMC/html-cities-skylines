@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: ActionCam, BrokenNodeDetector, CameraPositions, CargoHoldFix, Chirp
 </p>
 
 <p>
-Oh man this terrain sucks again just like previous one I finished playing minutes ago (twin fjords), this has a lot of water not just rivers but huge wide lake size rivers which ruin enjoyable city building. Well, lets push through it as fast as possible, this terrain wont go away if I'm just bitching about it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Oh man this terrain sucks again just like previous one I finished playing minutes ago (twin fjords), this has a lot of water not just rivers but huge wide lake size rivers which ruin enjoyable city building. Well, lets push through it as fast as possible, this terrain wont go away if I'm just bitching about it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -136,11 +136,11 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-Hmm just realized that this terrain has no TRAIN outside connection <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Hmm just realized that this terrain has no TRAIN outside connection <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Purchased two medium size warehouses, set them to zoned industry farming and forestry. Hopefully this doesn't unleash flood of trucks <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Purchased two medium size warehouses, set them to zoned industry farming and forestry. Hopefully this doesn't unleash flood of trucks <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -152,7 +152,7 @@ Purchased two medium size warehouses, set them to zoned industry farming and for
 </p>
 
 <p>
-2022-08-21T22:23:00Z Feeding time is over, back to city shuffle. Nothing happened while I was gone, good <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-21T22:23:00Z Feeding time is over, back to city shuffle. Nothing happened while I was gone, good <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -268,7 +268,7 @@ Playing with life cycle and realistic population addons is interesting, right no
 </p>
 
 <p>
-People want jobs, I don't want traffic, I win <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+People want jobs, I don't want traffic, I win <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -328,15 +328,15 @@ With this info I know that adding more special industry ore would just cause tra
 </p>
 
 <p>
-I'll leave it be <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I'll leave it be <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-08-22T03:12:00Z Alarm went off that I've been up 17hrs, blah, don't feel tired yet lets keep going <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-22T03:12:00Z Alarm went off that I've been up 17hrs, blah, don't feel tired yet lets keep going <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Hah, I found train tracks after all <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hah, I found train tracks after all <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -344,7 +344,7 @@ Hah, I found train tracks after all <img src="../../images/smileys/icon_wink.gif
 </p>
 
 <p>
-They were hidden sneakily right next to the highway <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+They were hidden sneakily right next to the highway <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -376,7 +376,7 @@ Looks like no warning icons appearing in the horizon, have a lot of RCI info bar
 </p>
 
 <p>
-New PMC Residential 4 and PMC Commercial 1 districts road grids laid out, water pipes done and electric connected. Ready for grand opening <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+New PMC Residential 4 and PMC Commercial 1 districts road grids laid out, water pipes done and electric connected. Ready for grand opening <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -392,7 +392,7 @@ Just as reference point, traffic flow was 88% before opening that new commercial
 </p>
 
 <p>
-Well it didn't take long <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Well it didn't take long <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -404,7 +404,7 @@ I knew this is going to happen, my only hope (meaning SPECULATION, I do not know
 </p>
 
 <p>
-Look at the hilarious amounts of people walking into the commercial zone <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Look at the hilarious amounts of people walking into the commercial zone <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -420,7 +420,7 @@ Added pedestrial walking path over the roads, funny to see all those ants crawli
 </p>
 
 <p>
-Traffic is backed up all the way to the bridge for PMC Ore 1 district, umm err <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Traffic is backed up all the way to the bridge for PMC Ore 1 district, umm err <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -432,7 +432,7 @@ I knew such high density commercial zone mass blob would be bad, but had no idea
 </p>
 
 <p>
-And there you have it, see the horizon with first "not enough buyers for products" icons <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+And there you have it, see the horizon with first "not enough buyers for products" icons <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -476,7 +476,7 @@ Situation is so hilarious as last night and this morning I felt like this terrai
 </p>
 
 <p>
-... until this traffic jam I created with that huge commercial district <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+... until this traffic jam I created with that huge commercial district <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -508,7 +508,7 @@ Lets see if recycling center in tactical location would clear up only this resid
 </p>
 
 <p>
-This kind of vehicle routing is what I was afraid of, recycling center is just there where the truck left, it took this kind of looping turn route and then is traveling to completely different fucking district even though there are garbage to be collected within fucking line of sight for crying out loud! <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+This kind of vehicle routing is what I was afraid of, recycling center is just there where the truck left, it took this kind of looping turn route and then is traveling to completely different fucking district even though there are garbage to be collected within fucking line of sight for crying out loud! <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -520,7 +520,7 @@ And I'm running that one addon Transfer Manager CE or whatever it was which shou
 </p>
 
 <p>
-I don't get it... <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+I don't get it... <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -532,11 +532,11 @@ Also as separate topic, wonder how many commercial buildings these people actual
 </p>
 
 <p>
-Was following a garbage truck that left from the recycling center, I went to the restroom for a few minutes and when I came back... was shocked to see this truck somewhere between PMC Residential and PMC Forestry 1 districts and still the same 4% garbage load on-board. Err what the hell is he driving around like this? This kind of de-tour to that area without even collecting any garbage makes no sense what so ever! <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Was following a garbage truck that left from the recycling center, I went to the restroom for a few minutes and when I came back... was shocked to see this truck somewhere between PMC Residential and PMC Forestry 1 districts and still the same 4% garbage load on-board. Err what the hell is he driving around like this? This kind of de-tour to that area without even collecting any garbage makes no sense what so ever! <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Uuh head hurts with Cities Skylines AI logic <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Uuh head hurts with Cities Skylines AI logic <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -584,7 +584,7 @@ After nuking the commercial zone to bare bones zoning, traffic started to improv
 </p>
 
 <p>
-Can hardly recognize the place for the previous screenshot, eh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Can hardly recognize the place for the previous screenshot, eh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -608,7 +608,7 @@ So I moved this warehouse by the large goods warehouse where I just nuked the co
 </p>
 
 <p>
-OK last milestone achieved, now we own this landz <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+OK last milestone achieved, now we own this landz <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -656,7 +656,7 @@ Created filthy nasty polluting incinerator plant at outskirts of that new distri
 </p>
 
 <p>
-2022-08-22T18:18:00Z Boom! Done! Heh uuaah, objective complete, 100k population reached! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-22T18:18:00Z Boom! Done! Heh uuaah, objective complete, 100k population reached! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

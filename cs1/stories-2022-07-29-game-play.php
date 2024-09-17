@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -108,7 +108,7 @@ And with that my alarm went off to eat days 3rd meal, going to let game run whil
 </p>
 
 <p>
-2022-07-29T08:57:00Z Alarm went off for being awake 17hrs, pfft, I'll keep going <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-07-29T08:57:00Z Alarm went off for being awake 17hrs, pfft, I'll keep going <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -120,7 +120,7 @@ And with that my alarm went off to eat days 3rd meal, going to let game run whil
 </p>
 
 <p>
-Uuh I'm so tired and eyes are sore, but gotta keep pushing on few more minutes.. <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Uuh I'm so tired and eyes are sore, but gotta keep pushing on few more minutes.. <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -194,7 +194,7 @@ Was monitoring the only highway connection we have and its same as train, nothin
 </p>
 
 <p>
-I wish there was notification about population achievement, would be cool to be notified when you hit 100k, 200k, 500k and 1 million <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I wish there was notification about population achievement, would be cool to be notified when you hit 100k, 200k, 500k and 1 million <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -290,11 +290,11 @@ Its interesting that I'm exporting a lot of forestry, but still also importing i
 </p>
 
 <p>
-2022-07-30T04:21:00Z As I'm writing this I just created relatively speaking huge high density residential area and population is increasing... well heh as I'm writing this RIGHT now it just broke 150k magical limit! Whohoo! New record for sure! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-07-30T04:21:00Z As I'm writing this I just created relatively speaking huge high density residential area and population is increasing... well heh as I'm writing this RIGHT now it just broke 150k magical limit! Whohoo! New record for sure! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
-<b>150,000 population</b> in Cities Skylines, whohoo <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+<b>150,000 population</b> in Cities Skylines, whohoo <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -346,7 +346,7 @@ Anyways just kind of waiting for my days third meal here watching the highway ju
 </p>
 
 <p>
-2022-07-30T06:04:00Z Alarm went off its time to eat, perfect timing I was just about to bite the bullet (no pun intended) and start to overhaul those roads, but first some encouragement from a meal <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-07-30T06:04:00Z Alarm went off its time to eat, perfect timing I was just about to bite the bullet (no pun intended) and start to overhaul those roads, but first some encouragement from a meal <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -358,11 +358,11 @@ Seems like nothing happened in the city while I was eating, population dropped 1
 </p>
 
 <p>
-2022-07-30T06:54:00Z Loop around the main city area, or lets just say the "old city" area with six lane asphalt road done, also created one roundabout which sucked but works better than T intersection <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-07-30T06:54:00Z Loop around the main city area, or lets just say the "old city" area with six lane asphalt road done, also created one roundabout which sucked but works better than T intersection <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-07-30T07:41:00Z Uuh roundabout by the highway intersection was a shit show, haha I've been laughing at myself when making that atrocious hideous uuuuhh mess! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-07-30T07:41:00Z Uuh roundabout by the highway intersection was a shit show, haha I've been laughing at myself when making that atrocious hideous uuuuhh mess! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -370,7 +370,7 @@ Seems like nothing happened in the city while I was eating, population dropped 1
 </p>
 
 <p>
-2022-07-30T10:15:00Z Okay this is it, I am in full zombi mode and cant get roundabout done correctly, ONE MORE try and then I'm off to sleep... crossing fingers <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-07-30T10:15:00Z Okay this is it, I am in full zombi mode and cant get roundabout done correctly, ONE MORE try and then I'm off to sleep... crossing fingers <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

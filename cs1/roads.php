@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -87,7 +87,7 @@ See also <a href="highway.php">Highway, HOWTO Fix Road Not Connected</a>.
 
 <p>
 Question: are 6 lane 2 way roads good for cities?<br>
-Answer: YES <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Answer: YES <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -149,7 +149,7 @@ Quote: <i>I'm going to test zoning using long roads without "side roads" err dun
 <a href="screenshots/Cities-Skylines-2022-09-02T0235.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-02T0235.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-As you can see there is 1 unit empty space between each two building blocks. I don't have the road width correct yet, I think its now 10 unit per err grid guide line, I need to find a way to make two building blocks - pedestrian path - two building blocks - pedestrian path and two more building blocks before the next "side road", hope that clears it up <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+As you can see there is 1 unit empty space between each two building blocks. I don't have the road width correct yet, I think its now 10 unit per err grid guide line, I need to find a way to make two building blocks - pedestrian path - two building blocks - pedestrian path and two more building blocks before the next "side road", hope that clears it up <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

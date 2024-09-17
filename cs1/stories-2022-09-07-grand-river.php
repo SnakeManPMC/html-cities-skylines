@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -70,7 +70,7 @@ First save game for Grand_River_1 file name.
 </p>
 
 <p>
-This kind of starter setup for this terrain when it finally will be brought up to over 100k population <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This kind of starter setup for this terrain when it finally will be brought up to over 100k population <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -166,7 +166,7 @@ I remember the upgrading part was against all natural instincts, you do not dest
 </p>
 
 <p>
-2022-09-07T17:52:00Z Need to take a leak real bad, been waiting for the next milestone to kick in but uuh gotta go, gotta go right now! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-07T17:52:00Z Need to take a leak real bad, been waiting for the next milestone to kick in but uuh gotta go, gotta go right now! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -230,7 +230,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-2022-09-08T04:16:00Z New Cities Skylines building day has started, just woke up and checked RSS news, sorted out one VPN IP access problem website login, then actually forgot to do other chores and just launched Cities Skylines, heh okay okay, continuing building this city right away <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-09-08T04:16:00Z New Cities Skylines building day has started, just woke up and checked RSS news, sorted out one VPN IP access problem website login, then actually forgot to do other chores and just launched Cities Skylines, heh okay okay, continuing building this city right away <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -334,7 +334,7 @@ Build a road on the other side of the industrial grid for collector, maybe its a
 </p>
 
 <p>
-Created foundations for a new high density residential zone neighborhood. Seeing our current population, this neighborhood will be way overkill, but at least its the last expansion in this savegame before we meet our goal. Note the nice pedestrian walking paths, access everywhere <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Created foundations for a new high density residential zone neighborhood. Seeing our current population, this neighborhood will be way overkill, but at least its the last expansion in this savegame before we meet our goal. Note the nice pedestrian walking paths, access everywhere <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -350,7 +350,7 @@ Okay last milestone complete, now just ten thousand folks more and the whole sav
 </p>
 
 <p>
-2022-09-08T09:20:00Z Aayeah we have reached 100k population goal, whohoo! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-08T09:20:00Z Aayeah we have reached 100k population goal, whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -358,7 +358,7 @@ Okay last milestone complete, now just ten thousand folks more and the whole sav
 </p>
 
 <p>
-And that's it for this savegame for now, going to change into another terrain after a short breather break. Was awesome to finish this terrain what I've started to play over the years so many times, now its finally finished and savegame will be archived for safety, years to come <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And that's it for this savegame for now, going to change into another terrain after a short breather break. Was awesome to finish this terrain what I've started to play over the years so many times, now its finally finished and savegame will be archived for safety, years to come <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

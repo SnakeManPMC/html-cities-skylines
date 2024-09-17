@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,7 +36,7 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Oh my what an interesting terrain name, "islands", really? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Oh my what an interesting terrain name, "islands", really? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -260,7 +260,7 @@ Last milestone achieved, now we push on for the one hundred grand folks.
 </p>
 
 <p>
-Welcome welcome <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Welcome welcome <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-09-09T1118.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-09T1118.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -290,7 +290,7 @@ Ugh and where did that electric icon pop up just while I was typing the above pa
 </p>
 
 <p>
-2022-09-09T12:04:00Z Aayeah! And that's a wrap, we have reached 100k population, yeah! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-09T12:04:00Z Aayeah! And that's a wrap, we have reached 100k population, yeah! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -302,7 +302,7 @@ Alright this savegame came together pretty nicely, it was rather large industria
 </p>
 
 <p>
-Very nice savegame for sure, will be fun to return to this some day in the future, maybe <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Very nice savegame for sure, will be fun to return to this some day in the future, maybe <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

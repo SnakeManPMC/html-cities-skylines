@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -50,11 +50,11 @@ First save game for Roslyn_Peninsula_1 file name.
 </p>
 
 <p>
-2022-08-12T07:20:00Z Now actually unpaused game the first time, lets play! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-12T07:20:00Z Now actually unpaused game the first time, lets play! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-It has started <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+It has started <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0723.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0723.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -78,13 +78,13 @@ Here I'm doing 2x2 unit square residential zoning because the 1 or 2 households 
 </p>
 
 <p>
-Okay now the first grid road layout I did is full with low density residential housing, using that 2 x 2 unit square setup, this hopefully maximized chances of getting 2 household buildings while still keeping the landscape "real estate" used half of the 4 x 4 unit square <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Okay now the first grid road layout I did is full with low density residential housing, using that 2 x 2 unit square setup, this hopefully maximized chances of getting 2 household buildings while still keeping the landscape "real estate" used half of the 4 x 4 unit square <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0748.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0748.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Next expansion for our zoning is done. I now pre-assigned those 2x2 unit squares for residential, when they have all (or almost all) filled with buildings then I just flag a box for the rest of them. Easy <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Next expansion for our zoning is done. I now pre-assigned those 2x2 unit squares for residential, when they have all (or almost all) filled with buildings then I just flag a box for the rest of them. Easy <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T0803.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T0803.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -138,11 +138,11 @@ I hate connecting electricity, hmm should have expanded gradually towards north 
 </p>
 
 <p>
-High density zones, metro, incineration plant and university are now available. Aayeah, now we start to REALLY grow our city with high density zones! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+High density zones, metro, incineration plant and university are now available. Aayeah, now we start to REALLY grow our city with high density zones! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Ran out of money when placing metro tracks <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Ran out of money when placing metro tracks <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -236,7 +236,7 @@ Crazy traffic jam.
 <a href="screenshots/Cities-Skylines-2022-08-12T1147.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1147.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-12T11:53:00Z Ding ding ding! We have a winner! 100k population, yeah buddy! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-12T11:53:00Z Ding ding ding! We have a winner! 100k population, yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-12T1153.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-12T1153.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>

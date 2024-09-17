@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ Just woke up, did morning computer chores but did not eat days first meal yet, g
 </p>
 
 <p>
-Instead of waiting for half an hour of game-play before showing first screenshot, lets do something different this time, here is the first screenshot from the initial city design to get started before I even unpause the game for the first time <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Instead of waiting for half an hour of game-play before showing first screenshot, lets do something different this time, here is the first screenshot from the initial city design to get started before I even unpause the game for the first time <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0132.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0132.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -54,7 +54,7 @@ Instead of waiting for half an hour of game-play before showing first screenshot
 </p>
 
 <p>
-And here we go, first milestone reached, now we get taxes and get this city really started <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And here we go, first milestone reached, now we get taxes and get this city really started <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -144,7 +144,7 @@ High density zones, metro, incineration plant and university are now available.
 </p>
 
 <p>
-This growth is what I love it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This growth is what I love it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0359.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0359.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -156,7 +156,7 @@ So nice when things develop in orderly fashion.
 <a href="screenshots/Cities-Skylines-2022-08-10T0402.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0402.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-I really hope to have grown (no pun intended) away from the mass blob zoning mentality, its just no fun to make such insane size zoning without any care "for the little people" or "boots on the ground" so to speak, you might as well play some 2D top down text based game if you never take the time to thoroughly plan, execute and enjoy your handy work <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I really hope to have grown (no pun intended) away from the mass blob zoning mentality, its just no fun to make such insane size zoning without any care "for the little people" or "boots on the ground" so to speak, you might as well play some 2D top down text based game if you never take the time to thoroughly plan, execute and enjoy your handy work <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -176,7 +176,7 @@ This milestone gives us cargo train station and two good policies. Activated sma
 </p>
 
 <p>
-Now first row of high density commercial and residential zoning is done <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Now first row of high density commercial and residential zoning is done <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0412.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0412.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -196,7 +196,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-Office buildings, gotta love the amount of workers they employ <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Office buildings, gotta love the amount of workers they employ <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0457.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0457.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -206,7 +206,7 @@ Was wondering about industrial buildings "level up", says needs more services to
 </p>
 
 <p>
-Whoah look at this office building, 240 fucking workers! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Whoah look at this office building, 240 fucking workers! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0516.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0516.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -274,7 +274,7 @@ Like this location used to have four incineration plants, now as experiment I on
 <a href="screenshots/Cities-Skylines-2022-08-10T0712.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0712.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-10T07:22:00Z Saved game, set it to normal speed and turned on the cinematic camera whatever it is. Now its my lunch break time so off to get some chow, will enjoy my city cinematic camera while eating <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-10T07:22:00Z Saved game, set it to normal speed and turned on the cinematic camera whatever it is. Now its my lunch break time so off to get some chow, will enjoy my city cinematic camera while eating <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -286,7 +286,7 @@ Oh wow that default in-game cinematic camera was boring and claustrophobic with 
 </p>
 
 <p>
-Here is new opening for low density residential area <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Here is new opening for low density residential area <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0756.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0756.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -296,7 +296,7 @@ Here is new opening for low density residential area <img src="../../images/smil
 </p>
 
 <p>
-Another record breaker, office building with three hundred and five (305) workers! WHOAH! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Another record breaker, office building with three hundred and five (305) workers! WHOAH! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T0953.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T0953.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -306,7 +306,7 @@ Another record breaker, office building with three hundred and five (305) worker
 </p>
 
 <p>
-PMC Residential 3 got quite the upgrade, wonder what happens to our logistics and traffic when this baby goes live <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+PMC Residential 3 got quite the upgrade, wonder what happens to our logistics and traffic when this baby goes live <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1030.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1030.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -356,7 +356,7 @@ Not only traffic is bad but my generic industry area is pretty full, I need to m
 </p>
 
 <p>
-That was the last milestone, now we have achieved everything, all buildings etc are usable. Now we just grow our city until goal is met <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+That was the last milestone, now we have achieved everything, all buildings etc are usable. Now we just grow our city until goal is met <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -372,7 +372,7 @@ Purchased all the terrain grid tiles.
 <a href="screenshots/Cities-Skylines-2022-08-10T1220.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1220.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-10T12:21:00Z Hooyah! Goal met, 100k population reached! Yeah buddy! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-10T12:21:00Z Hooyah! Goal met, 100k population reached! Yeah buddy! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-10T1221.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-10T1221.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -390,7 +390,7 @@ And now I'm going to call it for this gaming session, need to do some more googl
 </p>
 
 <p>
-2022-08-10T12:24:00Z Saved game and shut down cities skyline, we are done here, for now <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-10T12:24:00Z Saved game and shut down cities skyline, we are done here, for now <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

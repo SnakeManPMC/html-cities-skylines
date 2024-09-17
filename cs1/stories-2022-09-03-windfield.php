@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -124,7 +124,7 @@ Anyways, decent looking terrain on the land parts.
 </p>
 
 <p>
-Fires are out of fucking control, man this terrain actually sucks ass, there are so many fires there has been probably already more fires than in my previous savegame total, well perhaps not exactly but you get my point <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Fires are out of fucking control, man this terrain actually sucks ass, there are so many fires there has been probably already more fires than in my previous savegame total, well perhaps not exactly but you get my point <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -172,7 +172,7 @@ Saved game for Windfield_4 file name which is the last of the four rotating file
 </p>
 
 <p>
-2022-09-03T12:21:00Z Just upgraded dirt roads to asphalt roads with trees, let that be the last time, its too painful to upgrade those roads as Cities Skylines is somehow laggy when doing it, mouse cursor is like off and its just frustrating. From now on I'll start to use asphalt two lane roads as local roads from the savegame start, no matter how expensive it is for the budget. It is more expensive for my sanity to do this stupid fucking road upgrade at later stage of the savegame <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-09-03T12:21:00Z Just upgraded dirt roads to asphalt roads with trees, let that be the last time, its too painful to upgrade those roads as Cities Skylines is somehow laggy when doing it, mouse cursor is like off and its just frustrating. From now on I'll start to use asphalt two lane roads as local roads from the savegame start, no matter how expensive it is for the budget. It is more expensive for my sanity to do this stupid fucking road upgrade at later stage of the savegame <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -240,11 +240,11 @@ Just after that milestone my alarm went off, been awake 17hrs, hmm I'll continue
 </p>
 
 <p>
-Uah <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Uah <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2022-09-03T17:10:00Z Yeah buddy! We reached 100k population, I was snoozing off falling asleep waiting for city to grow but managed to keep my eyes open until the end, whee! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-03T17:10:00Z Yeah buddy! We reached 100k population, I was snoozing off falling asleep waiting for city to grow but managed to keep my eyes open until the end, whee! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>

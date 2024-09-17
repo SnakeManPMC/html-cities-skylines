@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -306,7 +306,7 @@ Here you can see another road connecting the other industrial zone.
 </p>
 
 <p>
-Hmm suddenly our jobs aka industrial RCI info bar grew very high, sure I have placed a lot of residential zones so we have a lot more citizens here who need jobs, but yeah, well lets get some jobs then <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Hmm suddenly our jobs aka industrial RCI info bar grew very high, sure I have placed a lot of residential zones so we have a lot more citizens here who need jobs, but yeah, well lets get some jobs then <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -326,7 +326,7 @@ While adding the new industrial zones, I got carried away, went back to my old w
 <a href="screenshots/Cities-Skylines-2022-08-08T1252.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-08T1252.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Man was I right or what... I simply added one small block and ZOC! RCI industrial bar went away to max 5% left, whoah <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Man was I right or what... I simply added one small block and ZOC! RCI industrial bar went away to max 5% left, whoah <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -344,13 +344,13 @@ Going to let it run on normal speed for a while to settle down, visit to the res
 </p>
 
 <p>
-2022-08-08T13:29:00Z And industrial demand is back, heh cool. Lets extend PMC Oil 1 and PMC Ore i districts a bit then <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-08T13:29:00Z And industrial demand is back, heh cool. Lets extend PMC Oil 1 and PMC Ore i districts a bit then <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-08T1330.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-08T1330.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Population 65k and RCI info bars just keep growing, this is crazy, usually I have a huge problems getting any growth heh. Awesome <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Population 65k and RCI info bars just keep growing, this is crazy, usually I have a huge problems getting any growth heh. Awesome <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-08T1346.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-08T1346.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -362,7 +362,7 @@ Well that's it then, PMC Ore 1, PMC Oil 1 and PMC Farmland 1 districts enlarge i
 <a href="screenshots/Cities-Skylines-2022-08-08T1414.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-08T1414.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-And by miracle all industrial demand RCI info bar is gone heh (and came back while I was typing this paragraph, haaah!) <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+And by miracle all industrial demand RCI info bar is gone heh (and came back while I was typing this paragraph, haaah!) <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -388,7 +388,7 @@ Got this new residential area almost done now, yes its been taking hours but I'v
 </p>
 
 <p>
-Actually quite nice view from here <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Actually quite nice view from here <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-08T1602.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-08T1602.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -448,7 +448,7 @@ This big one is "Zoned Industry - Forestry Products".
 <a href="screenshots/Cities-Skylines-2022-08-09T0117.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0117.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Started to create PMC Residential 4 district, we need some housing for all the people who want to live in this city <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Started to create PMC Residential 4 district, we need some housing for all the people who want to live in this city <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T0128.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0128.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -500,7 +500,7 @@ Anyways. Just saying that Cities Skylines ain't the best triple screen ALT-TAB e
 </p>
 
 <p>
-Well after writing those above, industrial info bar was up again about 20%, so lets continue adding zones for PMC Forestry 1 district. While doing so residential demand goes up a bit again, uuh where do I find empty lot for you guys heh, oh well I'm so "lazy" that I don't want to focus on generating another community, I'll just want to finish this savegame <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Well after writing those above, industrial info bar was up again about 20%, so lets continue adding zones for PMC Forestry 1 district. While doing so residential demand goes up a bit again, uuh where do I find empty lot for you guys heh, oh well I'm so "lazy" that I don't want to focus on generating another community, I'll just want to finish this savegame <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -520,11 +520,11 @@ Hmm so if I assume households are apartments, then besides res1 having almost tw
 </p>
 
 <p>
-Hmph ok I'll create almost cheaty poor high density residential area to fill in population, I want this savegame/terrain finished <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Hmph ok I'll create almost cheaty poor high density residential area to fill in population, I want this savegame/terrain finished <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-So PMC Residential 5 with high density zones, should do the trick for 7k people moving in? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+So PMC Residential 5 with high density zones, should do the trick for 7k people moving in? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T0449.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0449.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -536,15 +536,15 @@ Well here goes nothing. Mass blob high density residential zoning with few offic
 <a href="screenshots/Cities-Skylines-2022-08-09T0501.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0501.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Looks like this high density residential area was the key to victory, I was still setting it up, creating metro lines... when population was already 99k! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Looks like this high density residential area was the key to victory, I was still setting it up, creating metro lines... when population was already 99k! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
-2022-08-09T05:20:00Z Its my cooking food and lunch break time, metro lines aren't done yet (there is only two, basic ones) and yeah pop 99k so when I'm done eating we have finished savegame here <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-09T05:20:00Z Its my cooking food and lunch break time, metro lines aren't done yet (there is only two, basic ones) and yeah pop 99k so when I'm done eating we have finished savegame here <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-... Err... was typing this text while population hit 100k already! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+... Err... was typing this text while population hit 100k already! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T0522.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0522.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -580,13 +580,13 @@ This is the buy terrain grid tiles feature view, zoomed a bit too far out but it
 <a href="screenshots/Cities-Skylines-2022-08-09T0619.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0619.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-One more shot from a hilltop railroad tracks <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+One more shot from a hilltop railroad tracks <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T0620.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T0620.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-09T06:21:00Z Saved game and shut down Cities Skylines, this terrains savegame is over <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-09T06:21:00Z Saved game and shut down Cities Skylines, this terrains savegame is over <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

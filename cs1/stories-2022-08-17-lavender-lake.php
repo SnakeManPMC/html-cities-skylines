@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -48,7 +48,7 @@ First save game for Lavender_Lake_1 file name.
 </p>
 
 <p>
-2022-08-17T19:09:00Z Unpaused game, lets begin <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-17T19:09:00Z Unpaused game, lets begin <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -60,7 +60,7 @@ Switched TMPE vehicle de-spawning OFF. We do realistic vehicles here heh.
 </p>
 
 <p>
-Okay lets turn taxes on and start making some money so we can build this city <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Okay lets turn taxes on and start making some money so we can build this city <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -120,7 +120,7 @@ In this savegame I want to focus on traffic, I am so sick and tired of ruining m
 </p>
 
 <p>
-My writing was interrupted by milestone announcement <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+My writing was interrupted by milestone announcement <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -128,11 +128,11 @@ So I was writing that also I want to try industrial as specialized industry or "
 </p>
 
 <p>
-Also I want to have good warehouse capacity to buffer zoned industry and goods. Maybe we could reduce any issues and perhaps even traffic, not sure, but will be interesting to play house with those <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Also I want to have good warehouse capacity to buffer zoned industry and goods. Maybe we could reduce any issues and perhaps even traffic, not sure, but will be interesting to play house with those <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-This is small scale stuff, just a hobbyist industry to create some raw materials for generic industry <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+This is small scale stuff, just a hobbyist industry to create some raw materials for generic industry <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -148,7 +148,7 @@ Warehouses placed, west is raw materials for farming and forestry, central above
 </p>
 
 <p>
-Electricity, walk with me... <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Electricity, walk with me... <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -156,7 +156,7 @@ Electricity, walk with me... <img src="../../images/smileys/icon_wink.gif" alt="
 </p>
 
 <p>
-This is so cute, farming and forestry <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+This is so cute, farming and forestry <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -168,7 +168,7 @@ Oil and ore has not started to build yet, maybe because they didn't have electri
 </p>
 
 <p>
-2022-08-17T20:28:00Z Oil and ore is up too now. They of course require quite educated workers, hopefully we don't get any not enough educated workers issue as few of those buildings required highly educated worker which I have exactly 0% in our city <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-17T20:28:00Z Oil and ore is up too now. They of course require quite educated workers, hopefully we don't get any not enough educated workers issue as few of those buildings required highly educated worker which I have exactly 0% in our city <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -176,7 +176,7 @@ Oil and ore has not started to build yet, maybe because they didn't have electri
 </p>
 
 <p>
-Aww man, I spoke too soon <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Aww man, I spoke too soon <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -248,7 +248,7 @@ But its also extremely cool, so few specialized industry will supply my generic 
 </p>
 
 <p>
-Current imports 685 and exports 308. And check this out, this is cool, all exports are buffered through warehouses now <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Current imports 685 and exports 308. And check this out, this is cool, all exports are buffered through warehouses now <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -260,7 +260,7 @@ Current imports 685 and exports 308. And check this out, this is cool, all expor
 </p>
 
 <p>
-2022-08-17T21:27:00Z Feeding time is over, back to our barbie girl specialized industry and warehouses playground <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-17T21:27:00Z Feeding time is over, back to our barbie girl specialized industry and warehouses playground <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -308,7 +308,7 @@ Basics of warehouses: industry zone building vehicles deliver raw materials or g
 </p>
 
 <p>
-Warehouse KiNG <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Warehouse KiNG <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -320,7 +320,7 @@ These are for farming and forestry stuff, probably overkill but I wanted to have
 </p>
 
 <p>
-New foundations for our first high density residential district <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+New foundations for our first high density residential district <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -328,7 +328,7 @@ New foundations for our first high density residential district <img src="../../
 </p>
 
 <p>
-New folks arrive to PMC Residential 3 district, welcome everyone <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+New folks arrive to PMC Residential 3 district, welcome everyone <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -416,7 +416,7 @@ Going to do experiment, people in forums say that trees are good cover for noise
 </p>
 
 <p>
-Warehouses are behind the trees, can hardly spot them <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Warehouses are behind the trees, can hardly spot them <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -464,7 +464,7 @@ However that is another can of worms with the traffic, these locations were now 
 </p>
 
 <p>
-2022-08-18T08:46:00Z Game with latest savegame loaded up, lets see what we can do <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-18T08:46:00Z Game with latest savegame loaded up, lets see what we can do <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -476,7 +476,7 @@ Here I de-zoned PMC Forestry 1 district, then planted trees manually.
 </p>
 
 <p>
-Next I zoned it back and only one processor building appeared where all the rest were extractor buildings, meaning those "forest objects". So yes, specialized industry aka zoned industry does require natural resource! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Next I zoned it back and only one processor building appeared where all the rest were extractor buildings, meaning those "forest objects". So yes, specialized industry aka zoned industry does require natural resource! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -556,7 +556,7 @@ But I can already see the increased number of semi-trucks and other heavy vehicl
 </p>
 
 <p>
-Oh well, be careful what you wish for, you might get traffic jams! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Oh well, be careful what you wish for, you might get traffic jams! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -568,7 +568,7 @@ Created PMC Industry 2 district, already got the road grid, power lines connecte
 </p>
 
 <p>
-Final upgrade to PMC Forestry 1 district so we got some processor buildings too. Oh man, look at that traffic already <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Final upgrade to PMC Forestry 1 district so we got some processor buildings too. Oh man, look at that traffic already <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -596,7 +596,7 @@ Hmm I don't think PMC Ore 1 district has strong enough natural resources underne
 </p>
 
 <p>
-Grow city, grow! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Grow city, grow! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -612,7 +612,7 @@ Cargo harbor is now available.
 </p>
 
 <p>
-Sumbitch! My forestry industry burnt down! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Sumbitch! My forestry industry burnt down! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -636,7 +636,7 @@ Garbage service is running good, from left to right we got incinerator plant, la
 </p>
 
 <p>
-Don't ask my why this four lane collector road has houses built right up to it on north side and have this nice buffer empty space in south side <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Don't ask my why this four lane collector road has houses built right up to it on north side and have this nice buffer empty space in south side <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -656,7 +656,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-Keeping busy at the cargo train terminal <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Keeping busy at the cargo train terminal <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -772,7 +772,7 @@ This is actually pretty nice terrain for a city, I like it.
 </p>
 
 <p>
-2022-08-18T18:00:00Z Aayeah! We have achieved our goal, 100k population, whohoo! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-08-18T18:00:00Z Aayeah! We have achieved our goal, 100k population, whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -784,7 +784,7 @@ And not a moment too soon, was thinking about taking a break because this feels 
 </p>
 
 <p>
-2022-08-18T18:02:00Z Saved game and shutdown Cities Skylines, we are done with this terrains savegame for a while now <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-18T18:02:00Z Saved game and shutdown Cities Skylines, we are done with this terrains savegame for a while now <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

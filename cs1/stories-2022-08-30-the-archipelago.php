@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -36,11 +36,11 @@ Addons used: 81 tiles, camera position utility, cinematic camera extended v0.5.1
 </p>
 
 <p>
-Uh oh another piece of shit terrain, I just finished trying to start a savegame for "Prussian Peaks" terrain which was unusable heightmap with huge ArmA 3 alike mountains, now we get archipelago which is dozens of tiny islands, seriously? <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Uh oh another piece of shit terrain, I just finished trying to start a savegame for "Prussian Peaks" terrain which was unusable heightmap with huge ArmA 3 alike mountains, now we get archipelago which is dozens of tiny islands, seriously? <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Oh hell no <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Oh hell no <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

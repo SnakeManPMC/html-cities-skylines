@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -84,7 +84,7 @@ Bus stop for school areas, if possible place elementary and high schools close t
 </p>
 
 <p>
-Bus lines have to be loops, but this loop doesn't need to circle an area, it could be a specific important road back and forth in a straight line instead of deviating into different directions before merging again into the same road. Uhm difficult to explain without an image <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Bus lines have to be loops, but this loop doesn't need to circle an area, it could be a specific important road back and forth in a straight line instead of deviating into different directions before merging again into the same road. Uhm difficult to explain without an image <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -117,7 +117,7 @@ This header is unconfirmed info across the internet, please be aware when readin
 </p>
 
 <p>
-Bus depots should be placed on arterial roads where they get good access for the whole city. Don't put depot into some back corner of residential local road connection. However DON'T put bus depot directly to arterial road because buses cannot come back to the depot crossing the six lanes, so actually put the depot into local road RIGHT after connection to collector road and arterial road intersection. Got all that? Good <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Bus depots should be placed on arterial roads where they get good access for the whole city. Don't put depot into some back corner of residential local road connection. However DON'T put bus depot directly to arterial road because buses cannot come back to the depot crossing the six lanes, so actually put the depot into local road RIGHT after connection to collector road and arterial road intersection. Got all that? Good <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

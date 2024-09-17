@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -208,11 +208,11 @@ Last milestone done. I'm dead tired, snoozing off any moment now... still strugg
 </p>
 
 <p>
-Even though I loath these garbage WINTER terrains I am extremely enthusiastic and motivated now to finish this and the last savegame for these crap terrains, I want to get them done so I can focus to enjoy the last remaining normal non DLC (I think?) terrain game-plays <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Even though I loath these garbage WINTER terrains I am extremely enthusiastic and motivated now to finish this and the last savegame for these crap terrains, I want to get them done so I can focus to enjoy the last remaining normal non DLC (I think?) terrain game-plays <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-So lets get to it, I have 15hrs left in this day, hooyah! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+So lets get to it, I have 15hrs left in this day, hooyah! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -224,7 +224,7 @@ Population is now 87.8k which increased maybe thousand or two during my feeding 
 </p>
 
 <p>
-2022-09-06T05:58:00Z We have reached 100k population, yeah! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-06T05:58:00Z We have reached 100k population, yeah! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -236,7 +236,7 @@ Population is now 87.8k which increased maybe thousand or two during my feeding 
 </p>
 
 <p>
-When editing this story text realized I only took two screenshots heh, good, saves web server SSD space <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+When editing this story text realized I only took two screenshots heh, good, saves web server SSD space <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

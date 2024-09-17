@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -66,7 +66,7 @@ Hmm looks like specialized industry "steals" jobs from generic industry, check t
 <a href="screenshots/Cities-Skylines-2022-08-03T0001.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0001.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a> 
 
 <p>
-My generic industry is all out of educated workers, big time <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+My generic industry is all out of educated workers, big time <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -74,7 +74,7 @@ So it was flourishing and when I created forestry and ore industry, generic indu
 </p>
 
 <p>
-Uh oh <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Uh oh <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0006.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0006.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -88,7 +88,7 @@ I had industry 4.0 policy on, turned it off, maybe the bad generic industry jobs
 </p>
 
 <p>
-When population was 9.5k there was first traffic jam problem at the highway connection. Okay time to build a roundabout there, my heart goes out for those buildings that will get demolished <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+When population was 9.5k there was first traffic jam problem at the highway connection. Okay time to build a roundabout there, my heart goes out for those buildings that will get demolished <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0028.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0028.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -118,7 +118,7 @@ Saved game Azure_Gulf-3
 </p>
 
 <p>
-Build cargo train station for that big haulin' <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Build cargo train station for that big haulin' <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0137.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0137.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -154,7 +154,7 @@ Next goal was to tap into the oilfields in NW.
 <a href="screenshots/Cities-Skylines-2022-08-03T0310.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0310.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-Created new oil drilling area <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Created new oil drilling area <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0317.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0317.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -166,7 +166,7 @@ Here is the oil field area now with garbage collection and police station (no fi
 <a href="screenshots/Cities-Skylines-2022-08-03T0328.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0328.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-What I find interesting is that only outside connection here is cargo train terminal... okay fine, but can you please tell me how do all the workers get here, by magic? Maybe teleportation? Do they fly like superman? <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+What I find interesting is that only outside connection here is cargo train terminal... okay fine, but can you please tell me how do all the workers get here, by magic? Maybe teleportation? Do they fly like superman? <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -182,7 +182,7 @@ Hmm this is a slight bummer for me, it feels cheating, its unrealistic... Hmph.
 </p>
 
 <p>
-Pump it up! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Pump it up! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0333.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0333.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -214,13 +214,13 @@ This forest industrial area complained about lack of workers, so decided to dare
 <a href="screenshots/Cities-Skylines-2022-08-03T0426.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0426.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-Trains are keeping busy <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Trains are keeping busy <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0448.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0448.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-Its little bit hard to see from this big overview screenshot but man my trains are a mess, they are clogged up so bad <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Its little bit hard to see from this big overview screenshot but man my trains are a mess, they are clogged up so bad <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0456.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0456.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -236,7 +236,7 @@ Created that middle shortcut for our forestry industry area cargo train terminal
 </p>
 
 <p>
-Oh that reminds me, I need to focus on the <i>residential</i> zone growth instead of playing with forestry, ore, oil industry and trains <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+Oh that reminds me, I need to focus on the <i>residential</i> zone growth instead of playing with forestry, ore, oil industry and trains <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -308,7 +308,7 @@ Hopefully this works OK.
 </p>
 
 <p>
-2022-08-03T08:57:00Z Finished another big residential zoning project <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-03T08:57:00Z Finished another big residential zoning project <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0857.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0857.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -320,7 +320,7 @@ Hopefully this works OK.
 <a href="screenshots/Cities-Skylines-2022-08-03T0919.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0919.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-And NW rivers are getting drying up <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+And NW rivers are getting drying up <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T0920.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T0920.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -342,7 +342,7 @@ Another new low residential zone created, quite small this time.
 <a href="screenshots/Cities-Skylines-2022-08-03T1022.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1022.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-Slurry is sneaking ever so closer to our water intake pumps <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Slurry is sneaking ever so closer to our water intake pumps <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T1034.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1034.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -354,7 +354,7 @@ Painting new industrial zoning to north edge on a new grid tile I bought.
 <a href="screenshots/Cities-Skylines-2022-08-03T1058.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1058.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-03T11:13:00Z Its ready, lets run it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-03T11:13:00Z Its ready, lets run it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T1113.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1113.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
@@ -390,13 +390,13 @@ And another low density residential zone created.
 <a href="screenshots/Cities-Skylines-2022-08-03T1424.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1424.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-03T14:58:00Z Hooyah! Population hit magical 100,000 mark! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-03T14:58:00Z Hooyah! Population hit magical 100,000 mark! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-03T1459.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-03T1459.jpg" class="terrainimg" loading="lazy" alt="Story 2022-08-03 Azure Gulf Cities Skylines Screenshot"></a>
 
 <p>
-Savegame finished! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Savegame finished! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

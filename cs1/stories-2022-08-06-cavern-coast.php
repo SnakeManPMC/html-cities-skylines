@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -40,7 +40,7 @@ Well should have guessed it, two of the new mods did not work, sigh. Okay removi
 </p>
 
 <p>
-2022-08-06T00:24:00Z Finally in-game, new savegame created, now we start building this city <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-06T00:24:00Z Finally in-game, new savegame created, now we start building this city <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -80,7 +80,7 @@ This population was different from my copy-paste, heh strange.
 </p>
 
 <p>
-First screenshot of our lovely town <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+First screenshot of our lovely town <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0115.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0115.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -90,7 +90,7 @@ As population hit 5k I'm going to upgrade all dirt roads to asphalt roads. Goodb
 </p>
 
 <p>
-2022-08-06T01:23:00Z Almost ran out of money with that dirt to asphalt road upgrade, had like 75k when I started, ended up using 70k <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-06T01:23:00Z Almost ran out of money with that dirt to asphalt road upgrade, had like 75k when I started, ended up using 70k <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -102,7 +102,7 @@ Big town achievement was again 6.5k as my copy-paste text said from some other t
 </p>
 
 <p>
-First high density zones are in <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+First high density zones are in <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0133.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0133.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -120,7 +120,7 @@ Enabled small business enthusiast and big business benefactor policies.
 </p>
 
 <p>
-And here we go, our very first traffic problems <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+And here we go, our very first traffic problems <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0151.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0151.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -132,7 +132,7 @@ Created new highway outside connection entry to our industry area, hopefully thi
 <a href="screenshots/Cities-Skylines-2022-08-06T0154.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0154.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-... or not! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+... or not! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0156.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0156.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -178,11 +178,11 @@ New industry zone.
 <a href="screenshots/Cities-Skylines-2022-08-06T0331.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0331.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-And at this point I ran out of money, oops. Okay time to take a loan and at least connect electricity to the massive district. Lets put this into the poor planning department <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+And at this point I ran out of money, oops. Okay time to take a loan and at least connect electricity to the massive district. Lets put this into the poor planning department <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Uuh it was some work to get lights on to the folks <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Uuh it was some work to get lights on to the folks <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0337.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0337.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -198,7 +198,7 @@ Look at that demented traffic contraption, haha!
 </p>
 
 <p>
-Traffic is murder! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Traffic is murder! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0354.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0354.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -234,7 +234,7 @@ Saved game for Cavern_Coast_3 file name.
 </p>
 
 <p>
-And with that all the rest of 25 grid tiles were made available. Shopping! Shopping! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+And with that all the rest of 25 grid tiles were made available. Shopping! Shopping! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -268,7 +268,7 @@ Dunno why but I created this kind of odd almost alike amusement park area with c
 <a href="screenshots/Cities-Skylines-2022-08-06T0803.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0803.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-At least those folks from the nearby high density residential zone like to visit this place for relax <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+At least those folks from the nearby high density residential zone like to visit this place for relax <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T0804.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T0804.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -292,7 +292,7 @@ Nothing happened in the city, lets recap: RCI info bars 0% residential, 50% comm
 </p>
 
 <p>
-I absolutely have no fucking idea why the fuck is it always the same. Population is hilariously 95.5k so this savegame is almost done, but the thing is... exact same result awaits me on the NEXT terrain savegame again so I would really like to fucking learn what the hell am I doing wrong <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+I absolutely have no fucking idea why the fuck is it always the same. Population is hilariously 95.5k so this savegame is almost done, but the thing is... exact same result awaits me on the NEXT terrain savegame again so I would really like to fucking learn what the hell am I doing wrong <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -314,7 +314,7 @@ Reading one guide says often cities fail because too much commercial zones. Well
 </p>
 
 <p>
-This will be fun, if your situation is stalled, do something, ANYTHING <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+This will be fun, if your situation is stalled, do something, ANYTHING <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -342,7 +342,7 @@ Added couple of low commercial zones to PMC Residential 1 district, just to see 
 <a href="screenshots/Cities-Skylines-2022-08-06T1211.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T1211.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-06T14:55:00Z I tried to experiment something about zoning and, well didn't save the game, it went all belly up with my additional changes... I'm kind of tired too so didn't care much, so de-zoned all the high density areas and that was the end, heh soon after no population to mention and -1,000,000 in debt <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-06T14:55:00Z I tried to experiment something about zoning and, well didn't save the game, it went all belly up with my additional changes... I'm kind of tired too so didn't care much, so de-zoned all the high density areas and that was the end, heh soon after no population to mention and -1,000,000 in debt <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -350,7 +350,7 @@ Time to call it a night, adios.
 </p>
 
 <p>
-2022-08-06T22:20:00Z New city building day has started. I just woke up, doing my morning chores and because this LAST savegame is a waiting game for my 92k population to reach the last 8k residents, why not just start the game up and run it 3x speed on the background while I'll finish my morning computer chores, with good luck this terrains savegame would be finished by the time I'm done <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-06T22:20:00Z New city building day has started. I just woke up, doing my morning chores and because this LAST savegame is a waiting game for my 92k population to reach the last 8k residents, why not just start the game up and run it 3x speed on the background while I'll finish my morning computer chores, with good luck this terrains savegame would be finished by the time I'm done <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -362,13 +362,13 @@ While I was at the fridge, something happened, I think power lines got cut (in-g
 </p>
 
 <p>
-<img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+<img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T2255.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T2255.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-06T23:07:00Z Alright morning chores with days first meal are done. Current population is 31k <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-08-06T23:07:00Z Alright morning chores with days first meal are done. Current population is 31k <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -392,7 +392,7 @@ While Cities Skylines was shutdown I removed "CargoHoldFix" mod, dunno whats its
 </p>
 
 <p>
-2022-08-06T23:18:00Z Game restarted and savegame loaded back up, uuh. Okay no more lighting strikes, population now 92.8k and dropping <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-08-06T23:18:00Z Game restarted and savegame loaded back up, uuh. Okay no more lighting strikes, population now 92.8k and dropping <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -430,7 +430,7 @@ Well its working at least, might be darn ugly but it gives some traffic flow eas
 <a href="screenshots/Cities-Skylines-2022-08-06T2346.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T2346.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Continuing my roads improvements, NW corner in/out highway outside connection entrance. A hideous thing! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Continuing my roads improvements, NW corner in/out highway outside connection entrance. A hideous thing! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-06T2354.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-06T2354.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -442,7 +442,7 @@ Here is the SW corner new industry area, just did road traffic improvement for i
 <a href="screenshots/Cities-Skylines-2022-08-07T0004.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0004.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Saved game on oldest of the 4 rotating file names, just in case we have lighting strikes twice situation <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Saved game on oldest of the 4 rotating file names, just in case we have lighting strikes twice situation <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -488,27 +488,27 @@ Traffic flow 71% which is not horrible but still could be much better, the new o
 <a href="screenshots/Cities-Skylines-2022-08-07T0142.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0142.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Goodness gracious, look at this gridlock <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Goodness gracious, look at this gridlock <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0144.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0144.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Just discovered that in order for industrial buildings to "level up", you have to have all the same services there as with any other building, now this obviously makes no sense, in your industrial area you don't want to see a PARK or ELEMENTARY SCHOOL for fucks sake <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Just discovered that in order for industrial buildings to "level up", you have to have all the same services there as with any other building, now this obviously makes no sense, in your industrial area you don't want to see a PARK or ELEMENTARY SCHOOL for fucks sake <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Oh well, dunno even what benefits for such "level up" crap means so its not going to be my problem, I place a zone, buildings come up and they work, good enough for me. I leave stupid uNl0cK crap to the ecstacy kidz <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Oh well, dunno even what benefits for such "level up" crap means so its not going to be my problem, I place a zone, buildings come up and they work, good enough for me. I leave stupid uNl0cK crap to the ecstacy kidz <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0157.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0157.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Then population again 90k, uuh, when does this nightmare end... <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Then population again 90k, uuh, when does this nightmare end... <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Burn motherfucker! <b>BURN!</b> <img src="../../images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
+Burn motherfucker! <b>BURN!</b> <img src="https://www.pmctactical.org/images/smileys/icon_twisted.gif" alt="Smiley :twisted:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0201.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0201.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -520,13 +520,13 @@ This forest fire was no joke, fire department helicopters were really working to
 <a href="screenshots/Cities-Skylines-2022-08-07T0206.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0206.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Last flames go out, nice job fire department! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Last flames go out, nice job fire department! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0208.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0208.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-But man, look at the damage on overhead view... <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+But man, look at the damage on overhead view... <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0209.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0209.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -536,19 +536,19 @@ Our city is currently importing 11.6k and exporting 7k.
 </p>
 
 <p>
-Uuh look at those trains clogged up all the way to the harbor <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Uuh look at those trains clogged up all the way to the harbor <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0213.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0213.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Was creating second harbor for ships and cargo trains, this is in our series of "When You Are Stupid." <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Was creating second harbor for ships and cargo trains, this is in our series of "When You Are Stupid." <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0216.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0216.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-New cargo harbor is in action <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+New cargo harbor is in action <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0226.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0226.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -576,7 +576,7 @@ PMC Industry 1 district now has awesome metro line, connecting to the two other 
 <a href="screenshots/Cities-Skylines-2022-08-07T0255.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0255.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-2022-08-07T02:55:00Z BTW when does this savegame, you know, end? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+2022-08-07T02:55:00Z BTW when does this savegame, you know, end? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -594,17 +594,17 @@ Created new industry area, PMC Oil 2 which specialized in, you guessed right, oi
 </p>
 
 <p>
-2022-08-07T04:14:00Z BOOM DONE! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-07T04:14:00Z BOOM DONE! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-07T0415.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-07T0415.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a> 
 
 <p>
-100,000 population, baby! Aayeah! Finally! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+100,000 population, baby! Aayeah! Finally! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Saved game and exited, we are done here, I'm off to start a brand new terrain savegame <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Saved game and exited, we are done here, I'm off to start a brand new terrain savegame <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

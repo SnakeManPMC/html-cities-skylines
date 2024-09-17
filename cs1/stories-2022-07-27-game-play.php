@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -146,7 +146,7 @@ So guess I don't have a garbage problem but traffic problem.
 </p>
 
 <p>
-Anyone said Cities Skylines is a whack-a-mole? <img src="../../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Anyone said Cities Skylines is a whack-a-mole? <img src="https://www.pmctactical.org/images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -162,7 +162,7 @@ I'll probably stop playing again fairly soon, go back to good old <a href="https
 </p>
 
 <p>
-2022-07-27T22:14:00Z While googling alarm went off, time to cook some more food and eat <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-07-27T22:14:00Z While googling alarm went off, time to cook some more food and eat <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

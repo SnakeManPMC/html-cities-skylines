@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -48,7 +48,7 @@ First save game for Pearl_Bay_1 file name.
 </p>
 
 <p>
-2022-08-20T10:37:00Z Unpaused game, off we go <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-20T10:37:00Z Unpaused game, off we go <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -192,7 +192,7 @@ Want an example?
 </p>
 
 <p>
-Geez, look at that intersection with SIX lane arterial and TWO lane local road. Mr Expert been doing some city planning here <img src="../../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+Geez, look at that intersection with SIX lane arterial and TWO lane local road. Mr Expert been doing some city planning here <img src="https://www.pmctactical.org/images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
 </p>
 
 <p>
@@ -216,7 +216,7 @@ Its very temporary thing but when you zone new high density residential, there w
 </p>
 
 <p>
-A lot of folks <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+A lot of folks <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ Traffic jam on arterial road near highway connection has cleared. Wonder if it w
 </p>
 
 <p>
-Oh my, what have I done again? <img src="../../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+Oh my, what have I done again? <img src="https://www.pmctactical.org/images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
 <p>
@@ -248,7 +248,7 @@ Oh my, what have I done again? <img src="../../images/smileys/icon_confused.gif"
 </p>
 
 <p>
-Heh perhaps those three medium size warehouses were a bit too much for that location <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Heh perhaps those three medium size warehouses were a bit too much for that location <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -284,7 +284,7 @@ And with this saved game and went to grab a bite to eat while game is running in
 </p>
 
 <p>
-Last milestone achieved, now we get to purchase the whole terrain, always a nice task <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Last milestone achieved, now we get to purchase the whole terrain, always a nice task <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -316,7 +316,7 @@ But I'll try adding office zones one 4 x 4 unit square setup at the time until t
 </p>
 
 <p>
-Do I need to step up my public transport? <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Do I need to step up my public transport? <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

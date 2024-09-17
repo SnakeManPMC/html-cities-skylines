@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -116,7 +116,7 @@ Saved game for Regal_Hills_3 file name.
 </p>
 
 <p>
-Not much, eh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Not much, eh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

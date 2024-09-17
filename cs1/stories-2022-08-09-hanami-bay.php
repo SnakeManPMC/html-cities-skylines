@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -116,13 +116,13 @@ Now we get to start placing those high density zones which gives us massive amou
 </p>
 
 <p>
-While I was eating all the currently assigned zones got filled up to the brim <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+While I was eating all the currently assigned zones got filled up to the brim <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1135.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1135.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Boom, grow! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Boom, grow! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1142.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1142.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -146,7 +146,7 @@ Here we can see how big these realistic population buildings are. Just to transc
 </p>
 
 <p>
-Zoned some offices, one building came up with 63 workers <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Zoned some offices, one building came up with 63 workers <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -154,7 +154,7 @@ Zoned some offices, one building came up with 63 workers <img src="../../images/
 </p>
 
 <p>
-Look at these time stamps, now that we have high density residential buildings our population shoots through the roof! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Look at these time stamps, now that we have high density residential buildings our population shoots through the roof! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -164,13 +164,13 @@ Biggest industrial building I've seen so far is 25 workers.
 <a href="screenshots/Cities-Skylines-2022-08-09T1203.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1203.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Growth is crazy now! <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Growth is crazy now! <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1204.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1204.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Yikes! Office with ninety (90) ! workers! <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Yikes! Office with ninety (90) ! workers! <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1207.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1207.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -186,7 +186,7 @@ Looking mighty fine.
 <a href="screenshots/Cities-Skylines-2022-08-09T1217.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1217.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Hmm, growth rate is pretty silly heh, gotta love it <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Hmm, growth rate is pretty silly heh, gotta love it <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1238.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1238.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -200,17 +200,17 @@ Did first save game for Hanami_Bay_1 file name, almost forgot heh.
 </p>
 
 <p>
-2022-08-09T13:05:00Z Took a quick 25min break here, now back in action. High density residential development has ceased, no more buildings come up, RCI is 0%, 50%, 100%. Ouch guess we need to add some industrial <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-08-09T13:05:00Z Took a quick 25min break here, now back in action. High density residential development has ceased, no more buildings come up, RCI is 0%, 50%, 100%. Ouch guess we need to add some industrial <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Went a bit overboard with PMC Industrial MEGA district? <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Went a bit overboard with PMC Industrial MEGA district? <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1334.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1334.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Electric Snake! <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Electric Snake! <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1348.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1348.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -230,7 +230,7 @@ Created cargo train terminal to PMC Industrial MEGA. Well, its on the horizon yo
 <a href="screenshots/Cities-Skylines-2022-08-09T1418.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1418.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-Apparently there is some randomness on those building at least office worker amounts, now found office with one hundred (100) ! workers, whoah dude! <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+Apparently there is some randomness on those building at least office worker amounts, now found office with one hundred (100) ! workers, whoah dude! <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1424.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1424.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -240,7 +240,7 @@ Apparently there is some randomness on those building at least office worker amo
 </p>
 
 <p>
-Logistics Rallye <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Logistics Rallye <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1448.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1448.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -260,7 +260,7 @@ Last milestone reached, aayeah, now can "buy the map!!1" hehe.
 </p>
 
 <p>
-Got around and bought all the terrain grid tiles, now I own this joint <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Got around and bought all the terrain grid tiles, now I own this joint <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1520.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1520.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -306,7 +306,7 @@ Alright going to fix those, they definitely wont because RCI info bar stalled st
 </p>
 
 <p>
-2022-08-09T15:57:00Z Alarm went off, been awake 17hrs now, don't feel tired, just enthusiastic to keep going so I will <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2022-08-09T15:57:00Z Alarm went off, been awake 17hrs now, don't feel tired, just enthusiastic to keep going so I will <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -334,21 +334,21 @@ Most importantly with the 25 terrain grid tiles addon there is absolutely no sho
 </p>
 
 <p>
-Next savegame will be done with some relaxed "leave plenty of room" type method. Cant wait <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Next savegame will be done with some relaxed "leave plenty of room" type method. Cant wait <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-While writing that above timestamp text I didn't even realize, our population is 98.8k now, whoah how did that happen, must have been the building "level up" thing as it increased body count, great. This savegame will be over tonight, in few minutes in fact <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+While writing that above timestamp text I didn't even realize, our population is 98.8k now, whoah how did that happen, must have been the building "level up" thing as it increased body count, great. This savegame will be over tonight, in few minutes in fact <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-08-09T16:42:00Z That's it, we got 100k population! Whohoo! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+2022-08-09T16:42:00Z That's it, we got 100k population! Whohoo! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-08-09T1642.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-08-09T1642.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
 
 <p>
-This is awesome, its past my bedtime and what better feeling going to sleep when having just finished another terrain savegame, I love it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+This is awesome, its past my bedtime and what better feeling going to sleep when having just finished another terrain savegame, I love it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -28,7 +28,7 @@
 </p>
 
 <p>
-2021-11-05T01:47:00Z Was watching unnamed tv show marathon on editing computers monitor (not from TV), so was really bored overall, thought to myself... why not switch to gaming computer, play Cities Skylines while watching unnamed tv show from the BenQ 24" 1080p second monitor... I mean it doesn't even diminish the release resolution and would be less boring for me <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2021-11-05T01:47:00Z Was watching unnamed tv show marathon on editing computers monitor (not from TV), so was really bored overall, thought to myself... why not switch to gaming computer, play Cities Skylines while watching unnamed tv show from the BenQ 24" 1080p second monitor... I mean it doesn't even diminish the release resolution and would be less boring for me <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -48,7 +48,7 @@ So here I am, installed Cities Skylines back and ready to continue watching tv s
 </p>
 
 <p>
-2021-11-05T03:36:00Z Feeding time over, back to not caring about this city <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2021-11-05T03:36:00Z Feeding time over, back to not caring about this city <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -44,7 +44,7 @@ Seeing it the first time just made me sigh, yep its kind of like islands, water 
 </p>
 
 <p>
-Speaking of which, this is now the second last terrain in my stories terrains marathon game-play series <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Speaking of which, this is now the second last terrain in my stories terrains marathon game-play series <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -80,11 +80,11 @@ In theory, a wishful fantasy, if everything goes really well, I could maybe fini
 </p>
 
 <p>
-Lets try to get it done <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Lets try to get it done <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I cant imagine how my life will be after this over a month long Cities Skylines gaming marathon is over <img src="../../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+I cant imagine how my life will be after this over a month long Cities Skylines gaming marathon is over <img src="https://www.pmctactical.org/images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -108,11 +108,11 @@ Saved game for Shady_Strands_2 file name.
 </p>
 
 <p>
-One thing at the time crasshopper... but I'm already dreaming about the last terrain being really nice temperate or boreal (although boreal has bad morning new fog lighting) so I could really enjoy it <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+One thing at the time crasshopper... but I'm already dreaming about the last terrain being really nice temperate or boreal (although boreal has bad morning new fog lighting) so I could really enjoy it <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Really hoping it wont be some shit heightmap with european theme, ugh <img src="../../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+Really hoping it wont be some shit heightmap with european theme, ugh <img src="https://www.pmctactical.org/images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <p>
@@ -240,7 +240,7 @@ This milestone gives nuclear power plant and cargo hub (ship + train terminal).
 </p>
 
 <p>
-That was the last milestone, now we push on to victory <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+That was the last milestone, now we push on to victory <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -252,7 +252,7 @@ That was the last milestone, now we push on to victory <img src="../../images/sm
 </p>
 
 <p>
-Awesome, blind man builds a city! <img src="../../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+Awesome, blind man builds a city! <img src="https://www.pmctactical.org/images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
@@ -260,7 +260,7 @@ Awesome, blind man builds a city! <img src="../../images/smileys/icon_mrgreen.gi
 </p>
 
 <p>
-Once collecting all screenshots I realized that wow only took four, heh dunno why so little, guess I was too excited to finish this savegame as fast as possible that there was no time to take no stinking screenshots <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Once collecting all screenshots I realized that wow only took four, heh dunno why so little, guess I was too excited to finish this savegame as fast as possible that there was no time to take no stinking screenshots <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

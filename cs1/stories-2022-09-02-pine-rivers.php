@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<?php include("../../include/google-analytics.php"); ?>
+<?php include("/var/www/pmctactical.org/include/google-analytics.php"); ?>
 
 </head>
 <body>
@@ -92,11 +92,11 @@ Saved game for Pine_Rivers_2 file name.
 </p>
 
 <p>
-Funny side stats info, I should probably eat days first meal always before starting a new savegame because in the beginning especially in the first two three milestones its hands on constant taking care of the city and growing it. Yes at some point you get to that boring low density residential growing part where you are just sitting, waiting and yawning while game does its thing, but overall the beginning phase is really hectic. I might in the future on these last few terrains left to play-through get full morning chores done before launching the game so I can have some un-interrupted game-play fun <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Funny side stats info, I should probably eat days first meal always before starting a new savegame because in the beginning especially in the first two three milestones its hands on constant taking care of the city and growing it. Yes at some point you get to that boring low density residential growing part where you are just sitting, waiting and yawning while game does its thing, but overall the beginning phase is really hectic. I might in the future on these last few terrains left to play-through get full morning chores done before launching the game so I can have some un-interrupted game-play fun <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-09-03T00:04:00Z Tiny Town population 1.6k. And with this milestone I am leaving game paused in the milestone achievement menu dialog and go get myself a days first meal <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-03T00:04:00Z Tiny Town population 1.6k. And with this milestone I am leaving game paused in the milestone achievement menu dialog and go get myself a days first meal <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -164,7 +164,7 @@ Trains have arrived. Passenger train station and cargo train terminal, brings in
 </p>
 
 <p>
-Now we are in the phase where we just grow the city like mad men. Sure there are some buildings to get access to like crematorium etc, but nothing that would change how the city works fundamentally. I never used those airports to their full capacity and never even tried the airports DLC so dunno about those. So yeah, lets spam that high density residential and get to our goal <img src="../../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Now we are in the phase where we just grow the city like mad men. Sure there are some buildings to get access to like crematorium etc, but nothing that would change how the city works fundamentally. I never used those airports to their full capacity and never even tried the airports DLC so dunno about those. So yeah, lets spam that high density residential and get to our goal <img src="https://www.pmctactical.org/images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -176,7 +176,7 @@ Crematorium, large water tower and advanced inland water treatment plant are now
 </p>
 
 <p>
-New folks coming in using passenger train station, awesome <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+New folks coming in using passenger train station, awesome <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <a href="screenshots/Cities-Skylines-2022-09-03T0318.jpg" target="_blank"><img src="screenshots/thumbs/Cities-Skylines-2022-09-03T0318.jpg" class="terrainimg" loading="lazy" alt="PMC Cities Skylines Screenshot"></a>
@@ -208,7 +208,7 @@ Saved and paused game.
 </p>
 
 <p>
-2022-09-03T05:46:00Z Back, now we continue pushing this story terrain game-play marathon through <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-09-03T05:46:00Z Back, now we continue pushing this story terrain game-play marathon through <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -228,7 +228,7 @@ Upgraded public transport system a bit, new metro line looping from residential 
 </p>
 
 <p>
-People like to shop, eh? <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+People like to shop, eh? <img src="https://www.pmctactical.org/images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -256,7 +256,7 @@ And that was the last milestone. Now a small hop to our goal, lets get it done.
 </p>
 
 <p>
-2022-09-03T08:54:00Z Yes! Another terrain savegame done, reached 100k population <img src="../../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+2022-09-03T08:54:00Z Yes! Another terrain savegame done, reached 100k population <img src="https://www.pmctactical.org/images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
