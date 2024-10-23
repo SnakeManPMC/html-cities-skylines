@@ -92,6 +92,10 @@ Important announcements and releases history for Cities Skylines games.
 2024-09-04T08:00:00Z v1.1.8f1 - Decorations Patch <a href="https://store.steampowered.com/news/app/949230/view/4620217676525954573" target="_blank">Patch Notes</a>.
 </p>
 
+<p>
+2024-10-23T08:00:00Z v1.1.10f1 <a href="https://store.steampowered.com/news/app/949230/view/4549290420785517435" target="_blank">Patch Notes</a>.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
